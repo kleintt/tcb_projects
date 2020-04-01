@@ -1,0 +1,2214 @@
+﻿Country,Country Name,City,Parameter Value
+AF,Afghanistan,Charikar,charikar
+AF,Afghanistan,Kabul,kabul
+AL,Albania,Berat,berat
+AL,Albania,Burrel,burrel
+AL,Albania,Elbasan,elbasan
+AL,Albania,Fier,fier
+AL,Albania,Lushnje,lushnje
+AL,Albania,Pogradec,pogradec
+AL,Albania,Shkoder,shkoder
+AL,Albania,Tirana,tirana
+DZ,Algeria,Adrar,adrar
+DZ,Algeria,Algiers,algiers
+DZ,Algeria,Annaba,annaba
+DZ,Algeria,Biskra,biskra
+DZ,Algeria,Blida,blida
+DZ,Algeria,Bouira,bouira
+DZ,Algeria,Constantine,constantine
+DZ,Algeria,Djelfa,djelfa
+DZ,Algeria,Guelma,guelma
+DZ,Algeria,Illizi,illizi
+DZ,Algeria,Jijel,jijel
+DZ,Algeria,Khenchela,khenchela
+DZ,Algeria,Laghouat,laghouat
+DZ,Algeria,Mascara,mascara
+DZ,Algeria,Medea,medea
+DZ,Algeria,Mila,mila
+DZ,Algeria,Mostaganem,mostaganem
+DZ,Algeria,M'sila,m'sila
+DZ,Algeria,Oran,oran
+DZ,Algeria,Ouargla,ouargla
+DZ,Algeria,Relizane,relizane
+DZ,Algeria,Saida,saida
+DZ,Algeria,Skikda,skikda
+DZ,Algeria,Tindouf,tindouf
+DZ,Algeria,Tipasa,tipasa
+DZ,Algeria,Tissemsilt,tissemsilt
+DZ,Algeria,Touggourt,touggourt
+AO,Angola,Benguela,benguela
+AO,Angola,Huambo,huambo
+AO,Angola,Lobito,lobito
+AO,Angola,Luanda,luanda
+AO,Angola,Lubango,lubango
+AR,Argentina,Balcarce,balcarce
+AR,Argentina,Campana,campana
+AR,Argentina,Chamical,chamical
+AR,Argentina,Chascomus,chascomus
+AR,Argentina,Chilecito,chilecito
+AR,Argentina,Chivilcoy,chivilcoy
+AR,Argentina,Corrientes,corrientes
+AR,Argentina,Formosa,formosa
+AR,Argentina,Goya,goya
+AR,Argentina,Gualeguay,gualeguay
+AR,Argentina,Junin,junin
+AR,Argentina,Lobos,lobos
+AR,Argentina,Mendoza,mendoza
+AR,Argentina,Mercedes,mercedes
+AR,Argentina,Pergamino,pergamino
+AR,Argentina,Posadas,posadas
+AR,Argentina,Rawson,rawson
+AR,Argentina,Reconquista,reconquista
+AR,Argentina,Resistencia,resistencia
+AR,Argentina,Rosario,rosario
+AR,Argentina,Salta,salta
+AR,Argentina,Ushuaia,ushuaia
+AM,Armenia,Armavir,armavir
+AM,Armenia,Ashtarak,ashtarak
+AM,Armenia,Gyumri,gyumri
+AM,Armenia,Hrazdan,hrazdan
+AM,Armenia,Vanadzor,vanadzor
+AM,Armenia,Yerevan,yerevan
+AU,Australia,Adelaide,adelaide
+AU,Australia,Brisbane,brisbane
+AU,Australia,Caboolture,caboolture
+AU,Australia,Canberra,canberra
+AU,Australia,Melbourne,melbourne
+AU,Australia,Perth,perth
+AU,Australia,Sydney,sydney
+AU,Australia,Townsville,townsville
+AT,Austria,Innsbruck,innsbruck
+AT,Austria,Linz,linz
+AT,Austria,Vienna,vienna
+AZ,Azerbaijan,Baku,baku
+AZ,Azerbaijan,Lankaran,lankaran
+AZ,Azerbaijan,Sabirabad,sabirabad
+AZ,Azerbaijan,Xirdalan,xirdalan
+BS,Bahamas,Freeport,freeport
+BS,Bahamas,Nassau,nassau
+BH,Bahrain,Manama,manama
+BD,Bangladesh,Chittagong,chittagong
+BD,Bangladesh,Comilla,comilla
+BD,Bangladesh,Dhaka,dhaka
+BD,Bangladesh,Jessore,jessore
+BD,Bangladesh,Khulna,khulna
+BD,Bangladesh,Mymensingh,mymensingh
+BD,Bangladesh,Narayanganj,narayanganj
+BD,Bangladesh,Sylhet,sylhet
+BB,Barbados,Bridgetown,bridgetown
+BY,Belarus,Babruysk,babruysk
+BY,Belarus,Hrodna,hrodna
+BY,Belarus,Maladzyechna,maladzyechna
+BY,Belarus,Mazyr,mazyr
+BY,Belarus,Minsk,minsk
+BE,Belgium,Brussels,brussels
+BE,Belgium,Charleroi,charleroi
+BE,Belgium,Namur,namur
+BZ,Belize,Belmopan,belmopan
+BZ,Belize,Corozal,corozal
+BJ,Benin,Cotonou,cotonou
+BJ,Benin,Lokossa,lokossa
+BJ,Benin,Natitingou,natitingou
+BJ,Benin,Porto-Novo,porto-novo
+BO,Bolivia,Cochabamba,cochabamba
+BO,Bolivia,Sucre,sucre
+BO,Bolivia,Tarija,tarija
+BO,Bolivia,Trinidad,trinidad
+BA,Bosnia and Herzegovina,Brcko,brcko
+BA,Bosnia and Herzegovina,Mostar,mostar
+BA,Bosnia and Herzegovina,Prijedor,prijedor
+BA,Bosnia and Herzegovina,Sarajevo,sarajevo
+BA,Bosnia and Herzegovina,Tuzla,tuzla
+BA,Bosnia and Herzegovina,Zenica,zenica
+BW,Botswana,Francistown,francistown
+BW,Botswana,Gaborone,gaborone
+BR,Brazil,Abaetetuba,abaetetuba
+BR,Brazil,Acu,acu
+BR,Brazil,Altamira,altamira
+BR,Brazil,Alvorada,alvorada
+BR,Brazil,Americana,americana
+BR,Brazil,Aracaju,aracaju
+BR,Brazil,Aracuai,aracuai
+BR,Brazil,Arapiraca,arapiraca
+BR,Brazil,Arcoverde,arcoverde
+BR,Brazil,Barbacena,barbacena
+BR,Brazil,Barreiras,barreiras
+BR,Brazil,Barreiros,barreiros
+BR,Brazil,Barretos,barretos
+BR,Brazil,Bauru,bauru
+BR,Brazil,Blumenau,blumenau
+BR,Brazil,Brumado,brumado
+BR,Brazil,Caico,caico
+BR,Brazil,Cameta,cameta
+BR,Brazil,Camocim,camocim
+BR,Brazil,Campinas,campinas
+BR,Brazil,Canoas,canoas
+BR,Brazil,Canoinhas,canoinhas
+BR,Brazil,Carpina,carpina
+BR,Brazil,Caruaru,caruaru
+BR,Brazil,Cascavel,cascavel
+BR,Brazil,Castro,castro
+BR,Brazil,Catanduva,catanduva
+BR,Brazil,Chapadinha,chapadinha
+BR,Brazil,Curitiba,curitiba
+BR,Brazil,Curvelo,curvelo
+BR,Brazil,Dourados,dourados
+BR,Brazil,Fortaleza,fortaleza
+BR,Brazil,Franca,franca
+BR,Brazil,Garanhuns,garanhuns
+BR,Brazil,Goianesia,goianesia
+BR,Brazil,Guaira,guaira
+BR,Brazil,Guanambi,guanambi
+BR,Brazil,Guarapuava,guarapuava
+BR,Brazil,Guaratingueta,guaratingueta
+BR,Brazil,Imperatriz,imperatriz
+BR,Brazil,Inhumas,inhumas
+BR,Brazil,Ipatinga,ipatinga
+BR,Brazil,Ipora,ipora
+BR,Brazil,Irece,irece
+BR,Brazil,Itabuna,itabuna
+BR,Brazil,Itapetinga,itapetinga
+BR,Brazil,Jaguaquara,jaguaquara
+BR,Brazil,Jaguarao,jaguarao
+BR,Brazil,Janauba,janauba
+BR,Brazil,Joinville,joinville
+BR,Brazil,Juazeiro,juazeiro
+BR,Brazil,Leopoldina,leopoldina
+BR,Brazil,Limeira,limeira
+BR,Brazil,Linhares,linhares
+BR,Brazil,Londrina,londrina
+BR,Brazil,Manaus,manaus
+BR,Brazil,Maracaju,maracaju
+BR,Brazil,Mineiros,mineiros
+BR,Brazil,Mossoro,mossoro
+BR,Brazil,Natal,natal
+BR,Brazil,Niquelandia,niquelandia
+BR,Brazil,Olinda,olinda
+BR,Brazil,Osorio,osorio
+BR,Brazil,Palmas,palmas
+BR,Brazil,Paracatu,paracatu
+BR,Brazil,Paracuru,paracuru
+BR,Brazil,Paragominas,paragominas
+BR,Brazil,Passos,passos
+BR,Brazil,Pelotas,pelotas
+BR,Brazil,Petrolina,petrolina
+BR,Brazil,Pindamonhangaba,pindamonhangaba
+BR,Brazil,Piracicaba,piracicaba
+BR,Brazil,Quarai,quarai
+BR,Brazil,Recife,recife
+BR,Brazil,Salvador,salvador
+BR,Brazil,Santos,santos
+BR,Brazil,Sinop,sinop
+BR,Brazil,Sobral,sobral
+BR,Brazil,Sorocaba,sorocaba
+BR,Brazil,Taua,taua
+BR,Brazil,Teresina,teresina
+BR,Brazil,Tubarao,tubarao
+BR,Brazil,Uba,uba
+BR,Brazil,Uberaba,uberaba
+BR,Brazil,Uruguaiana,uruguaiana
+BR,Brazil,Vilhena,vilhena
+BG,Bulgaria,Blagoevgrad,blagoevgrad
+BG,Bulgaria,Burgas,burgas
+BG,Bulgaria,Kardzhali,kardzhali
+BG,Bulgaria,Pazardzhik,pazardzhik
+BG,Bulgaria,Pernik,pernik
+BG,Bulgaria,Pleven,pleven
+BG,Bulgaria,Plovdiv,plovdiv
+BG,Bulgaria,Shumen,shumen
+BG,Bulgaria,Silistra,silistra
+BG,Bulgaria,Sliven,sliven
+BG,Bulgaria,Sofia,sofia
+BG,Bulgaria,Varna,varna
+BG,Bulgaria,Vidin,vidin
+BG,Bulgaria,Vratsa,vratsa
+BG,Bulgaria,Yambol,yambol
+BF,Burkina Faso,Ouagadougou,ouagadougou
+BI,Burundi,Bubanza,bubanza
+BI,Burundi,Bujumbura,bujumbura
+BI,Burundi,Kayanza,kayanza
+BI,Burundi,Mwaro,mwaro
+BI,Burundi,Rutana,rutana
+KH,Cambodia,Battambang,battambang
+KH,Cambodia,Kampot,kampot
+CM,Cameroon,Bamenda,bamenda
+CM,Cameroon,Buea,buea
+CM,Cameroon,Douala,douala
+CA,Canada,Abbotsford,abbotsford
+CA,Canada,Baie-Comeau,baie-comeau
+CA,Canada,Calgary,calgary
+CA,Canada,Cornwall,cornwall
+CA,Canada,Courtenay,courtenay
+CA,Canada,Edmonton,edmonton
+CA,Canada,Edmundston,edmundston
+CA,Canada,Hamilton,hamilton
+CA,Canada,Kitchener,kitchener
+CA,Canada,Moncton,moncton
+CA,Canada,Montreal,montreal
+CA,Canada,Nanaimo,nanaimo
+CA,Canada,Oshawa,oshawa
+CA,Canada,Ottawa,ottawa
+CA,Canada,Penticton,penticton
+CA,Canada,Saskatoon,saskatoon
+CA,Canada,Sherbrooke,sherbrooke
+CA,Canada,Toronto,toronto
+CA,Canada,Vancouver,vancouver
+CA,Canada,Victoria,victoria
+CA,Canada,Winnipeg,winnipeg
+CF,Central African Republic,Obo,obo
+CL,Chile,Angol,angol
+CL,Chile,Antofagasta,antofagasta
+CL,Chile,Arica,arica
+CL,Chile,Calama,calama
+CL,Chile,Chillan,chillan
+CL,Chile,Coquimbo,coquimbo
+CL,Chile,Coronel,coronel
+CL,Chile,Iquique,iquique
+CL,Chile,Osorno,osorno
+CL,Chile,Ovalle,ovalle
+CL,Chile,Rancagua,rancagua
+CL,Chile,Santiago,santiago
+CL,Chile,Talca,talca
+CL,Chile,Talcahuano,talcahuano
+CL,Chile,Temuco,temuco
+CL,Chile,Valdivia,valdivia
+CL,Chile,Vallenar,vallenar
+CL,Chile,Vicuna,vicuna
+CN,China,Ankang,ankang
+CN,China,Anqing,anqing
+CN,China,Anshan,anshan
+CN,China,Anyang,anyang
+CN,China,Baishan,baishan
+CN,China,Baoding,baoding
+CN,China,Baotou,baotou
+CN,China,Beihai,beihai
+CN,China,Beijing,beijing
+CN,China,Beipiao,beipiao
+CN,China,Bengbu,bengbu
+CN,China,Cangzhou,cangzhou
+CN,China,Changchun,changchun
+CN,China,Changde,changde
+CN,China,Changsha,changsha
+CN,China,Changzhi,changzhi
+CN,China,Changzhou,changzhou
+CN,China,Chaoyang,chaoyang
+CN,China,Chaozhou,chaozhou
+CN,China,Chengdu,chengdu
+CN,China,Chenzhou,chenzhou
+CN,China,Chifeng,chifeng
+CN,China,Chongqing,chongqing
+CN,China,Dali,dali
+CN,China,Dalian,dalian
+CN,China,Dandong,dandong
+CN,China,Daqing,daqing
+CN,China,Datong,datong
+CN,China,Deyang,deyang
+CN,China,Dezhou,dezhou
+CN,China,Dongguan,dongguan
+CN,China,Foshan,foshan
+CN,China,Fushun,fushun
+CN,China,Fuxin,fuxin
+CN,China,Fuyang,fuyang
+CN,China,Fuyu,fuyu
+CN,China,Fuzhou,fuzhou
+CN,China,Ganzhou,ganzhou
+CN,China,Guangyuan,guangyuan
+CN,China,Guangzhou,guangzhou
+CN,China,Guilin,guilin
+CN,China,Guiyang,guiyang
+CN,China,Haikou,haikou
+CN,China,Handan,handan
+CN,China,Hangzhou,hangzhou
+CN,China,Hanzhong,hanzhong
+CN,China,Harbin,harbin
+CN,China,Hefei,hefei
+CN,China,Heihe,heihe
+CN,China,Hengshui,hengshui
+CN,China,Hengyang,hengyang
+CN,China,Heyuan,heyuan
+CN,China,Heze,heze
+CN,China,Hohhot,hohhot
+CN,China,Huaibei,huaibei
+CN,China,Huainan,huainan
+CN,China,Huangshi,huangshi
+CN,China,Huizhou,huizhou
+CN,China,Huzhou,huzhou
+CN,China,Jiamusi,jiamusi
+CN,China,Jiangmen,jiangmen
+CN,China,Jiaozuo,jiaozuo
+CN,China,Jiaxing,jiaxing
+CN,China,Jieshou,jieshou
+CN,China,Jinan,jinan
+CN,China,Jingmen,jingmen
+CN,China,Jinhua,jinhua
+CN,China,Jining,jining
+CN,China,Jinzhou,jinzhou
+CN,China,Jiujiang,jiujiang
+CN,China,Jixi,jixi
+CN,China,Kaifeng,kaifeng
+CN,China,Kunming,kunming
+CN,China,Laiwu,laiwu
+CN,China,Langfang,langfang
+CN,China,Lanzhou,lanzhou
+CN,China,Leshan,leshan
+CN,China,Lhasa,lhasa
+CN,China,Liaocheng,liaocheng
+CN,China,Liaoyang,liaoyang
+CN,China,Lijiang,lijiang
+CN,China,Linfen,linfen
+CN,China,Linjiang,linjiang
+CN,China,Linqing,linqing
+CN,China,Linyi,linyi
+CN,China,Lishui,lishui
+CN,China,Liuzhou,liuzhou
+CN,China,Luohe,luohe
+CN,China,Luoyang,luoyang
+CN,China,Luzhou,luzhou
+CN,China,Maoming,maoming
+CN,China,Meizhou,meizhou
+CN,China,Mianyang,mianyang
+CN,China,Mishan,mishan
+CN,China,Nanchang,nanchang
+CN,China,Nanchong,nanchong
+CN,China,Nanjing,nanjing
+CN,China,Nanning,nanning
+CN,China,Nanping,nanping
+CN,China,Nantong,nantong
+CN,China,Nanyang,nanyang
+CN,China,Neijiang,neijiang
+CN,China,Ningbo,ningbo
+CN,China,Pingdingshan,pingdingshan
+CN,China,Pingdu,pingdu
+CN,China,Pingliang,pingliang
+CN,China,Pingxiang,pingxiang
+CN,China,Putian,putian
+CN,China,Qingdao,qingdao
+CN,China,Qinhuangdao,qinhuangdao
+CN,China,Qinzhou,qinzhou
+CN,China,Qiqihar,qiqihar
+CN,China,Quanzhou,quanzhou
+CN,China,Quzhou,quzhou
+CN,China,Rizhao,rizhao
+CN,China,Sanya,sanya
+CN,China,Shanghai,shanghai
+CN,China,Shangrao,shangrao
+CN,China,Shantou,shantou
+CN,China,Shaoguan,shaoguan
+CN,China,Shaoxing,shaoxing
+CN,China,Shenzhen,shenzhen
+CN,China,Shiyan,shiyan
+CN,China,Shizuishan,shizuishan
+CN,China,Shuangyashan,shuangyashan
+CN,China,Shuozhou,shuozhou
+CN,China,Siping,siping
+CN,China,Suihua,suihua
+CN,China,Suining,suining
+CN,China,Suzhou,suzhou
+CN,China,Taiyuan,taiyuan
+CN,China,Taizhou,taizhou
+CN,China,Tianjin,tianjin
+CN,China,Tianshui,tianshui
+CN,China,Tieling,tieling
+CN,China,Tongliao,tongliao
+CN,China,Tongren,tongren
+CN,China,Weifang,weifang
+CN,China,Weihai,weihai
+CN,China,Weinan,weinan
+CN,China,Wenzhou,wenzhou
+CN,China,Wuhan,wuhan
+CN,China,Wuhu,wuhu
+CN,China,Wuwei,wuwei
+CN,China,Wuxi,wuxi
+CN,China,Wuzhou,wuzhou
+CN,China,Xiamen,xiamen
+CN,China,Xiangfan,xiangfan
+CN,China,Xiangtan,xiangtan
+CN,China,Xianyang,xianyang
+CN,China,Xichang,xichang
+CN,China,Xingyi,xingyi
+CN,China,Xining,xining
+CN,China,Xinxiang,xinxiang
+CN,China,Xinyang,xinyang
+CN,China,Xinyi,xinyi
+CN,China,Xinyu,xinyu
+CN,China,Xinzhou,xinzhou
+CN,China,Xuanzhou,xuanzhou
+CN,China,Xuchang,xuchang
+CN,China,Xuzhou,xuzhou
+CN,China,Yancheng,yancheng
+CN,China,Yangjiang,yangjiang
+CN,China,Yangquan,yangquan
+CN,China,Yangzhou,yangzhou
+CN,China,Yantai,yantai
+CN,China,Yibin,yibin
+CN,China,Yichang,yichang
+CN,China,Yichun,yichun
+CN,China,Yinchuan,yinchuan
+CN,China,Yining,yining
+CN,China,Yiyang,yiyang
+CN,China,Yongzhou,yongzhou
+CN,China,Yulin,yulin
+CN,China,Yuxi,yuxi
+CN,China,Zaozhuang,zaozhuang
+CN,China,Zhangjiakou,zhangjiakou
+CN,China,Zhangzhou,zhangzhou
+CN,China,Zhanjiang,zhanjiang
+CN,China,Zhaoqing,zhaoqing
+CN,China,Zhengzhou,zhengzhou
+CN,China,Zhenjiang,zhenjiang
+CN,China,Zhoukou,zhoukou
+CN,China,Zhuhai,zhuhai
+CN,China,Zhuozhou,zhuozhou
+CN,China,Zibo,zibo
+CN,China,Zigong,zigong
+CN,China,Zunyi,zunyi
+CO,Colombia,Armenia,armenia
+CO,Colombia,Barrancabermeja,barrancabermeja
+CO,Colombia,Barranquilla,barranquilla
+CO,Colombia,Bello,bello
+CO,Colombia,Bucaramanga,bucaramanga
+CO,Colombia,Buenaventura,buenaventura
+CO,Colombia,Cartagena,cartagena
+CO,Colombia,Cartago,cartago
+CO,Colombia,Cienaga,cienaga
+CO,Colombia,Duitama,duitama
+CO,Colombia,Ibague,ibague
+CO,Colombia,Ipiales,ipiales
+CO,Colombia,Manizales,manizales
+CO,Colombia,Neiva,neiva
+CO,Colombia,Pasto,pasto
+CO,Colombia,Pereira,pereira
+CO,Colombia,Popayan,popayan
+CO,Colombia,Riohacha,riohacha
+CO,Colombia,Sincelejo,sincelejo
+CO,Colombia,Socorro,socorro
+CO,Colombia,Sogamoso,sogamoso
+CO,Colombia,Tame,tame
+CO,Colombia,Tunja,tunja
+CO,Colombia,Valledupar,valledupar
+CO,Colombia,Villavicencio,villavicencio
+CO,Colombia,Yopal,yopal
+KM,Comoros,Moroni,moroni
+CG,Congo (Brazzaville),Djambala,djambala
+CD,"Congo, (Kinshasa)",Kinshasa,kinshasa
+CD,"Congo, (Kinshasa)",Yangambi,yangambi
+CR,Costa Rica,Alajuela,alajuela
+CR,Costa Rica,Heredia,heredia
+CR,Costa Rica,Liberia,liberia
+CR,Costa Rica,Puntarenas,puntarenas
+CR,Costa Rica,Quesada,quesada
+CI,Côte d'Ivoire,Abidjan,abidjan
+CI,Côte d'Ivoire,San-Pedro,san-pedro
+HR,Croatia,Bjelovar,bjelovar
+HR,Croatia,Dubrovnik,dubrovnik
+HR,Croatia,Koprivnica,koprivnica
+HR,Croatia,Osijek,osijek
+HR,Croatia,Pula,pula
+HR,Croatia,Rijeka,rijeka
+HR,Croatia,Sisak,sisak
+HR,Croatia,Split,split
+HR,Croatia,Virovitica,virovitica
+HR,Croatia,Vukovar,vukovar
+HR,Croatia,Zadar,zadar
+HR,Croatia,Zagreb,zagreb
+CW,Curaçao,Willemstad,willemstad
+CY,Cyprus,Nicosia,nicosia
+CZ,Czech Republic,Brno,brno
+CZ,Czech Republic,Jihlava,jihlava
+CZ,Czech Republic,Liberec,liberec
+CZ,Czech Republic,Olomouc,olomouc
+CZ,Czech Republic,Ostrava,ostrava
+CZ,Czech Republic,Pardubice,pardubice
+CZ,Czech Republic,Prague,prague
+DM,Dominica,Roseau,roseau
+DO,Dominican Republic,Azua,azua
+DO,Dominican Republic,Bavaro,bavaro
+DO,Dominican Republic,Bonao,bonao
+DO,Dominican Republic,Cotui,cotui
+DO,Dominican Republic,Dajabon,dajabon
+DO,Dominican Republic,Moca,moca
+EC,Ecuador,Ambato,ambato
+EC,Ecuador,Babahoyo,babahoyo
+EC,Ecuador,Cayambe,cayambe
+EC,Ecuador,Cuenca,cuenca
+EC,Ecuador,Esmeraldas,esmeraldas
+EC,Ecuador,Guayaquil,guayaquil
+EC,Ecuador,Ibarra,ibarra
+EC,Ecuador,Jipijapa,jipijapa
+EC,Ecuador,Latacunga,latacunga
+EC,Ecuador,Loja,loja
+EC,Ecuador,Machala,machala
+EC,Ecuador,Manta,manta
+EC,Ecuador,Milagro,milagro
+EC,Ecuador,Portoviejo,portoviejo
+EC,Ecuador,Puyo,puyo
+EC,Ecuador,Quito,quito
+EC,Ecuador,Riobamba,riobamba
+EC,Ecuador,Salinas,salinas
+EC,Ecuador,Tena,tena
+EG,Egypt,Aswan,aswan
+EG,Egypt,Cairo,cairo
+EG,Egypt,Damanhur,damanhur
+EG,Egypt,Hurghada,hurghada
+EG,Egypt,Ismailia,ismailia
+EG,Egypt,Luxor,luxor
+EG,Egypt,Sohag,sohag
+EG,Egypt,Suez,suez
+EG,Egypt,Tanta,tanta
+EG,Egypt,Zagazig,zagazig
+SV,El Salvador,Ahuachapan,ahuachapan
+SV,El Salvador,Chalatenango,chalatenango
+SV,El Salvador,Sonsonate,sonsonate
+SV,El Salvador,Usulutan,usulutan
+GQ,Equatorial Guinea,Malabo,malabo
+EE,Estonia,Haapsalu,haapsalu
+EE,Estonia,Tallinn,tallinn
+FJ,Fiji,Suva,suva
+FI,Finland,Helsinki,helsinki
+FI,Finland,Lappeenranta,lappeenranta
+FI,Finland,Pori,pori
+FI,Finland,Tampere,tampere
+FR,France,Amiens,amiens
+FR,France,Angers,angers
+FR,France,Arras,arras
+FR,France,Auxerre,auxerre
+FR,France,Bordeaux,bordeaux
+FR,France,Bourges,bourges
+FR,France,Brest,brest
+FR,France,Caen,caen
+FR,France,Calais,calais
+FR,France,Clermont-Ferrand,clermont-ferrand
+FR,France,Dijon,dijon
+FR,France,Grenoble,grenoble
+FR,France,Lille,lille
+FR,France,Limoges,limoges
+FR,France,Lorient,lorient
+FR,France,Lyon,lyon
+FR,France,Marseille,marseille
+FR,France,Melun,melun
+FR,France,Metz,metz
+FR,France,Montpellier,montpellier
+FR,France,Mulhouse,mulhouse
+FR,France,Nancy,nancy
+FR,France,Nantes,nantes
+FR,France,Nevers,nevers
+FR,France,Nice,nice
+FR,France,Paris,paris
+FR,France,Reims,reims
+FR,France,Rennes,rennes
+FR,France,Roanne,roanne
+FR,France,Rouen,rouen
+FR,France,Strasbourg,strasbourg
+FR,France,Toulon,toulon
+FR,France,Toulouse,toulouse
+FR,France,Tours,tours
+FR,France,Troyes,troyes
+FR,France,Versailles,versailles
+FR,France,Vichy,vichy
+GF,French Guiana,Cayenne,cayenne
+PF,French Polynesia,Papeete,papeete
+GA,Gabon,Libreville,libreville
+GM,Gambia,Banjul,banjul
+GE,Georgia,Batumi,batumi
+GE,Georgia,Kutaisi,kutaisi
+GE,Georgia,Tbilisi,tbilisi
+GE,Georgia,Telavi,telavi
+GE,Georgia,Zugdidi,zugdidi
+DE,Germany,Augsburg,augsburg
+DE,Germany,Berlin,berlin
+DE,Germany,Bielefeld,bielefeld
+DE,Germany,Bonn,bonn
+DE,Germany,Bremen,bremen
+DE,Germany,Bremerhaven,bremerhaven
+DE,Germany,Chemnitz,chemnitz
+DE,Germany,Cologne,cologne
+DE,Germany,Dortmund,dortmund
+DE,Germany,Dresden,dresden
+DE,Germany,Duisburg,duisburg
+DE,Germany,Essen,essen
+DE,Germany,Freiburg,freiburg
+DE,Germany,Gera,gera
+DE,Germany,Hamburg,hamburg
+DE,Germany,Heidelberg,heidelberg
+DE,Germany,Karlsruhe,karlsruhe
+DE,Germany,Kassel,kassel
+DE,Germany,Kiel,kiel
+DE,Germany,Leipzig,leipzig
+DE,Germany,Mainz,mainz
+DE,Germany,Mannheim,mannheim
+DE,Germany,Munich,munich
+DE,Germany,Oldenburg,oldenburg
+DE,Germany,Stuttgart,stuttgart
+DE,Germany,Wuppertal,wuppertal
+GH,Ghana,Accra,accra
+GH,Ghana,Tamale,tamale
+GR,Greece,Athens,athens
+GR,Greece,Kalamata,kalamata
+GR,Greece,Katerini,katerini
+GR,Greece,Kavala,kavala
+GR,Greece,Larissa,larissa
+GR,Greece,Thessaloniki,thessaloniki
+GR,Greece,Tripoli,tripoli
+GR,Greece,Volos,volos
+GR,Greece,Xanthi,xanthi
+GT,Guatemala,Chiquimula,chiquimula
+GT,Guatemala,Coban,coban
+GT,Guatemala,Jalapa,jalapa
+GT,Guatemala,Quetzaltenango,quetzaltenango
+GT,Guatemala,Zacapa,zacapa
+GN,Guinea,Conakry,conakry
+HT,Haiti,Port-au-Prince,port-au-prince
+HN,Honduras,Comayagua,comayagua
+HN,Honduras,Tegucigalpa,tegucigalpa
+HU,Hungary,Budapest,budapest
+HU,Hungary,Debrecen,debrecen
+HU,Hungary,Miskolc,miskolc
+HU,Hungary,Nagykanizsa,nagykanizsa
+HU,Hungary,Nyiregyhaza,nyiregyhaza
+HU,Hungary,Sopron,sopron
+HU,Hungary,Szeged,szeged
+HU,Hungary,Szolnok,szolnok
+HU,Hungary,Szombathely,szombathely
+HU,Hungary,Zalaegerszeg,zalaegerszeg
+IN,India,Ahmedabad,ahmedabad
+IN,India,Ahmednagar,ahmednagar
+IN,India,Ajmer,ajmer
+IN,India,Akola,akola
+IN,India,Alappuzha,alappuzha
+IN,India,Allahabad,allahabad
+IN,India,Ambala,ambala
+IN,India,Amritsar,amritsar
+IN,India,Aurangabad,aurangabad
+IN,India,Barddhaman,barddhaman
+IN,India,Bareilly,bareilly
+IN,India,Belgaum,belgaum
+IN,India,Bhilwara,bhilwara
+IN,India,Bhiwandi,bhiwandi
+IN,India,Bhopal,bhopal
+IN,India,Chandigarh,chandigarh
+IN,India,Chennai,chennai
+IN,India,Coimbatore,coimbatore
+IN,India,Cuttack,cuttack
+IN,India,Delhi,delhi
+IN,India,Dhanbad,dhanbad
+IN,India,Faridabad,faridabad
+IN,India,Gandhinagar,gandhinagar
+IN,India,Ghaziabad,ghaziabad
+IN,India,Gulbarga,gulbarga
+IN,India,Guntur,guntur
+IN,India,Gurgaon,gurgaon
+IN,India,Guwahati,guwahati
+IN,India,Hapur,hapur
+IN,India,Hoshiarpur,hoshiarpur
+IN,India,Hubli,hubli
+IN,India,Hyderabad,hyderabad
+IN,India,Imphal,imphal
+IN,India,Indore,indore
+IN,India,Jaipur,jaipur
+IN,India,Jammu,jammu
+IN,India,Jhansi,jhansi
+IN,India,Jodhpur,jodhpur
+IN,India,Kalyan,kalyan
+IN,India,Kanpur,kanpur
+IN,India,Kohima,kohima
+IN,India,Kolhapur,kolhapur
+IN,India,Kolkata,kolkata
+IN,India,Kollam,kollam
+IN,India,Kota,kota
+IN,India,Kozhikode,kozhikode
+IN,India,Kumbakonam,kumbakonam
+IN,India,Lucknow,lucknow
+IN,India,Ludhiana,ludhiana
+IN,India,Madurai,madurai
+IN,India,Mangalore,mangalore
+IN,India,Medinipur,medinipur
+IN,India,Meerut,meerut
+IN,India,Mumbai,mumbai
+IN,India,Muzaffarpur,muzaffarpur
+IN,India,Mysore,mysore
+IN,India,Nagercoil,nagercoil
+IN,India,Nagpur,nagpur
+IN,India,Nellore,nellore
+IN,India,Ongole,ongole
+IN,India,Panipat,panipat
+IN,India,Patna,patna
+IN,India,Pune,pune
+IN,India,Raichur,raichur
+IN,India,Raipur,raipur
+IN,India,Rajahmundry,rajahmundry
+IN,India,Ranchi,ranchi
+IN,India,Raurkela,raurkela
+IN,India,Saharanpur,saharanpur
+IN,India,Siliguri,siliguri
+IN,India,Silvassa,silvassa
+IN,India,Sonipat,sonipat
+IN,India,Thiruvananthapuram,thiruvananthapuram
+IN,India,Tiruppur,tiruppur
+IN,India,Ujjain,ujjain
+IN,India,Vadodara,vadodara
+IN,India,Varanasi,varanasi
+IN,India,Vellore,vellore
+IN,India,Vijayawada,vijayawada
+ID,Indonesia,Balikpapan,balikpapan
+ID,Indonesia,Bandung,bandung
+ID,Indonesia,Banyuwangi,banyuwangi
+ID,Indonesia,Bekasi,bekasi
+ID,Indonesia,Blitar,blitar
+ID,Indonesia,Bogor,bogor
+ID,Indonesia,Cilacap,cilacap
+ID,Indonesia,Cirebon,cirebon
+ID,Indonesia,Denpasar,denpasar
+ID,Indonesia,Gorontalo,gorontalo
+ID,Indonesia,Indramayu,indramayu
+ID,Indonesia,Jakarta,jakarta
+ID,Indonesia,Jayapura,jayapura
+ID,Indonesia,Jember,jember
+ID,Indonesia,Kediri,kediri
+ID,Indonesia,Kupang,kupang
+ID,Indonesia,Magelang,magelang
+ID,Indonesia,Majene,majene
+ID,Indonesia,Malang,malang
+ID,Indonesia,Manado,manado
+ID,Indonesia,Manokwari,manokwari
+ID,Indonesia,Martapura,martapura
+ID,Indonesia,Mataram,mataram
+ID,Indonesia,Medan,medan
+ID,Indonesia,Padang,padang
+ID,Indonesia,Palangkaraya,palangkaraya
+ID,Indonesia,Palembang,palembang
+ID,Indonesia,Palopo,palopo
+ID,Indonesia,Palu,palu
+ID,Indonesia,Parepare,parepare
+ID,Indonesia,Pasuruan,pasuruan
+ID,Indonesia,Pati,pati
+ID,Indonesia,Pekanbaru,pekanbaru
+ID,Indonesia,Pontianak,pontianak
+ID,Indonesia,Salatiga,salatiga
+ID,Indonesia,Samarinda,samarinda
+ID,Indonesia,Semarang,semarang
+ID,Indonesia,Serang,serang
+ID,Indonesia,Sorong,sorong
+ID,Indonesia,Surabaya,surabaya
+ID,Indonesia,Surakarta,surakarta
+ID,Indonesia,Tarakan,tarakan
+ID,Indonesia,Tasikmalaya,tasikmalaya
+ID,Indonesia,Tegal,tegal
+ID,Indonesia,Ternate,ternate
+ID,Indonesia,Timika,timika
+ID,Indonesia,Tuban,tuban
+ID,Indonesia,Yogyakarta,yogyakarta
+IR,"Iran, Islamic Republic of",Arak,arak
+IR,"Iran, Islamic Republic of",Ilam,ilam
+IR,"Iran, Islamic Republic of",Isfahan,isfahan
+IR,"Iran, Islamic Republic of",Mashhad,mashhad
+IR,"Iran, Islamic Republic of",Qom,qom
+IR,"Iran, Islamic Republic of",Rasht,rasht
+IR,"Iran, Islamic Republic of",Tehran,tehran
+IR,"Iran, Islamic Republic of",Yazd,yazd
+IQ,Iraq,Baghdad,baghdad
+IQ,Iraq,Baqubah,baqubah
+IQ,Iraq,Dahuk,dahuk
+IQ,Iraq,Karbala,karbala
+IQ,Iraq,Kirkuk,kirkuk
+IQ,Iraq,Mosul,mosul
+IQ,Iraq,Samarra,samarra
+IQ,Iraq,Tikrit,tikrit
+IE,Ireland,Drogheda,drogheda
+IE,Ireland,Dublin,dublin
+IE,Ireland,Galway,galway
+IE,Ireland,Limerick,limerick
+IE,Ireland,Nenagh,nenagh
+IM,Isle of Man,Douglas,douglas
+IL,Israel,Haifa,haifa
+IL,Israel,Jerusalem,jerusalem
+IT,Italy,Ancona,ancona
+IT,Italy,Aosta,aosta
+IT,Italy,Bari,bari
+IT,Italy,Bergamo,bergamo
+IT,Italy,Bologna,bologna
+IT,Italy,Brindisi,brindisi
+IT,Italy,Cagliari,cagliari
+IT,Italy,Caserta,caserta
+IT,Italy,Catania,catania
+IT,Italy,Civitavecchia,civitavecchia
+IT,Italy,Florence,florence
+IT,Italy,Foggia,foggia
+IT,Italy,Genoa,genoa
+IT,Italy,Lecce,lecce
+IT,Italy,Livorno,livorno
+IT,Italy,Milan,milan
+IT,Italy,Modena,modena
+IT,Italy,Naples,naples
+IT,Italy,Novara,novara
+IT,Italy,Palermo,palermo
+IT,Italy,Pescara,pescara
+IT,Italy,Ragusa,ragusa
+IT,Italy,Rome,rome
+IT,Italy,Salerno,salerno
+IT,Italy,Sassari,sassari
+IT,Italy,Taranto,taranto
+IT,Italy,Trieste,trieste
+IT,Italy,Turin,turin
+IT,Italy,Udine,udine
+IT,Italy,Verona,verona
+JM,Jamaica,Falmouth,falmouth
+JM,Jamaica,Kingston,kingston
+JM,Jamaica,Lucea,lucea
+JP,Japan,Chiba,chiba
+JP,Japan,Fukuoka,fukuoka
+JP,Japan,Fukushima,fukushima
+JP,Japan,Hamamatsu,hamamatsu
+JP,Japan,Kanazawa,kanazawa
+JP,Japan,Kobe,kobe
+JP,Japan,Kochi,kochi
+JP,Japan,Kumamoto,kumamoto
+JP,Japan,Kyoto,kyoto
+JP,Japan,Maebashi,maebashi
+JP,Japan,Matsuyama,matsuyama
+JP,Japan,Mito,mito
+JP,Japan,Nagoya,nagoya
+JP,Japan,Nara,nara
+JP,Japan,Okayama,okayama
+JP,Japan,Osaka,osaka
+JP,Japan,Saitama,saitama
+JP,Japan,Sapporo,sapporo
+JP,Japan,Shizuoka,shizuoka
+JP,Japan,Takamatsu,takamatsu
+JP,Japan,Tokyo,tokyo
+JP,Japan,Toyama,toyama
+JP,Japan,Utsunomiya,utsunomiya
+JP,Japan,Yamagata,yamagata
+JP,Japan,Yokohama,yokohama
+JO,Jordan,Amman,amman
+JO,Jordan,Irbid,irbid
+KZ,Kazakhstan,Almaty,almaty
+KZ,Kazakhstan,Atyrau,atyrau
+KZ,Kazakhstan,Ekibastuz,ekibastuz
+KZ,Kazakhstan,Khromtau,khromtau
+KZ,Kazakhstan,Kokshetau,kokshetau
+KZ,Kazakhstan,Pavlodar,pavlodar
+KZ,Kazakhstan,Ridder,ridder
+KZ,Kazakhstan,Semey,semey
+KZ,Kazakhstan,Shymkent,shymkent
+KZ,Kazakhstan,Taraz,taraz
+KZ,Kazakhstan,Temirtau,temirtau
+KE,Kenya,Eldoret,eldoret
+KE,Kenya,Embu,embu
+KE,Kenya,Kajiado,kajiado
+KE,Kenya,Kisumu,kisumu
+KE,Kenya,Mombasa,mombasa
+KE,Kenya,Nairobi,nairobi
+KE,Kenya,Nakuru,nakuru
+KR,Korea (South),Andong,andong
+KR,Korea (South),Busan,busan
+KR,Korea (South),Changwon,changwon
+KR,Korea (South),Chuncheon,chuncheon
+KR,Korea (South),Daegu,daegu
+KR,Korea (South),Daejeon,daejeon
+KR,Korea (South),Gangneung,gangneung
+KR,Korea (South),Gunsan,gunsan
+KR,Korea (South),Gwangju,gwangju
+KR,Korea (South),Gyeongju,gyeongju
+KR,Korea (South),Hongseong,hongseong
+KR,Korea (South),Iksan,iksan
+KR,Korea (South),Incheon,incheon
+KR,Korea (South),Jeonju,jeonju
+KR,Korea (South),Mokpo,mokpo
+KR,Korea (South),Muan,muan
+KR,Korea (South),Pohang,pohang
+KR,Korea (South),Sejong,sejong
+KR,Korea (South),Seoul,seoul
+KR,Korea (South),Sokcho,sokcho
+KR,Korea (South),Suwon,suwon
+KR,Korea (South),Ulsan,ulsan
+KR,Korea (South),Wonju,wonju
+KR,Korea (South),Yeosu,yeosu
+KG,Kyrgyzstan,Bishkek,bishkek
+KG,Kyrgyzstan,Osh,osh
+LA,Lao PDR,Vientiane,vientiane
+LV,Latvia,Jelgava,jelgava
+LV,Latvia,Riga,riga
+LB,Lebanon,Beirut,beirut
+LS,Lesotho,Maseru,maseru
+LR,Liberia,Monrovia,monrovia
+LT,Lithuania,Kaunas,kaunas
+LT,Lithuania,Pasvalys,pasvalys
+LT,Lithuania,Raseiniai,raseiniai
+LT,Lithuania,Vilnius,vilnius
+MK,"Macedonia, Republic of",Bitola,bitola
+MK,"Macedonia, Republic of",Bogdanci,bogdanci
+MK,"Macedonia, Republic of",Debar,debar
+MK,"Macedonia, Republic of",Delcevo,delcevo
+MK,"Macedonia, Republic of",Gevgelija,gevgelija
+MK,"Macedonia, Republic of",Gostivar,gostivar
+MK,"Macedonia, Republic of",Kavadarci,kavadarci
+MK,"Macedonia, Republic of",Kumanovo,kumanovo
+MK,"Macedonia, Republic of",Negotino,negotino
+MK,"Macedonia, Republic of",Prilep,prilep
+MK,"Macedonia, Republic of",Radovis,radovis
+MK,"Macedonia, Republic of",Skopje,skopje
+MK,"Macedonia, Republic of",Struga,struga
+MK,"Macedonia, Republic of",Strumica,strumica
+MK,"Macedonia, Republic of",Tetovo,tetovo
+MG,Madagascar,Antananarivo,antananarivo
+MG,Madagascar,Mahajanga,mahajanga
+MG,Madagascar,Toamasina,toamasina
+MW,Malawi,Blantyre,blantyre
+MW,Malawi,Lilongwe,lilongwe
+MY,Malaysia,Butterworth,butterworth
+MY,Malaysia,Ipoh,ipoh
+MY,Malaysia,Kuantan,kuantan
+MY,Malaysia,Kuching,kuching
+MY,Malaysia,Malacca,malacca
+MY,Malaysia,Seremban,seremban
+MY,Malaysia,Sibu,sibu
+ML,Mali,Bamako,bamako
+ML,Mali,Koulikoro,koulikoro
+MT,Malta,Imsida,imsida
+MT,Malta,Luqa,luqa
+MT,Malta,Naxxar,naxxar
+MT,Malta,Paola,paola
+MT,Malta,Sliema,sliema
+MQ,Martinique,Fort-de-France,fort-de-france
+MR,Mauritania,Kiffa,kiffa
+MR,Mauritania,Nouakchott,nouakchott
+MU,Mauritius,Curepipe,curepipe
+MX,Mexico,Aguascalientes,aguascalientes
+MX,Mexico,Campeche,campeche
+MX,Mexico,Celaya,celaya
+MX,Mexico,Chetumal,chetumal
+MX,Mexico,Chilpancingo,chilpancingo
+MX,Mexico,Coatzacoalcos,coatzacoalcos
+MX,Mexico,Colima,colima
+MX,Mexico,Cuauhtemoc,cuauhtemoc
+MX,Mexico,Cuernavaca,cuernavaca
+MX,Mexico,Durango,durango
+MX,Mexico,Ensenada,ensenada
+MX,Mexico,Fresnillo,fresnillo
+MX,Mexico,Guadalajara,guadalajara
+MX,Mexico,Guamuchil,guamuchil
+MX,Mexico,Guasave,guasave
+MX,Mexico,Guaymas,guaymas
+MX,Mexico,Hermosillo,hermosillo
+MX,Mexico,Irapuato,irapuato
+MX,Mexico,Manzanillo,manzanillo
+MX,Mexico,Mexicali,mexicali
+MX,Mexico,Monclova,monclova
+MX,Mexico,Monterrey,monterrey
+MX,Mexico,Morelia,morelia
+MX,Mexico,Nogales,nogales
+MX,Mexico,Orizaba,orizaba
+MX,Mexico,Pachuca,pachuca
+MX,Mexico,Puebla,puebla
+MX,Mexico,Reynosa,reynosa
+MX,Mexico,Salamanca,salamanca
+MX,Mexico,Saltillo,saltillo
+MX,Mexico,Tampico,tampico
+MX,Mexico,Tapachula,tapachula
+MX,Mexico,Tepic,tepic
+MX,Mexico,Tijuana,tijuana
+MX,Mexico,Toluca,toluca
+MX,Mexico,Torreon,torreon
+MX,Mexico,Uruapan,uruapan
+MX,Mexico,Veracruz,veracruz
+MX,Mexico,Villahermosa,villahermosa
+MX,Mexico,Xalapa,xalapa
+MX,Mexico,Zamora,zamora
+MX,Mexico,Zumpango,zumpango
+FM,"Micronesia, Federated States of",Tofol,tofol
+MD,Moldova,Briceni,briceni
+MD,Moldova,Cahul,cahul
+MD,Moldova,Calarasi,calarasi
+MD,Moldova,Cantemir,cantemir
+MD,Moldova,Chisinau,chisinau
+MD,Moldova,Cimislia,cimislia
+MD,Moldova,Comrat,comrat
+MD,Moldova,Donduseni,donduseni
+MD,Moldova,Drochia,drochia
+MD,Moldova,Floresti,floresti
+MD,Moldova,Glodeni,glodeni
+MD,Moldova,Ialoveni,ialoveni
+MD,Moldova,Nisporeni,nisporeni
+MD,Moldova,Ocnita,ocnita
+MD,Moldova,Singerei,singerei
+MD,Moldova,Soroca,soroca
+MD,Moldova,Straseni,straseni
+MD,Moldova,Taraclia,taraclia
+MD,Moldova,Telenesti,telenesti
+MD,Moldova,Tiraspol,tiraspol
+MD,Moldova,Ungheni,ungheni
+MN,Mongolia,Dalandzadgad,dalandzadgad
+ME,Montenegro,Bar,bar
+ME,Montenegro,Budva,budva
+ME,Montenegro,Kotor,kotor
+ME,Montenegro,Plav,plav
+ME,Montenegro,Podgorica,podgorica
+MA,Morocco,Agadir,agadir
+MA,Morocco,Casablanca,casablanca
+MA,Morocco,Kenitra,kenitra
+MA,Morocco,Marrakesh,marrakesh
+MA,Morocco,Meknes,meknes
+MA,Morocco,Oujda,oujda
+MA,Morocco,Rabat,rabat
+MA,Morocco,Settat,settat
+MA,Morocco,Tangier,tangier
+MZ,Mozambique,Maputo,maputo
+MZ,Mozambique,Matola,matola
+MZ,Mozambique,Nampula,nampula
+MM,Myanmar,Mandalay,mandalay
+MM,Myanmar,Ye,ye
+NA,Namibia,Grootfontein,grootfontein
+NA,Namibia,Mariental,mariental
+NA,Namibia,Ongwediva,ongwediva
+NA,Namibia,Oshakati,oshakati
+NA,Namibia,Otjiwarongo,otjiwarongo
+NA,Namibia,Rundu,rundu
+NA,Namibia,Swakopmund,swakopmund
+NA,Namibia,Windhoek,windhoek
+NP,Nepal,Biratnagar,biratnagar
+NP,Nepal,Hetauda,hetauda
+NP,Nepal,Kathmandu,kathmandu
+NP,Nepal,Pokhara,pokhara
+NL,Netherlands,Amsterdam,amsterdam
+NL,Netherlands,Eindhoven,eindhoven
+NL,Netherlands,Groningen,groningen
+NL,Netherlands,Haarlem,haarlem
+NL,Netherlands,Maastricht,maastricht
+NL,Netherlands,Rotterdam,rotterdam
+NL,Netherlands,Utrecht,utrecht
+NC,New Caledonia,Noumea,noumea
+NC,New Caledonia,We,we
+NZ,New Zealand,Auckland,auckland
+NZ,New Zealand,Christchurch,christchurch
+NZ,New Zealand,Invercargill,invercargill
+NZ,New Zealand,Nelson,nelson
+NZ,New Zealand,Tauranga,tauranga
+NZ,New Zealand,Wellington,wellington
+NI,Nicaragua,Bluefields,bluefields
+NI,Nicaragua,Boaco,boaco
+NI,Nicaragua,Chinandega,chinandega
+NI,Nicaragua,Esteli,esteli
+NI,Nicaragua,Jinotega,jinotega
+NI,Nicaragua,Managua,managua
+NI,Nicaragua,Masaya,masaya
+NI,Nicaragua,Ocotal,ocotal
+NI,Nicaragua,Rivas,rivas
+NE,Niger,Niamey,niamey
+NG,Nigeria,Akure,akure
+NG,Nigeria,Calabar,calabar
+NG,Nigeria,Enugu,enugu
+NG,Nigeria,Ibadan,ibadan
+NG,Nigeria,Ikeja,ikeja
+NG,Nigeria,Lagos,lagos
+NG,Nigeria,Uyo,uyo
+NG,Nigeria,Warri,warri
+NO,Norway,Bergen,bergen
+NO,Norway,Hamar,hamar
+NO,Norway,Oslo,oslo
+NO,Norway,Stavanger,stavanger
+OM,Oman,Muscat,muscat
+OM,Oman,Salalah,salalah
+PK,Pakistan,Abbottabad,abbottabad
+PK,Pakistan,Bahawalpur,bahawalpur
+PK,Pakistan,Chiniot,chiniot
+PK,Pakistan,Faisalabad,faisalabad
+PK,Pakistan,Gilgit,gilgit
+PK,Pakistan,Gujranwala,gujranwala
+PK,Pakistan,Gujrat,gujrat
+PK,Pakistan,Islamabad,islamabad
+PK,Pakistan,Karachi,karachi
+PK,Pakistan,Kasur,kasur
+PK,Pakistan,Kohat,kohat
+PK,Pakistan,Lahore,lahore
+PK,Pakistan,Larkana,larkana
+PK,Pakistan,Mansehra,mansehra
+PK,Pakistan,Mardan,mardan
+PK,Pakistan,Multan,multan
+PK,Pakistan,Okara,okara
+PK,Pakistan,Peshawar,peshawar
+PK,Pakistan,Quetta,quetta
+PK,Pakistan,Rawalpindi,rawalpindi
+PK,Pakistan,Sahiwal,sahiwal
+PK,Pakistan,Sargodha,sargodha
+PK,Pakistan,Sukkur,sukkur
+PW,Palau,Koror,koror
+PA,Panama,David,david
+PE,Peru,Arequipa,arequipa
+PE,Peru,Cajamarca,cajamarca
+PE,Peru,Callao,callao
+PE,Peru,Chancay,chancay
+PE,Peru,Chiclayo,chiclayo
+PE,Peru,Cusco,cusco
+PE,Peru,Huacho,huacho
+PE,Peru,Huancayo,huancayo
+PE,Peru,Huaraz,huaraz
+PE,Peru,Ica,ica
+PE,Peru,Iquitos,iquitos
+PE,Peru,Juliaca,juliaca
+PE,Peru,Lima,lima
+PE,Peru,Moquegua,moquegua
+PE,Peru,Paita,paita
+PE,Peru,Pisco,pisco
+PE,Peru,Piura,piura
+PE,Peru,Puno,puno
+PE,Peru,Tacna,tacna
+PE,Peru,Trujillo,trujillo
+PH,Philippines,Antipolo,antipolo
+PH,Philippines,Balanga,balanga
+PH,Philippines,Batangas,batangas
+PH,Philippines,Bayombong,bayombong
+PH,Philippines,Butuan,butuan
+PH,Philippines,Dagupan,dagupan
+PH,Philippines,Kidapawan,kidapawan
+PH,Philippines,Koronadal,koronadal
+PH,Philippines,Legazpi,legazpi
+PH,Philippines,Malabon,malabon
+PH,Philippines,Malaybalay,malaybalay
+PH,Philippines,Malolos,malolos
+PH,Philippines,Manila,manila
+PH,Philippines,Masbate,masbate
+PH,Philippines,Nabunturan,nabunturan
+PH,Philippines,Naga,naga
+PH,Philippines,Navotas,navotas
+PH,Philippines,Siquijor,siquijor
+PH,Philippines,Sorsogon,sorsogon
+PH,Philippines,Tandag,tandag
+PH,Philippines,Valenzuela,valenzuela
+PH,Philippines,Vigan,vigan
+PL,Poland,Bydgoszcz,bydgoszcz
+PL,Poland,Gdynia,gdynia
+PL,Poland,Gliwice,gliwice
+PL,Poland,Katowice,katowice
+PL,Poland,Koszalin,koszalin
+PL,Poland,Krakow,krakow
+PL,Poland,Lublin,lublin
+PL,Poland,Olsztyn,olsztyn
+PL,Poland,Opole,opole
+PL,Poland,Poznan,poznan
+PL,Poland,Szczecin,szczecin
+PL,Poland,Warsaw,warsaw
+PT,Portugal,Beja,beja
+PT,Portugal,Braga,braga
+PT,Portugal,Evora,evora
+PT,Portugal,Faro,faro
+PT,Portugal,Funchal,funchal
+PT,Portugal,Guarda,guarda
+PT,Portugal,Leiria,leiria
+PT,Portugal,Lisbon,lisbon
+PT,Portugal,Porto,porto
+PT,Portugal,Viseu,viseu
+QA,Qatar,Doha,doha
+RO,Romania,Arad,arad
+RO,Romania,Bacau,bacau
+RO,Romania,Botosani,botosani
+RO,Romania,Braila,braila
+RO,Romania,Brasov,brasov
+RO,Romania,Bucharest,bucharest
+RO,Romania,Buzau,buzau
+RO,Romania,Cluj-Napoca,cluj-napoca
+RO,Romania,Craiova,craiova
+RO,Romania,Deva,deva
+RO,Romania,Galati,galati
+RO,Romania,Giurgiu,giurgiu
+RO,Romania,Iasi,iasi
+RO,Romania,Oradea,oradea
+RO,Romania,Sibiu,sibiu
+RO,Romania,Slatina,slatina
+RO,Romania,Suceava,suceava
+RO,Romania,Vaslui,vaslui
+RU,Russian Federation,Abakan,abakan
+RU,Russian Federation,Achinsk,achinsk
+RU,Russian Federation,Aldan,aldan
+RU,Russian Federation,Aleysk,aleysk
+RU,Russian Federation,Angarsk,angarsk
+RU,Russian Federation,Apatity,apatity
+RU,Russian Federation,Apsheronsk,apsheronsk
+RU,Russian Federation,Asbest,asbest
+RU,Russian Federation,Asha,asha
+RU,Russian Federation,Astrakhan,astrakhan
+RU,Russian Federation,Balakovo,balakovo
+RU,Russian Federation,Barnaul,barnaul
+RU,Russian Federation,Belebey,belebey
+RU,Russian Federation,Belgorod,belgorod
+RU,Russian Federation,Belogorsk,belogorsk
+RU,Russian Federation,Berezniki,berezniki
+RU,Russian Federation,Bezhetsk,bezhetsk
+RU,Russian Federation,Birobidzhan,birobidzhan
+RU,Russian Federation,Biysk,biysk
+RU,Russian Federation,Blagodarnyy,blagodarnyy
+RU,Russian Federation,Blagoveshchensk,blagoveshchensk
+RU,Russian Federation,Bodaybo,bodaybo
+RU,Russian Federation,Bologoye,bologoye
+RU,Russian Federation,Borovichi,borovichi
+RU,Russian Federation,Bratsk,bratsk
+RU,Russian Federation,Bryansk,bryansk
+RU,Russian Federation,Buynaksk,buynaksk
+RU,Russian Federation,Buzuluk,buzuluk
+RU,Russian Federation,Chapayevsk,chapayevsk
+RU,Russian Federation,Cheboksary,cheboksary
+RU,Russian Federation,Chelyabinsk,chelyabinsk
+RU,Russian Federation,Cherepanovo,cherepanovo
+RU,Russian Federation,Cherepovets,cherepovets
+RU,Russian Federation,Cherkessk,cherkessk
+RU,Russian Federation,Chernogorsk,chernogorsk
+RU,Russian Federation,Chita,chita
+RU,Russian Federation,Chusovoy,chusovoy
+RU,Russian Federation,Derbent,derbent
+RU,Russian Federation,Dimitrovgrad,dimitrovgrad
+RU,Russian Federation,Dzerzhinsk,dzerzhinsk
+RU,Russian Federation,Elista,elista
+RU,Russian Federation,Frolovo,frolovo
+RU,Russian Federation,Gatchina,gatchina
+RU,Russian Federation,Gelendzhik,gelendzhik
+RU,Russian Federation,Gornyak,gornyak
+RU,Russian Federation,Gryazi,gryazi
+RU,Russian Federation,Gubkin,gubkin
+RU,Russian Federation,Inta,inta
+RU,Russian Federation,Irkutsk,irkutsk
+RU,Russian Federation,Ishim,ishim
+RU,Russian Federation,Iskitim,iskitim
+RU,Russian Federation,Ivanovo,ivanovo
+RU,Russian Federation,Izhevsk,izhevsk
+RU,Russian Federation,Kaliningrad,kaliningrad
+RU,Russian Federation,Kaluga,kaluga
+RU,Russian Federation,Kamenka,kamenka
+RU,Russian Federation,Kamyshin,kamyshin
+RU,Russian Federation,Kansk,kansk
+RU,Russian Federation,Kaspiysk,kaspiysk
+RU,Russian Federation,Kemerovo,kemerovo
+RU,Russian Federation,Khabarovsk,khabarovsk
+RU,Russian Federation,Kineshma,kineshma
+RU,Russian Federation,Kirov,kirov
+RU,Russian Federation,Kirovo-Chepetsk,kirovo-chepetsk
+RU,Russian Federation,Kislovodsk,kislovodsk
+RU,Russian Federation,Kizel,kizel
+RU,Russian Federation,Klintsy,klintsy
+RU,Russian Federation,Kolpashevo,kolpashevo
+RU,Russian Federation,Kostroma,kostroma
+RU,Russian Federation,Kotovsk,kotovsk
+RU,Russian Federation,Krasnoarmeysk,krasnoarmeysk
+RU,Russian Federation,Krasnodar,krasnodar
+RU,Russian Federation,Krasnoyarsk,krasnoyarsk
+RU,Russian Federation,Kropotkin,kropotkin
+RU,Russian Federation,Kumertau,kumertau
+RU,Russian Federation,Kurgan,kurgan
+RU,Russian Federation,Kursk,kursk
+RU,Russian Federation,Kuznetsk,kuznetsk
+RU,Russian Federation,Leninogorsk,leninogorsk
+RU,Russian Federation,Lesosibirsk,lesosibirsk
+RU,Russian Federation,Lipetsk,lipetsk
+RU,Russian Federation,Magadan,magadan
+RU,Russian Federation,Magas,magas
+RU,Russian Federation,Magnitogorsk,magnitogorsk
+RU,Russian Federation,Makhachkala,makhachkala
+RU,Russian Federation,Mariinsk,mariinsk
+RU,Russian Federation,Maykop,maykop
+RU,Russian Federation,Miass,miass
+RU,Russian Federation,Millerovo,millerovo
+RU,Russian Federation,Mirnyy,mirnyy
+RU,Russian Federation,Moscow,moscow
+RU,Russian Federation,Mozdok,mozdok
+RU,Russian Federation,Murmansk,murmansk
+RU,Russian Federation,Murom,murom
+RU,Russian Federation,Nadym,nadym
+RU,Russian Federation,Nakhodka,nakhodka
+RU,Russian Federation,Neftekamsk,neftekamsk
+RU,Russian Federation,Neryungri,neryungri
+RU,Russian Federation,Nevinnomyssk,nevinnomyssk
+RU,Russian Federation,Nizhnekamsk,nizhnekamsk
+RU,Russian Federation,Nizhneudinsk,nizhneudinsk
+RU,Russian Federation,Noginsk,noginsk
+RU,Russian Federation,Novoaltaysk,novoaltaysk
+RU,Russian Federation,Novocherkassk,novocherkassk
+RU,Russian Federation,Novokuznetsk,novokuznetsk
+RU,Russian Federation,Novomoskovsk,novomoskovsk
+RU,Russian Federation,Novorossiysk,novorossiysk
+RU,Russian Federation,Novosibirsk,novosibirsk
+RU,Russian Federation,Novotroitsk,novotroitsk
+RU,Russian Federation,Obninsk,obninsk
+RU,Russian Federation,Okha,okha
+RU,Russian Federation,Omsk,omsk
+RU,Russian Federation,Orenburg,orenburg
+RU,Russian Federation,Orsk,orsk
+RU,Russian Federation,Otradnyy,otradnyy
+RU,Russian Federation,Partizansk,partizansk
+RU,Russian Federation,Penza,penza
+RU,Russian Federation,Perm,perm
+RU,Russian Federation,Pervouralsk,pervouralsk
+RU,Russian Federation,Petrozavodsk,petrozavodsk
+RU,Russian Federation,Podolsk,podolsk
+RU,Russian Federation,Polyarnyy,polyarnyy
+RU,Russian Federation,Poronaysk,poronaysk
+RU,Russian Federation,Progress,progress
+RU,Russian Federation,Pskov,pskov
+RU,Russian Federation,Pyatigorsk,pyatigorsk
+RU,Russian Federation,Rubtsovsk,rubtsovsk
+RU,Russian Federation,Ruzayevka,ruzayevka
+RU,Russian Federation,Ryazan,ryazan
+RU,Russian Federation,Rybinsk,rybinsk
+RU,Russian Federation,Salekhard,salekhard
+RU,Russian Federation,Samara,samara
+RU,Russian Federation,Saransk,saransk
+RU,Russian Federation,Saratov,saratov
+RU,Russian Federation,Sasovo,sasovo
+RU,Russian Federation,Sayanogorsk,sayanogorsk
+RU,Russian Federation,Serov,serov
+RU,Russian Federation,Serpukhov,serpukhov
+RU,Russian Federation,Severodvinsk,severodvinsk
+RU,Russian Federation,Severomorsk,severomorsk
+RU,Russian Federation,Shadrinsk,shadrinsk
+RU,Russian Federation,Shebekino,shebekino
+RU,Russian Federation,Slobodskoy,slobodskoy
+RU,Russian Federation,Smolensk,smolensk
+RU,Russian Federation,Sochi,sochi
+RU,Russian Federation,Sokol,sokol
+RU,Russian Federation,Solnechnogorsk,solnechnogorsk
+RU,Russian Federation,Sosnogorsk,sosnogorsk
+RU,Russian Federation,Sovetsk,sovetsk
+RU,Russian Federation,Stavropol,stavropol
+RU,Russian Federation,Sterlitamak,sterlitamak
+RU,Russian Federation,Surgut,surgut
+RU,Russian Federation,Svobodnyy,svobodnyy
+RU,Russian Federation,Syktyvkar,syktyvkar
+RU,Russian Federation,Taganrog,taganrog
+RU,Russian Federation,Taksimo,taksimo
+RU,Russian Federation,Tambov,tambov
+RU,Russian Federation,Tavda,tavda
+RU,Russian Federation,Tayshet,tayshet
+RU,Russian Federation,Tikhoretsk,tikhoretsk
+RU,Russian Federation,Tikhvin,tikhvin
+RU,Russian Federation,Tolyatti,tolyatti
+RU,Russian Federation,Tomsk,tomsk
+RU,Russian Federation,Tula,tula
+RU,Russian Federation,Tulun,tulun
+RU,Russian Federation,Tuymazy,tuymazy
+RU,Russian Federation,Tver,tver
+RU,Russian Federation,Tyumen,tyumen
+RU,Russian Federation,Ufa,ufa
+RU,Russian Federation,Uglich,uglich
+RU,Russian Federation,Ukhta,ukhta
+RU,Russian Federation,Ulyanovsk,ulyanovsk
+RU,Russian Federation,Ussuriysk,ussuriysk
+RU,Russian Federation,Velsk,velsk
+RU,Russian Federation,Verkhoyansk,verkhoyansk
+RU,Russian Federation,Vladikavkaz,vladikavkaz
+RU,Russian Federation,Vladimir,vladimir
+RU,Russian Federation,Vladivostok,vladivostok
+RU,Russian Federation,Volgodonsk,volgodonsk
+RU,Russian Federation,Volgograd,volgograd
+RU,Russian Federation,Volkhov,volkhov
+RU,Russian Federation,Vologda,vologda
+RU,Russian Federation,Volzhskiy,volzhskiy
+RU,Russian Federation,Vorkuta,vorkuta
+RU,Russian Federation,Voronezh,voronezh
+RU,Russian Federation,Vyborg,vyborg
+RU,Russian Federation,Yakutsk,yakutsk
+RU,Russian Federation,Yalutorovsk,yalutorovsk
+RU,Russian Federation,Yaroslavl,yaroslavl
+RU,Russian Federation,Yefremov,yefremov
+RU,Russian Federation,Yekaterinburg,yekaterinburg
+RU,Russian Federation,Yelets,yelets
+RU,Russian Federation,Yemanzhelinsk,yemanzhelinsk
+RU,Russian Federation,Yeysk,yeysk
+RU,Russian Federation,Zelenodolsk,zelenodolsk
+RU,Russian Federation,Zeya,zeya
+RU,Russian Federation,Zheleznogorsk,zheleznogorsk
+RU,Russian Federation,Zlatoust,zlatoust
+RW,Rwanda,Kigali,kigali
+RW,Rwanda,Nyanza,nyanza
+KN,Saint Kitts and Nevis,Basseterre,basseterre
+LC,Saint Lucia,Castries,castries
+VC,Saint Vincent and Grenadines,Kingstown,kingstown
+SA,Saudi Arabia,Jeddah,jeddah
+SA,Saudi Arabia,Makkah,makkah
+SA,Saudi Arabia,Medina,medina
+SA,Saudi Arabia,Riyadh,riyadh
+SA,Saudi Arabia,Sakakah,sakakah
+SN,Senegal,Dakar,dakar
+RS,Serbia,Becej,becej
+RS,Serbia,Belgrade,belgrade
+RS,Serbia,Bor,bor
+RS,Serbia,Jagodina,jagodina
+RS,Serbia,Kosjeric,kosjeric
+RS,Serbia,Kovin,kovin
+RS,Serbia,Kragujevac,kragujevac
+RS,Serbia,Kraljevo,kraljevo
+RS,Serbia,Kucevo,kucevo
+RS,Serbia,Lebane,lebane
+RS,Serbia,Leskovac,leskovac
+RS,Serbia,Negotin,negotin
+RS,Serbia,Paracin,paracin
+RS,Serbia,Pirot,pirot
+RS,Serbia,Prijepolje,prijepolje
+RS,Serbia,Prokuplje,prokuplje
+RS,Serbia,Raska,raska
+RS,Serbia,Sabac,sabac
+RS,Serbia,Sombor,sombor
+RS,Serbia,Trstenik,trstenik
+RS,Serbia,Vranje,vranje
+RS,Serbia,Zajecar,zajecar
+SL,Sierra Leone,Bo,bo
+SG,Singapore,Singapore,singapore
+SK,Slovakia,Bratislava,bratislava
+SK,Slovakia,Nitra,nitra
+SK,Slovakia,Trnava,trnava
+SI,Slovenia,Crensovci,crensovci
+SI,Slovenia,Izola,izola
+SI,Slovenia,Kranj,kranj
+SI,Slovenia,Ljubljana,ljubljana
+SI,Slovenia,Maribor,maribor
+SI,Slovenia,Medvode,medvode
+SO,Somalia,Mogadishu,mogadishu
+ZA,South Africa,Benoni,benoni
+ZA,South Africa,Bethlehem,bethlehem
+ZA,South Africa,Bloemfontein,bloemfontein
+ZA,South Africa,Brits,brits
+ZA,South Africa,Durban,durban
+ZA,South Africa,Grahamstown,grahamstown
+ZA,South Africa,Johannesburg,johannesburg
+ZA,South Africa,Kimberley,kimberley
+ZA,South Africa,Klerksdorp,klerksdorp
+ZA,South Africa,Knysna,knysna
+ZA,South Africa,Kroonstad,kroonstad
+ZA,South Africa,Kuruman,kuruman
+ZA,South Africa,Nelspruit,nelspruit
+ZA,South Africa,Oudtshoorn,oudtshoorn
+ZA,South Africa,Paarl,paarl
+ZA,South Africa,Pietermaritzburg,pietermaritzburg
+ZA,South Africa,Polokwane,polokwane
+ZA,South Africa,Potchefstroom,potchefstroom
+ZA,South Africa,Pretoria,pretoria
+ZA,South Africa,Rustenburg,rustenburg
+ZA,South Africa,Springs,springs
+ZA,South Africa,Tzaneen,tzaneen
+ZA,South Africa,Vereeniging,vereeniging
+ZA,South Africa,Welkom,welkom
+ES,Spain,Albacete,albacete
+ES,Spain,Algeciras,algeciras
+ES,Spain,Alicante,alicante
+ES,Spain,Arrecife,arrecife
+ES,Spain,Badajoz,badajoz
+ES,Spain,Barcelona,barcelona
+ES,Spain,Bilbao,bilbao
+ES,Spain,Burgos,burgos
+ES,Spain,Ceuta,ceuta
+ES,Spain,Granada,granada
+ES,Spain,Huelva,huelva
+ES,Spain,Linares,linares
+ES,Spain,Lorca,lorca
+ES,Spain,Madrid,madrid
+ES,Spain,Marbella,marbella
+ES,Spain,Melilla,melilla
+ES,Spain,Murcia,murcia
+ES,Spain,Ourense,ourense
+ES,Spain,Oviedo,oviedo
+ES,Spain,Palma,palma
+ES,Spain,Pamplona,pamplona
+ES,Spain,Santander,santander
+ES,Spain,Seville,seville
+ES,Spain,Tarragona,tarragona
+ES,Spain,Toledo,toledo
+ES,Spain,Valencia,valencia
+ES,Spain,Valladolid,valladolid
+ES,Spain,Vigo,vigo
+ES,Spain,Zaragoza,zaragoza
+LK,Sri Lanka,Anuradhapura,anuradhapura
+LK,Sri Lanka,Colombo,colombo
+LK,Sri Lanka,Galle,galle
+LK,Sri Lanka,Jaffna,jaffna
+LK,Sri Lanka,Kandy,kandy
+LK,Sri Lanka,Moratuwa,moratuwa
+SD,Sudan,Khartoum,khartoum
+SR,Suriname,Paramaribo,paramaribo
+SZ,Swaziland,Manzini,manzini
+SZ,Swaziland,Mbabane,mbabane
+SE,Sweden,Helsingborg,helsingborg
+SE,Sweden,Kalmar,kalmar
+SE,Sweden,Karlstad,karlstad
+CH,Switzerland,Aarau,aarau
+CH,Switzerland,Lausanne,lausanne
+CH,Switzerland,Zurich,zurich
+SY,Syrian Arab Republic (Syria),Aleppo,aleppo
+SY,Syrian Arab Republic (Syria),Damascus,damascus
+TW,"Taiwan, Republic of China",Taichung,taichung
+TW,"Taiwan, Republic of China",Taipei,taipei
+TW,"Taiwan, Republic of China",Yilan,yilan
+TJ,Tajikistan,Dushanbe,dushanbe
+TZ,"Tanzania, United Republic of",Arusha,arusha
+TZ,"Tanzania, United Republic of",Kasulu,kasulu
+TZ,"Tanzania, United Republic of",Kigoma,kigoma
+TZ,"Tanzania, United Republic of",Mbeya,mbeya
+TZ,"Tanzania, United Republic of",Morogoro,morogoro
+TZ,"Tanzania, United Republic of",Musoma,musoma
+TZ,"Tanzania, United Republic of",Zanzibar,zanzibar
+TH,Thailand,Ayutthaya,ayutthaya
+TH,Thailand,Bangkok,bangkok
+TH,Thailand,Buriram,buriram
+TH,Thailand,Chachoengsao,chachoengsao
+TH,Thailand,Chaiyaphum,chaiyaphum
+TH,Thailand,Chanthaburi,chanthaburi
+TH,Thailand,Chumphon,chumphon
+TH,Thailand,Kalasin,kalasin
+TH,Thailand,Kanchanaburi,kanchanaburi
+TH,Thailand,Krabi,krabi
+TH,Thailand,Lampang,lampang
+TH,Thailand,Lamphun,lamphun
+TH,Thailand,Loei,loei
+TH,Thailand,Mukdahan,mukdahan
+TH,Thailand,Nan,nan
+TH,Thailand,Narathiwat,narathiwat
+TH,Thailand,Nonthaburi,nonthaburi
+TH,Thailand,Pattani,pattani
+TH,Thailand,Phetchabun,phetchabun
+TH,Thailand,Phetchaburi,phetchaburi
+TH,Thailand,Phichit,phichit
+TH,Thailand,Phitsanulok,phitsanulok
+TH,Thailand,Phrae,phrae
+TH,Thailand,Phuket,phuket
+TH,Thailand,Ranong,ranong
+TH,Thailand,Ratchaburi,ratchaburi
+TH,Thailand,Rayong,rayong
+TH,Thailand,Saraburi,saraburi
+TH,Thailand,Songkhla,songkhla
+TH,Thailand,Surin,surin
+TH,Thailand,Tak,tak
+TH,Thailand,Uttaradit,uttaradit
+TH,Thailand,Yala,yala
+TH,Thailand,Yasothon,yasothon
+TL,Timor-Leste,Dili,dili
+TL,Timor-Leste,Maliana,maliana
+TT,Trinidad and Tobago,Arima,arima
+TT,Trinidad and Tobago,Chaguanas,chaguanas
+TT,Trinidad and Tobago,Tunapuna,tunapuna
+TN,Tunisia,Bizerte,bizerte
+TN,Tunisia,Gafsa,gafsa
+TN,Tunisia,Jendouba,jendouba
+TN,Tunisia,Kebili,kebili
+TN,Tunisia,Mahdia,mahdia
+TN,Tunisia,Manouba,manouba
+TN,Tunisia,Monastir,monastir
+TN,Tunisia,Nabeul,nabeul
+TN,Tunisia,Sfax,sfax
+TN,Tunisia,Siliana,siliana
+TN,Tunisia,Sousse,sousse
+TN,Tunisia,Tunis,tunis
+TN,Tunisia,Zaghouan,zaghouan
+TR,Turkey,Adana,adana
+TR,Turkey,Ankara,ankara
+TR,Turkey,Antalya,antalya
+TR,Turkey,Artvin,artvin
+TR,Turkey,Bartin,bartin
+TR,Turkey,Batman,batman
+TR,Turkey,Bilecik,bilecik
+TR,Turkey,Bursa,bursa
+TR,Turkey,Edirne,edirne
+TR,Turkey,Gaziantep,gaziantep
+TR,Turkey,Giresun,giresun
+TR,Turkey,Isparta,isparta
+TR,Turkey,Istanbul,istanbul
+TR,Turkey,Izmir,izmir
+TR,Turkey,Kastamonu,kastamonu
+TR,Turkey,Kayseri,kayseri
+TR,Turkey,Kilis,kilis
+TR,Turkey,Konya,konya
+TR,Turkey,Malatya,malatya
+TR,Turkey,Mardin,mardin
+TR,Turkey,Mersin,mersin
+TR,Turkey,Mugla,mugla
+TR,Turkey,Ordu,ordu
+TR,Turkey,Rize,rize
+TR,Turkey,Samsun,samsun
+TR,Turkey,Sanliurfa,sanliurfa
+TR,Turkey,Sivas,sivas
+TR,Turkey,Trabzon,trabzon
+TR,Turkey,Yalova,yalova
+TR,Turkey,Yozgat,yozgat
+TM,Turkmenistan,Mary,mary
+UG,Uganda,Kampala,kampala
+UA,Ukraine,Brovary,brovary
+UA,Ukraine,Cherkasy,cherkasy
+UA,Ukraine,Chernihiv,chernihiv
+UA,Ukraine,Chernivtsi,chernivtsi
+UA,Ukraine,Dnipro,dnipro
+UA,Ukraine,Donetsk,donetsk
+UA,Ukraine,Drohobych,drohobych
+UA,Ukraine,Horlivka,horlivka
+UA,Ukraine,Ivano-Frankivsk,ivano-frankivsk
+UA,Ukraine,Kharkiv,kharkiv
+UA,Ukraine,Kherson,kherson
+UA,Ukraine,Korosten,korosten
+UA,Ukraine,Kovel,kovel
+UA,Ukraine,Kramatorsk,kramatorsk
+UA,Ukraine,Kremenchuk,kremenchuk
+UA,Ukraine,Luhansk,luhansk
+UA,Ukraine,Lutsk,lutsk
+UA,Ukraine,Makiyivka,makiyivka
+UA,Ukraine,Mariupol,mariupol
+UA,Ukraine,Melitopol,melitopol
+UA,Ukraine,Mykolayiv,mykolayiv
+UA,Ukraine,Nikopol,nikopol
+UA,Ukraine,Nizhyn,nizhyn
+UA,Ukraine,Poltava,poltava
+UA,Ukraine,Rivne,rivne
+UA,Ukraine,Shostka,shostka
+UA,Ukraine,Sumy,sumy
+UA,Ukraine,Ternopil,ternopil
+UA,Ukraine,Zhytomyr,zhytomyr
+AE,United Arab Emirates,Ajman,ajman
+AE,United Arab Emirates,Dubai,dubai
+AE,United Arab Emirates,Sharjah,sharjah
+GB,United Kingdom,Ayr,ayr
+GB,United Kingdom,Ballymena,ballymena
+GB,United Kingdom,Barnsley,barnsley
+GB,United Kingdom,Belfast,belfast
+GB,United Kingdom,Bexleyheath,bexleyheath
+GB,United Kingdom,Birmingham,birmingham
+GB,United Kingdom,Blackburn,blackburn
+GB,United Kingdom,Blackpool,blackpool
+GB,United Kingdom,Bolton,bolton
+GB,United Kingdom,Bracknell,bracknell
+GB,United Kingdom,Bradford,bradford
+GB,United Kingdom,Bristol,bristol
+GB,United Kingdom,Bury,bury
+GB,United Kingdom,Camberwell,camberwell
+GB,United Kingdom,Cardiff,cardiff
+GB,United Kingdom,Chelmsford,chelmsford
+GB,United Kingdom,Coventry,coventry
+GB,United Kingdom,Craigavon,craigavon
+GB,United Kingdom,Croydon,croydon
+GB,United Kingdom,Dagenham,dagenham
+GB,United Kingdom,Darlington,darlington
+GB,United Kingdom,Derby,derby
+GB,United Kingdom,Doncaster,doncaster
+GB,United Kingdom,Dudley,dudley
+GB,United Kingdom,Dumbarton,dumbarton
+GB,United Kingdom,Dundee,dundee
+GB,United Kingdom,Durham,durham
+GB,United Kingdom,Edinburgh,edinburgh
+GB,United Kingdom,Exeter,exeter
+GB,United Kingdom,Falkirk,falkirk
+GB,United Kingdom,Gateshead,gateshead
+GB,United Kingdom,Glasgow,glasgow
+GB,United Kingdom,Glenrothes,glenrothes
+GB,United Kingdom,Gloucester,gloucester
+GB,United Kingdom,Greenock,greenock
+GB,United Kingdom,Hackney,hackney
+GB,United Kingdom,Hammersmith,hammersmith
+GB,United Kingdom,Hartlepool,hartlepool
+GB,United Kingdom,Hendon,hendon
+GB,United Kingdom,Hereford,hereford
+GB,United Kingdom,Hounslow,hounslow
+GB,United Kingdom,Ilford,ilford
+GB,United Kingdom,Ipswich,ipswich
+GB,United Kingdom,Islington,islington
+GB,United Kingdom,Kirkwall,kirkwall
+GB,United Kingdom,Leeds,leeds
+GB,United Kingdom,Leicester,leicester
+GB,United Kingdom,Lincoln,lincoln
+GB,United Kingdom,Lisburn,lisburn
+GB,United Kingdom,Liverpool,liverpool
+GB,United Kingdom,Lochgilphead,lochgilphead
+GB,United Kingdom,London,london
+GB,United Kingdom,Londonderry,londonderry
+GB,United Kingdom,Luton,luton
+GB,United Kingdom,Magherafelt,magherafelt
+GB,United Kingdom,Maidenhead,maidenhead
+GB,United Kingdom,Manchester,manchester
+GB,United Kingdom,Middlesbrough,middlesbrough
+GB,United Kingdom,Newport,newport
+GB,United Kingdom,Newry,newry
+GB,United Kingdom,Northampton,northampton
+GB,United Kingdom,Norwich,norwich
+GB,United Kingdom,Nottingham,nottingham
+GB,United Kingdom,Oldham,oldham
+GB,United Kingdom,Omagh,omagh
+GB,United Kingdom,Oxford,oxford
+GB,United Kingdom,Peterborough,peterborough
+GB,United Kingdom,Plymouth,plymouth
+GB,United Kingdom,Poplar,poplar
+GB,United Kingdom,Preston,preston
+GB,United Kingdom,Reading,reading
+GB,United Kingdom,Romford,romford
+GB,United Kingdom,Rotherham,rotherham
+GB,United Kingdom,Salford,salford
+GB,United Kingdom,Scarborough,scarborough
+GB,United Kingdom,Scunthorpe,scunthorpe
+GB,United Kingdom,Sheffield,sheffield
+GB,United Kingdom,Shrewsbury,shrewsbury
+GB,United Kingdom,Slough,slough
+GB,United Kingdom,Southampton,southampton
+GB,United Kingdom,Stockport,stockport
+GB,United Kingdom,Sunderland,sunderland
+GB,United Kingdom,Swansea,swansea
+GB,United Kingdom,Swindon,swindon
+GB,United Kingdom,Taunton,taunton
+GB,United Kingdom,Telford,telford
+GB,United Kingdom,Uxbridge,uxbridge
+GB,United Kingdom,Wallasey,wallasey
+GB,United Kingdom,Wallsend,wallsend
+GB,United Kingdom,Warrington,warrington
+GB,United Kingdom,Wembley,wembley
+GB,United Kingdom,Weston-super-Mare,weston-super-mare
+GB,United Kingdom,Widnes,widnes
+GB,United Kingdom,Wigan,wigan
+GB,United Kingdom,Wokingham,wokingham
+GB,United Kingdom,Wolverhampton,wolverhampton
+GB,United Kingdom,Woolwich,woolwich
+GB,United Kingdom,Worcester,worcester
+US,United States of America,Abilene,abilene
+US,United States of America,Acworth,acworth
+US,United States of America,Adrian,adrian
+US,United States of America,Aiken,aiken
+US,United States of America,Akron,akron
+US,United States of America,Albany,albany
+US,United States of America,Albertville,albertville
+US,United States of America,Albuquerque,albuquerque
+US,United States of America,Alexandria,alexandria
+US,United States of America,Allentown,allentown
+US,United States of America,Alsip,alsip
+US,United States of America,Altoona,altoona
+US,United States of America,Alvin,alvin
+US,United States of America,Anaheim,anaheim
+US,United States of America,Anchorage,anchorage
+US,United States of America,Anderson,anderson
+US,United States of America,Anniston,anniston
+US,United States of America,Antioch,antioch
+US,United States of America,Apex,apex
+US,United States of America,Apopka,apopka
+US,United States of America,Appleton,appleton
+US,United States of America,Arlington,arlington
+US,United States of America,Asheville,asheville
+US,United States of America,Atascadero,atascadero
+US,United States of America,Atlanta,atlanta
+US,United States of America,Auburn,auburn
+US,United States of America,Augusta,augusta
+US,United States of America,Aurora,aurora
+US,United States of America,Austin,austin
+US,United States of America,Bakersfield,bakersfield
+US,United States of America,Ballwin,ballwin
+US,United States of America,Baltimore,baltimore
+US,United States of America,Batavia,batavia
+US,United States of America,Beaufort,beaufort
+US,United States of America,Beaumont,beaumont
+US,United States of America,Beaverton,beaverton
+US,United States of America,Bellflower,bellflower
+US,United States of America,Bellingham,bellingham
+US,United States of America,Belvidere,belvidere
+US,United States of America,Bethany,bethany
+US,United States of America,Bettendorf,bettendorf
+US,United States of America,Billings,billings
+US,United States of America,Binghamton,binghamton
+US,United States of America,Bixby,bixby
+US,United States of America,Blacksburg,blacksburg
+US,United States of America,Bloomfield,bloomfield
+US,United States of America,Bloomington,bloomington
+US,United States of America,Blytheville,blytheville
+US,United States of America,Boise,boise
+US,United States of America,Bolingbrook,bolingbrook
+US,United States of America,Boston,boston
+US,United States of America,Bothell,bothell
+US,United States of America,Bozeman,bozeman
+US,United States of America,Brandon,brandon
+US,United States of America,Brockton,brockton
+US,United States of America,Brookhaven,brookhaven
+US,United States of America,Brooklyn,brooklyn
+US,United States of America,Brownsburg,brownsburg
+US,United States of America,Brownsville,brownsville
+US,United States of America,Buda,buda
+US,United States of America,Buffalo,buffalo
+US,United States of America,Burbank,burbank
+US,United States of America,Burlington,burlington
+US,United States of America,Butler,butler
+US,United States of America,Campbellsville,campbellsville
+US,United States of America,Canton,canton
+US,United States of America,Carlsbad,carlsbad
+US,United States of America,Carrollton,carrollton
+US,United States of America,Carson,carson
+US,United States of America,Carterville,carterville
+US,United States of America,Cary,cary
+US,United States of America,Centreville,centreville
+US,United States of America,Charleston,charleston
+US,United States of America,Charlotte,charlotte
+US,United States of America,Charlottesville,charlottesville
+US,United States of America,Chattanooga,chattanooga
+US,United States of America,Chelsea,chelsea
+US,United States of America,Chesapeake,chesapeake
+US,United States of America,Cheyenne,cheyenne
+US,United States of America,Chicago,chicago
+US,United States of America,Chicopee,chicopee
+US,United States of America,Chillicothe,chillicothe
+US,United States of America,Cicero,cicero
+US,United States of America,Cincinnati,cincinnati
+US,United States of America,Clarksville,clarksville
+US,United States of America,Clayton,clayton
+US,United States of America,Clemson,clemson
+US,United States of America,Clermont,clermont
+US,United States of America,Cleveland,cleveland
+US,United States of America,Clifton,clifton
+US,United States of America,Clinton,clinton
+US,United States of America,Columbia,columbia
+US,United States of America,Columbus,columbus
+US,United States of America,Concord,concord
+US,United States of America,Conshohocken,conshohocken
+US,United States of America,Conway,conway
+US,United States of America,Conyers,conyers
+US,United States of America,Coppell,coppell
+US,United States of America,Corning,corning
+US,United States of America,Covina,covina
+US,United States of America,Cullman,cullman
+US,United States of America,Dallas,dallas
+US,United States of America,Danbury,danbury
+US,United States of America,Darien,darien
+US,United States of America,Davenport,davenport
+US,United States of America,Davis,davis
+US,United States of America,Dayton,dayton
+US,United States of America,Dearborn,dearborn
+US,United States of America,Deltona,deltona
+US,United States of America,Denver,denver
+US,United States of America,Detroit,detroit
+US,United States of America,Dothan,dothan
+US,United States of America,Douglasville,douglasville
+US,United States of America,Downey,downey
+US,United States of America,Dubuque,dubuque
+US,United States of America,Duluth,duluth
+US,United States of America,Dyer,dyer
+US,United States of America,Dyersburg,dyersburg
+US,United States of America,Edinburg,edinburg
+US,United States of America,Elgin,elgin
+US,United States of America,Elizabeth,elizabeth
+US,United States of America,Emporia,emporia
+US,United States of America,Enterprise,enterprise
+US,United States of America,Ephrata,ephrata
+US,United States of America,Erie,erie
+US,United States of America,Escondido,escondido
+US,United States of America,Eugene,eugene
+US,United States of America,Eunice,eunice
+US,United States of America,Evansville,evansville
+US,United States of America,Everett,everett
+US,United States of America,Fairfax,fairfax
+US,United States of America,Fairmont,fairmont
+US,United States of America,Fernley,fernley
+US,United States of America,Florissant,florissant
+US,United States of America,Flushing,flushing
+US,United States of America,Franklin,franklin
+US,United States of America,Fredonia,fredonia
+US,United States of America,Fremont,fremont
+US,United States of America,Friendswood,friendswood
+US,United States of America,Fullerton,fullerton
+US,United States of America,Gaffney,gaffney
+US,United States of America,Gainesville,gainesville
+US,United States of America,Gaithersburg,gaithersburg
+US,United States of America,Galax,galax
+US,United States of America,Garland,garland
+US,United States of America,Gilbert,gilbert
+US,United States of America,Girard,girard
+US,United States of America,Glendale,glendale
+US,United States of America,Glendora,glendora
+US,United States of America,Gloversville,gloversville
+US,United States of America,Goshen,goshen
+US,United States of America,Greeneville,greeneville
+US,United States of America,Greenfield,greenfield
+US,United States of America,Greensboro,greensboro
+US,United States of America,Greensburg,greensburg
+US,United States of America,Greenville,greenville
+US,United States of America,Greenwood,greenwood
+US,United States of America,Greer,greer
+US,United States of America,Gresham,gresham
+US,United States of America,Gurnee,gurnee
+US,United States of America,Gustine,gustine
+US,United States of America,Hackensack,hackensack
+US,United States of America,Hagerstown,hagerstown
+US,United States of America,Haledon,haledon
+US,United States of America,Hammond,hammond
+US,United States of America,Hanford,hanford
+US,United States of America,Harlingen,harlingen
+US,United States of America,Harrisburg,harrisburg
+US,United States of America,Hartselle,hartselle
+US,United States of America,Hawthorne,hawthorne
+US,United States of America,Hayward,hayward
+US,United States of America,Hemet,hemet
+US,United States of America,Hempstead,hempstead
+US,United States of America,Henderson,henderson
+US,United States of America,Hercules,hercules
+US,United States of America,Hernando,hernando
+US,United States of America,Herndon,herndon
+US,United States of America,Hesperia,hesperia
+US,United States of America,Hialeah,hialeah
+US,United States of America,Highland,highland
+US,United States of America,Hilliard,hilliard
+US,United States of America,Hillsborough,hillsborough
+US,United States of America,Hoboken,hoboken
+US,United States of America,Holland,holland
+US,United States of America,Hollister,hollister
+US,United States of America,Hollywood,hollywood
+US,United States of America,Holyoke,holyoke
+US,United States of America,Houston,houston
+US,United States of America,Hudson,hudson
+US,United States of America,Huntington,huntington
+US,United States of America,Huntsville,huntsville
+US,United States of America,Hyattsville,hyattsville
+US,United States of America,Imperial,imperial
+US,United States of America,Indianapolis,indianapolis
+US,United States of America,Indio,indio
+US,United States of America,Jacksonville,jacksonville
+US,United States of America,Janesville,janesville
+US,United States of America,Jasper,jasper
+US,United States of America,Jeffersonville,jeffersonville
+US,United States of America,Jenks,jenks
+US,United States of America,Johnsburg,johnsburg
+US,United States of America,Kalamazoo,kalamazoo
+US,United States of America,Kankakee,kankakee
+US,United States of America,Katy,katy
+US,United States of America,Kearney,kearney
+US,United States of America,Kearny,kearny
+US,United States of America,Keller,keller
+US,United States of America,Kennesaw,kennesaw
+US,United States of America,Kennett,kennett
+US,United States of America,Kenosha,kenosha
+US,United States of America,Kent,kent
+US,United States of America,Killeen,killeen
+US,United States of America,Kissimmee,kissimmee
+US,United States of America,Knightdale,knightdale
+US,United States of America,Knoxville,knoxville
+US,United States of America,Kokomo,kokomo
+US,United States of America,Lafayette,lafayette
+US,United States of America,Lakeland,lakeland
+US,United States of America,Lakeville,lakeville
+US,United States of America,Lamar,lamar
+US,United States of America,Lancaster,lancaster
+US,United States of America,Laredo,laredo
+US,United States of America,Largo,largo
+US,United States of America,Laurel,laurel
+US,United States of America,Laurinburg,laurinburg
+US,United States of America,Lawrenceburg,lawrenceburg
+US,United States of America,Lawrenceville,lawrenceville
+US,United States of America,Leander,leander
+US,United States of America,Lebanon,lebanon
+US,United States of America,Leesburg,leesburg
+US,United States of America,Lexington,lexington
+US,United States of America,Liberty,liberty
+US,United States of America,Littleton,littleton
+US,United States of America,Livermore,livermore
+US,United States of America,Livingston,livingston
+US,United States of America,Livonia,livonia
+US,United States of America,Loganville,loganville
+US,United States of America,Lombard,lombard
+US,United States of America,Longview,longview
+US,United States of America,Louisville,louisville
+US,United States of America,Lowell,lowell
+US,United States of America,Lyndhurst,lyndhurst
+US,United States of America,Lynn,lynn
+US,United States of America,Lynnwood,lynnwood
+US,United States of America,Lynwood,lynwood
+US,United States of America,Madera,madera
+US,United States of America,Madison,madison
+US,United States of America,Mahomet,mahomet
+US,United States of America,Malvern,malvern
+US,United States of America,Manor,manor
+US,United States of America,Mansfield,mansfield
+US,United States of America,Marion,marion
+US,United States of America,Maryville,maryville
+US,United States of America,Matawan,matawan
+US,United States of America,Maywood,maywood
+US,United States of America,McAllen,mcallen
+US,United States of America,McDonough,mcdonough
+US,United States of America,McKeesport,mckeesport
+US,United States of America,McKinney,mckinney
+US,United States of America,Mechanicsburg,mechanicsburg
+US,United States of America,Media,media
+US,United States of America,Memphis,memphis
+US,United States of America,Meridian,meridian
+US,United States of America,Mesa,mesa
+US,United States of America,Mesquite,mesquite
+US,United States of America,Miami,miami
+US,United States of America,Middleton,middleton
+US,United States of America,Middletown,middletown
+US,United States of America,Midland,midland
+US,United States of America,Midvale,midvale
+US,United States of America,Millsboro,millsboro
+US,United States of America,Milton,milton
+US,United States of America,Milwaukee,milwaukee
+US,United States of America,Minneapolis,minneapolis
+US,United States of America,Minooka,minooka
+US,United States of America,Mission,mission
+US,United States of America,Mobile,mobile
+US,United States of America,Modesto,modesto
+US,United States of America,Monaca,monaca
+US,United States of America,Monroeville,monroeville
+US,United States of America,Montgomery,montgomery
+US,United States of America,Morgantown,morgantown
+US,United States of America,Morrilton,morrilton
+US,United States of America,Mundelein,mundelein
+US,United States of America,Nacogdoches,nacogdoches
+US,United States of America,Nampa,nampa
+US,United States of America,Nashville,nashville
+US,United States of America,Newark,newark
+US,United States of America,Newburgh,newburgh
+US,United States of America,Newnan,newnan
+US,United States of America,Norfolk,norfolk
+US,United States of America,Norman,norman
+US,United States of America,Novi,novi
+US,United States of America,Oakland,oakland
+US,United States of America,Oceanside,oceanside
+US,United States of America,Ogden,ogden
+US,United States of America,Olathe,olathe
+US,United States of America,Olney,olney
+US,United States of America,Omaha,omaha
+US,United States of America,Orange,orange
+US,United States of America,Orangeburg,orangeburg
+US,United States of America,Orlando,orlando
+US,United States of America,Oshkosh,oshkosh
+US,United States of America,Oxnard,oxnard
+US,United States of America,Paducah,paducah
+US,United States of America,Palmetto,palmetto
+US,United States of America,Paramus,paramus
+US,United States of America,Parkersburg,parkersburg
+US,United States of America,Parsons,parsons
+US,United States of America,Passaic,passaic
+US,United States of America,Paterson,paterson
+US,United States of America,Peabody,peabody
+US,United States of America,Pensacola,pensacola
+US,United States of America,Peoria,peoria
+US,United States of America,Perkasie,perkasie
+US,United States of America,Perris,perris
+US,United States of America,Pflugerville,pflugerville
+US,United States of America,Pharr,pharr
+US,United States of America,Philadelphia,philadelphia
+US,United States of America,Phoenix,phoenix
+US,United States of America,Pittsburg,pittsburg
+US,United States of America,Pittsburgh,pittsburgh
+US,United States of America,Pittsfield,pittsfield
+US,United States of America,Plainview,plainview
+US,United States of America,Plano,plano
+US,United States of America,Pontiac,pontiac
+US,United States of America,Portage,portage
+US,United States of America,Portland,portland
+US,United States of America,Poughkeepsie,poughkeepsie
+US,United States of America,Princeton,princeton
+US,United States of America,Providence,providence
+US,United States of America,Radford,radford
+US,United States of America,Rahway,rahway
+US,United States of America,Raleigh,raleigh
+US,United States of America,Redmond,redmond
+US,United States of America,Reedley,reedley
+US,United States of America,Reno,reno
+US,United States of America,Renton,renton
+US,United States of America,Reynoldsburg,reynoldsburg
+US,United States of America,Richmond,richmond
+US,United States of America,Riverside,riverside
+US,United States of America,Riverview,riverview
+US,United States of America,Roanoke,roanoke
+US,United States of America,Rockford,rockford
+US,United States of America,Rockwood,rockwood
+US,United States of America,Rowlett,rowlett
+US,United States of America,Sacramento,sacramento
+US,United States of America,Salem,salem
+US,United States of America,Salina,salina
+US,United States of America,Sandy,sandy
+US,United States of America,Sapulpa,sapulpa
+US,United States of America,Saraland,saraland
+US,United States of America,Sarasota,sarasota
+US,United States of America,Savannah,savannah
+US,United States of America,Scarsdale,scarsdale
+US,United States of America,Schenectady,schenectady
+US,United States of America,Scottsdale,scottsdale
+US,United States of America,Seattle,seattle
+US,United States of America,Secaucus,secaucus
+US,United States of America,Seneca,seneca
+US,United States of America,Sevierville,sevierville
+US,United States of America,Shelbyville,shelbyville
+US,United States of America,Shreveport,shreveport
+US,United States of America,Smithfield,smithfield
+US,United States of America,Snellville,snellville
+US,United States of America,Somerset,somerset
+US,United States of America,Southaven,southaven
+US,United States of America,Southfield,southfield
+US,United States of America,Southlake,southlake
+US,United States of America,Spartanburg,spartanburg
+US,United States of America,Spokane,spokane
+US,United States of America,Springfield,springfield
+US,United States of America,Stafford,stafford
+US,United States of America,Statesboro,statesboro
+US,United States of America,Statesville,statesville
+US,United States of America,Stockton,stockton
+US,United States of America,Suffolk,suffolk
+US,United States of America,Summerville,summerville
+US,United States of America,Sumner,sumner
+US,United States of America,Sunnyvale,sunnyvale
+US,United States of America,Tacoma,tacoma
+US,United States of America,Tallahassee,tallahassee
+US,United States of America,Tampa,tampa
+US,United States of America,Temecula,temecula
+US,United States of America,Tempe,tempe
+US,United States of America,Texarkana,texarkana
+US,United States of America,Thibodaux,thibodaux
+US,United States of America,Thomasville,thomasville
+US,United States of America,Trenton,trenton
+US,United States of America,Trinity,trinity
+US,United States of America,Tucson,tucson
+US,United States of America,Tulsa,tulsa
+US,United States of America,Tupelo,tupelo
+US,United States of America,Tyler,tyler
+US,United States of America,Urbandale,urbandale
+US,United States of America,Vallejo,vallejo
+US,United States of America,Vicksburg,vicksburg
+US,United States of America,Victorville,victorville
+US,United States of America,Vineland,vineland
+US,United States of America,Waltham,waltham
+US,United States of America,Warren,warren
+US,United States of America,Washington,washington
+US,United States of America,Waterbury,waterbury
+US,United States of America,Waterville,waterville
+US,United States of America,Watsonville,watsonville
+US,United States of America,Waverly,waverly
+US,United States of America,Wayne,wayne
+US,United States of America,Waynesville,waynesville
+US,United States of America,Westbrook,westbrook
+US,United States of America,Westerville,westerville
+US,United States of America,Westfield,westfield
+US,United States of America,Westland,westland
+US,United States of America,Westminster,westminster
+US,United States of America,Whittier,whittier
+US,United States of America,Wichita,wichita
+US,United States of America,Wilkes-Barre,wilkes-barre
+US,United States of America,Wilmington,wilmington
+US,United States of America,Wilson,wilson
+US,United States of America,Winston-Salem,winston-salem
+US,United States of America,Woodhaven,woodhaven
+US,United States of America,Woodinville,woodinville
+US,United States of America,Woodside,woodside
+US,United States of America,Woodstock,woodstock
+US,United States of America,Yonkers,yonkers
+US,United States of America,Ypsilanti,ypsilanti
+US,United States of America,Yucaipa,yucaipa
+UY,Uruguay,Aigua,aigua
+UY,Uruguay,Canelones,canelones
+UY,Uruguay,Castillos,castillos
+UY,Uruguay,Maldonado,maldonado
+UY,Uruguay,Minas,minas
+UY,Uruguay,Montevideo,montevideo
+UY,Uruguay,Salto,salto
+UZ,Uzbekistan,Navoiy,navoiy
+UZ,Uzbekistan,Tashkent,tashkent
+VE,Venezuela (Bolivarian Republic),Barinas,barinas
+VE,Venezuela (Bolivarian Republic),Barquisimeto,barquisimeto
+VE,Venezuela (Bolivarian Republic),Cabimas,cabimas
+VE,Venezuela (Bolivarian Republic),Caracas,caracas
+VE,Venezuela (Bolivarian Republic),Carora,carora
+VE,Venezuela (Bolivarian Republic),Coro,coro
+VE,Venezuela (Bolivarian Republic),Maiquetia,maiquetia
+VE,Venezuela (Bolivarian Republic),Maracaibo,maracaibo
+VE,Venezuela (Bolivarian Republic),Maracay,maracay
+VE,Venezuela (Bolivarian Republic),Porlamar,porlamar
+VN,Viet Nam,Haiphong,haiphong
+VN,Viet Nam,Hanoi,hanoi
+VN,Viet Nam,Vinh,vinh
+YE,Yemen,Aden,aden
+YE,Yemen,Hajjah,hajjah
+YE,Yemen,Ibb,ibb
+YE,Yemen,Lahij,lahij
+YE,Yemen,Sanaa,sanaa
+ZM,Zambia,Lusaka,lusaka
+ZM,Zambia,Solwezi,solwezi
+ZW,Zimbabwe,Bulawayo,bulawayo
+ZW,Zimbabwe,Harare,harare

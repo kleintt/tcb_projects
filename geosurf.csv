@@ -1,0 +1,1945 @@
+service_type,location_code,ctr,state,city
+City,US-AL-AUBURN,US,AL,AUBURN
+City,US-AL-BIRMINGHAM,US,AL,BIRMINGHAM
+City,US-AZ-PHOENIX,US,AZ,PHOENIX
+City,US-AZ-PRESCOTT_VALLEY,US,AZ,PRESCOTT_VALLEY
+City,US-AZ-TUCSON,US,AZ,TUCSON
+City,US-CA-BAKERSFIELD,US,CA,BAKERSFIELD
+City,US-CA-FREMONT,US,CA,FREMONT
+City,US-CA-FRESNO,US,CA,FRESNO
+City,US-CA-GLENDALE,US,CA,GLENDALE
+City,US-CA-HOLLYWOOD,US,CA,HOLLYWOOD
+City,US-CA-LOS_ANGELES,US,CA,LOS_ANGELES
+City,US-CA-OAKLAND,US,CA,OAKLAND
+City,US-CA-SACRAMENTO,US,CA,SACRAMENTO
+City,US-CA-SAN_DIEGO,US,CA,SAN_DIEGO
+City,US-CA-SAN_FRANCISCO,US,CA,SAN_FRANCISCO
+City,US-CA-SAN_JOSE,US,CA,SAN_JOSE
+City,US-CA-STOCKTON,US,CA,STOCKTON
+City,US-CO-AURORA,US,CO,AURORA
+City,US-CO-COLORADO_SPRINGS,US,CO,COLORADO_SPRINGS
+City,US-CO-DENVER,US,CO,DENVER
+City,US-CO-ROCKVALE,US,CO,ROCKVALE
+City,US-CT-WALLINGFORD,US,CT,WALLINGFORD
+City,US-DC-WASHINGTON,US,DC,WASHINGTON
+City,US-FL-FORT_LAUDERDALE,US,FL,FORT_LAUDERDALE
+City,US-FL-JACKSONVILLE,US,FL,JACKSONVILLE
+City,US-FL-MIAMI,US,FL,MIAMI
+City,US-FL-ORLANDO,US,FL,ORLANDO
+City,US-FL-POMPANO_BEACH,US,FL,POMPANO_BEACH
+City,US-FL-TAMPA,US,FL,TAMPA
+City,US-GA-ATHENS,US,GA,ATHENS
+City,US-GA-ATLANTA,US,GA,ATLANTA
+City,US-GA-DECATUR,US,GA,DECATUR
+City,US-GA-MACON,US,GA,MACON
+City,US-HI-HONOLULU,US,HI,HONOLULU
+City,US-IL-CHICAGO,US,IL,CHICAGO
+City,US-IN-INDIANAPOLIS,US,IN,INDIANAPOLIS
+City,US-IN-LAPEL,US,IN,LAPEL
+City,US-KS-WICHITA,US,KS,WICHITA
+City,US-KY-LEXINGTON,US,KY,LEXINGTON
+City,US-KY-LOUISVILLE,US,KY,LOUISVILLE
+City,US-LA-BATON_ROUGE,US,LA,BATON_ROUGE
+City,US-LA-NEW_ORLEANS,US,LA,NEW_ORLEANS
+City,US-LA-SHREVEPORT,US,LA,SHREVEPORT
+City,US-MA-BOSTON,US,MA,BOSTON
+City,US-MA-SALEM,US,MA,SALEM
+City,US-MD-BALTIMORE,US,MD,BALTIMORE
+City,US-MI-DETROIT,US,MI,DETROIT
+City,US-MI-LANSING,US,MI,LANSING
+City,US-MN-MINNEAPOLIS,US,MN,MINNEAPOLIS
+City,US-MN-SAINT_PAUL,US,MN,SAINT_PAUL
+City,US-MO-KANSAS_CITY,US,MO,KANSAS_CITY
+City,US-MO-SAINT_JAMES,US,MO,SAINT_JAMES
+City,US-MO-ST_LOUIS,US,MO,ST_LOUIS
+City,US-MS-BOONEVILLE,US,MS,BOONEVILLE
+City,US-MS-JACKSON,US,MS,JACKSON
+City,US-NC-CHARLOTTE,US,NC,CHARLOTTE
+City,US-NC-FAYETTEVILLE,US,NC,FAYETTEVILLE
+City,US-NC-RALEIGH,US,NC,RALEIGH
+City,US-NE-OMAHA,US,NE,OMAHA
+City,US-NJ-GARWOOD,US,NJ,GARWOOD
+City,US-NJ-NEWARK,US,NJ,NEWARK
+City,US-NJ-PRINCETON,US,NJ,PRINCETON
+City,US-NM-ALBUQUERQUE,US,NM,ALBUQUERQUE
+City,US-NV-HENDERSON,US,NV,HENDERSON
+City,US-NV-LAS_VEGAS,US,NV,LAS_VEGAS
+City,US-NY-BROOKLYN,US,NY,BROOKLYN
+City,US-NY-BUFFALO,US,NY,BUFFALO
+City,US-NY-NEW_YORK,US,NY,NEW_YORK
+City,US-NY-ROCHESTER,US,NY,ROCHESTER
+City,US-NY-THE_BRONX,US,NY,THE_BRONX
+City,US-OH-CLEVELAND,US,OH,CLEVELAND
+City,US-OH-COLUMBUS,US,OH,COLUMBUS
+City,US-OH-DAYTON,US,OH,DAYTON
+City,US-OK-OKLAHOMA_CITY,US,OK,OKLAHOMA_CITY
+City,US-OR-BEAVERTON,US,OR,BEAVERTON
+City,US-OR-PORTLAND,US,OR,PORTLAND
+City,US-PA-HARRISBURG,US,PA,HARRISBURG
+City,US-PA-PHILADELPHIA,US,PA,PHILADELPHIA
+City,US-PA-PITTSBURGH,US,PA,PITTSBURGH
+City,US-SC-COLUMBIA,US,SC,COLUMBIA
+City,US-TN-MEMPHIS,US,TN,MEMPHIS
+City,US-TN-NASHVILLE,US,TN,NASHVILLE
+City,US-TX-ARLINGTON,US,TX,ARLINGTON
+City,US-TX-AUSTIN,US,TX,AUSTIN
+City,US-TX-CROWLEY,US,TX,CROWLEY
+City,US-TX-DALLAS,US,TX,DALLAS
+City,US-TX-EL_PASO,US,TX,EL_PASO
+City,US-TX-FORT_WORTH,US,TX,FORT_WORTH
+City,US-TX-HOUSTON,US,TX,HOUSTON
+City,US-TX-KATY,US,TX,KATY
+City,US-TX-SAN_ANTONIO,US,TX,SAN_ANTONIO
+City,US-TX-SPRING,US,TX,SPRING
+City,US-UT-SALT_LAKE_CITY,US,UT,SALT_LAKE_CITY
+City,US-VA-RICHMOND,US,VA,RICHMOND
+City,US-WA-BELLEVUE,US,WA,BELLEVUE
+City,US-WA-SEATTLE,US,WA,SEATTLE
+City,US-WA-SPOKANE,US,WA,SPOKANE
+City,US-WA-TACOMA,US,WA,TACOMA
+City,US-WI-MADISON,US,WI,MADISON
+City,US-WI-MILWAUKEE,US,WI,MILWAUKEE
+Country,AE,AE,,
+Country,AF,AF,,
+Country,AG,AG,,
+Country,AI,AI,,
+Country,AL,AL,,
+Country,AM,AM,,
+Country,AO,AO,,
+Country,AR,AR,,
+Country,AT,AT,,
+Country,AU,AU,,
+Country,AW,AW,,
+Country,AZ,AZ,,
+Country,BA,BA,,
+Country,BB,BB,,
+Country,BD,BD,,
+Country,BE,BE,,
+Country,BG,BG,,
+Country,BH,BH,,
+Country,BJ,BJ,,
+Country,BN,BN,,
+Country,BO,BO,,
+Country,BR,BR,,
+Country,BS,BS,,
+Country,BW,BW,,
+Country,BY,BY,,
+Country,BZ,BZ,,
+Country,CA,CA,,
+Country,CG,CG,,
+Country,CH,CH,,
+Country,CI,CI,,
+Country,CL,CL,,
+Country,CM,CM,,
+Country,CN,CN,,
+Country,CO,CO,,
+Country,CR,CR,,
+Country,CV,CV,,
+Country,CY,CY,,
+Country,CZ,CZ,,
+Country,DE,DE,,
+Country,DK,DK,,
+Country,DO,DO,,
+Country,DZ,DZ,,
+Country,EC,EC,,
+Country,EE,EE,,
+Country,EG,EG,,
+Country,ES,ES,,
+Country,ET,ET,,
+Country,FI,FI,,
+Country,FR,FR,,
+Country,GB,GB,,
+Country,GE,GE,,
+Country,GH,GH,,
+Country,GP,GP,,
+Country,GR,GR,,
+Country,GT,GT,,
+Country,GY,GY,,
+Country,HK,HK,,
+Country,HN,HN,,
+Country,HR,HR,,
+Country,HT,HT,,
+Country,HU,HU,,
+Country,ID,ID,,
+Country,IE,IE,,
+Country,IL,IL,,
+Country,IN,IN,,
+Country,IQ,IQ,,
+Country,IR,IR,,
+Country,IS,IS,,
+Country,IT,IT,,
+Country,JM,JM,,
+Country,JO,JO,,
+Country,JP,JP,,
+Country,KE,KE,,
+Country,KG,KG,,
+Country,KH,KH,,
+Country,KM,KM,,
+Country,KR,KR,,
+Country,KW,KW,,
+Country,KY,KY,,
+Country,KZ,KZ,,
+Country,LA,LA,,
+Country,LB,LB,,
+Country,LC,LC,,
+Country,LK,LK,,
+Country,LT,LT,,
+Country,LU,LU,,
+Country,LV,LV,,
+Country,LY,LY,,
+Country,MA,MA,,
+Country,MD,MD,,
+Country,ME,ME,,
+Country,MG,MG,,
+Country,MK,MK,,
+Country,ML,ML,,
+Country,MM,MM,,
+Country,MN,MN,,
+Country,MO,MO,,
+Country,MQ,MQ,,
+Country,MT,MT,,
+Country,MU,MU,,
+Country,MV,MV,,
+Country,MX,MX,,
+Country,MY,MY,,
+Country,MZ,MZ,,
+Country,NA,NA,,
+Country,NC,NC,,
+Country,NG,NG,,
+Country,NI,NI,,
+Country,NL,NL,,
+Country,NO,NO,,
+Country,NP,NP,,
+Country,NZ,NZ,,
+Country,OM,OM,,
+Country,PA,PA,,
+Country,PE,PE,,
+Country,PH,PH,,
+Country,PK,PK,,
+Country,PL,PL,,
+Country,PR,PR,,
+Country,PS,PS,,
+Country,PT,PT,,
+Country,PY,PY,,
+Country,QA,QA,,
+Country,RE,RE,,
+Country,RO,RO,,
+Country,RS,RS,,
+Country,RU,RU,,
+Country,SA,SA,,
+Country,SC,SC,,
+Country,SD,SD,,
+Country,SE,SE,,
+Country,SG,SG,,
+Country,SI,SI,,
+Country,SK,SK,,
+Country,SN,SN,,
+Country,SR,SR,,
+Country,SV,SV,,
+Country,SY,SY,,
+Country,TH,TH,,
+Country,TN,TN,,
+Country,TR,TR,,
+Country,TT,TT,,
+Country,TW,TW,,
+Country,TZ,TZ,,
+Country,UA,UA,,
+Country,UG,UG,,
+Country,US,US,,
+Country,UY,UY,,
+Country,UZ,UZ,,
+Country,VC,VC,,
+Country,VE,VE,,
+Country,VN,VN,,
+Country,XK,XK,,
+Country,YE,YE,,
+Country,ZA,ZA,,
+Country,ZM,ZM,,
+Country,ZW,ZW,,
+State,US-AK,US,AK,
+State,US-AL,US,AL,
+State,US-AR,US,AR,
+State,US-AZ,US,AZ,
+State,US-CA,US,CA,
+State,US-CO,US,CO,
+State,US-CT,US,CT,
+State,US-DC,US,DC,
+State,US-DE,US,DE,
+State,US-FL,US,FL,
+State,US-GA,US,GA,
+State,US-HI,US,HI,
+State,US-IA,US,IA,
+State,US-ID,US,ID,
+State,US-IL,US,IL,
+State,US-IN,US,IN,
+State,US-KS,US,KS,
+State,US-KY,US,KY,
+State,US-LA,US,LA,
+State,US-MA,US,MA,
+State,US-MD,US,MD,
+State,US-ME,US,ME,
+State,US-MI,US,MI,
+State,US-MN,US,MN,
+State,US-MO,US,MO,
+State,US-MS,US,MS,
+State,US-MT,US,MT,
+State,US-NC,US,NC,
+State,US-ND,US,ND,
+State,US-NE,US,NE,
+State,US-NH,US,NH,
+State,US-NJ,US,NJ,
+State,US-NM,US,NM,
+State,US-NV,US,NV,
+State,US-NY,US,NY,
+State,US-OH,US,OH,
+State,US-OK,US,OK,
+State,US-OR,US,OR,
+State,US-PA,US,PA,
+State,US-RI,US,RI,
+State,US-SC,US,SC,
+State,US-SD,US,SD,
+State,US-TN,US,TN,
+State,US-TX,US,TX,
+State,US-UT,US,UT,
+State,US-VA,US,VA,
+State,US-VT,US,VT,
+State,US-WA,US,WA,
+State,US-WI,US,WI,
+State,US-WV,US,WV,
+State,US-WY,US,WY,
+City,CA-AB-AIRDRIE,CA,AB,AIRDRIE
+City,CA-AB-CALGARY,CA,AB,CALGARY
+City,CA-AB-EDMONTON,CA,AB,EDMONTON
+City,CA-AB-LETHBRIDGE,CA,AB,LETHBRIDGE
+State,CA-AB,CA,AB,
+City,CA-BC-ABBOTSFORD,CA,BC,ABBOTSFORD
+City,CA-BC-BURNABY,CA,BC,BURNABY
+City,CA-BC-COQUITLAM,CA,BC,COQUITLAM
+City,CA-BC-KAMLOOPS,CA,BC,KAMLOOPS
+City,CA-BC-KELOWNA,CA,BC,KELOWNA
+City,CA-BC-MAPLE_RIDGE,CA,BC,MAPLE_RIDGE
+City,CA-BC-PORT_COQUITLAM,CA,BC,PORT_COQUITLAM
+City,CA-BC-PRINCE_GEORGE,CA,BC,PRINCE_GEORGE
+City,CA-BC-RICHMOND,CA,BC,RICHMOND
+City,CA-BC-SURREY,CA,BC,SURREY
+City,CA-BC-VANCOUVER,CA,BC,VANCOUVER
+City,CA-BC-VICTORIA,CA,BC,VICTORIA
+State,CA-BC,CA,BC,
+City,CA-MB-WINNIPEG,CA,MB,WINNIPEG
+State,CA-MB,CA,MB,
+City,CA-NB-MONCTON,CA,NB,MONCTON
+State,CA-NB,CA,NB,
+City,CA-NL-ST_JOHNS,CA,NL,ST_JOHNS
+State,CA-NL,CA,NL,
+City,CA-NS-HALIFAX,CA,NS,HALIFAX
+State,CA-NS,CA,NS,
+City,CA-ON-BRAMPTON,CA,ON,BRAMPTON
+City,CA-ON-CAMBRIDGE,CA,ON,CAMBRIDGE
+City,CA-ON-HAMILTON,CA,ON,HAMILTON
+City,CA-ON-KITCHENER,CA,ON,KITCHENER
+City,CA-ON-LONDON,CA,ON,LONDON
+City,CA-ON-MARKHAM,CA,ON,MARKHAM
+City,CA-ON-MISSISSAUGA,CA,ON,MISSISSAUGA
+City,CA-ON-NIAGARA_FALLS,CA,ON,NIAGARA_FALLS
+City,CA-ON-NORTH_YORK,CA,ON,NORTH_YORK
+City,CA-ON-OSHAWA,CA,ON,OSHAWA
+City,CA-ON-OTTAWA,CA,ON,OTTAWA
+City,CA-ON-PICKERING,CA,ON,PICKERING
+City,CA-ON-RICHMOND_HILL,CA,ON,RICHMOND_HILL
+City,CA-ON-SARNIA,CA,ON,SARNIA
+City,CA-ON-SCARBOROUGH,CA,ON,SCARBOROUGH
+City,CA-ON-ST_CATHARINES,CA,ON,ST_CATHARINES
+City,CA-ON-TORONTO,CA,ON,TORONTO
+City,CA-ON-WINDSOR,CA,ON,WINDSOR
+State,CA-ON,CA,ON,
+City,CA-QC-DRUMMONDVILLE,CA,QC,DRUMMONDVILLE
+City,CA-QC-GATINEAU,CA,QC,GATINEAU
+City,CA-QC-LAVAL,CA,QC,LAVAL
+City,CA-QC-MONTREAL,CA,QC,MONTREAL
+City,CA-QC-QUEBEC,CA,QC,QUEBEC
+City,CA-QC-SHAWINIGAN,CA,QC,SHAWINIGAN
+City,CA-QC-SHERBROOKE,CA,QC,SHERBROOKE
+City,CA-QC-TROIS-RIVIERES,CA,QC,TROIS
+City,CA-QC-VAL-DOR,CA,QC,VAL
+State,CA-QC,CA,QC,
+City,CA-SK-REGINA,CA,SK,REGINA
+City,CA-SK-SASKATOON,CA,SK,SASKATOON
+State,CA-SK,CA,SK,
+State,DE-BB,DE,BB,
+City,DE-BE-BERLIN,DE,BE,BERLIN
+State,DE-BE,DE,BE,
+City,DE-BW-HEIDELBERG,DE,BW,HEIDELBERG
+City,DE-BW-KARLSRUHE,DE,BW,KARLSRUHE
+City,DE-BW-MANNHEIM,DE,BW,MANNHEIM
+City,DE-BW-STUTTGART,DE,BW,STUTTGART
+City,DE-BW-ULM,DE,BW,ULM
+State,DE-BW,DE,BW,
+City,DE-BY-AUGSBURG,DE,BY,AUGSBURG
+City,DE-BY-BAYREUTH,DE,BY,BAYREUTH
+City,DE-BY-LANDSHUT,DE,BY,LANDSHUT
+City,DE-BY-MUNICH,DE,BY,MUNICH
+City,DE-BY-NUREMBERG,DE,BY,NUREMBERG
+State,DE-BY,DE,BY,
+City,DE-HB-BREMEN,DE,HB,BREMEN
+City,DE-HB-BREMERHAVEN,DE,HB,BREMERHAVEN
+State,DE-HB,DE,HB,
+City,DE-HE-DREIEICH,DE,HE,DREIEICH
+City,DE-HE-FRANKFURT_AM_MAIN,DE,HE,FRANKFURT_AM_MAIN
+City,DE-HE-HANAU,DE,HE,HANAU
+City,DE-HE-KASSEL,DE,HE,KASSEL
+City,DE-HE-OFFENBACH,DE,HE,OFFENBACH
+City,DE-HE-WIESBADEN,DE,HE,WIESBADEN
+State,DE-HE,DE,HE,
+City,DE-HH-HAMBURG,DE,HH,HAMBURG
+State,DE-HH,DE,HH,
+State,DE-MV,DE,MV,
+City,DE-NI-BRAUNSCHWEIG,DE,NI,BRAUNSCHWEIG
+City,DE-NI-HANOVER,DE,NI,HANOVER
+State,DE-NI,DE,NI,
+City,DE-NW-AACHEN,DE,NW,AACHEN
+City,DE-NW-BOCHUM,DE,NW,BOCHUM
+City,DE-NW-BONN,DE,NW,BONN
+City,DE-NW-COLOGNE,DE,NW,COLOGNE
+City,DE-NW-DORTMUND,DE,NW,DORTMUND
+City,DE-NW-DUISBURG,DE,NW,DUISBURG
+City,DE-NW-DUSSELDORF,DE,NW,DUSSELDORF
+City,DE-NW-ESSEN,DE,NW,ESSEN
+City,DE-NW-GELSENKIRCHEN,DE,NW,GELSENKIRCHEN
+City,DE-NW-ISERLOHN,DE,NW,ISERLOHN
+City,DE-NW-MAINZ,DE,NW,MAINZ
+City,DE-NW-PADERBORN,DE,NW,PADERBORN
+City,DE-NW-SOEST,DE,NW,SOEST
+City,DE-NW-WUPPERTAL,DE,NW,WUPPERTAL
+State,DE-NW,DE,NW,
+City,DE-RP-KOBLENZ,DE,RP,KOBLENZ
+City,DE-RP-LUDWIGSHAFEN_AM_RHEIN,DE,RP,LUDWIGSHAFEN_AM_RHEIN
+State,DE-RP,DE,RP,
+City,DE-SH-KIEL,DE,SH,KIEL
+State,DE-SH,DE,SH,
+State,DE-SL,DE,SL,
+City,DE-SN-CHEMNITZ,DE,SN,CHEMNITZ
+City,DE-SN-DRESDEN,DE,SN,DRESDEN
+City,DE-SN-LEIPZIG,DE,SN,LEIPZIG
+State,DE-SN,DE,SN,
+City,DE-ST-HALLE,DE,ST,HALLE
+State,DE-ST,DE,ST,
+City,DE-TH-JENA,DE,TH,JENA
+State,DE-TH,DE,TH,
+City,ZW-HARARE,ZW,,Harare
+City,ZW-BULAWAYO,ZW,,Bulawayo
+City,ZM-LUSAKA,ZM,,Lusaka
+City,ZA-BRITS,ZA,,Brits
+City,ZA-DURBAN,ZA,,Durban
+City,ZA-PORT_ELIZABETH,ZA,,Port Elizabeth
+City,ZA-MIDRAND,ZA,,Midrand
+City,ZA-BLOEMFONTEIN,ZA,,Bloemfontein
+City,ZA-POLOKWANE,ZA,,Polokwane
+City,ZA-POTCHEFSTROOM,ZA,,Potchefstroom
+City,ZA-WELKOM,ZA,,Welkom
+City,ZA-ALBERTON,ZA,,Alberton
+City,ZA-NELSPRUIT,ZA,,Nelspruit
+City,ZA-PRETORIA,ZA,,Pretoria
+City,ZA-VANDERBIJLPARK,ZA,,Vanderbijlpark
+City,ZA-JOHANNESBURG,ZA,,Johannesburg
+City,ZA-CAPE_TOWN,ZA,,Cape Town
+City,ZA-TZANEEN,ZA,,Tzaneen
+City,ZA-BOKSBURG,ZA,,Boksburg
+City,YE-SANAA,YE,,Sanaa
+City,XK-PRISTINA,XK,,Pristina
+City,VN-QUI_NHON,VN,,Qui Nhon
+City,VN-SOC_TRANG,VN,,Soc Trang
+City,VN-THANH_PHO_HAI_DUONG,VN,,Thanh Pho Hai Duong
+City,VN-AP_BINH_THUAN,VN,,Ap Binh Thuan
+City,VN-HOI_AN,VN,,Hoi An
+City,VN-RACH_GIA,VN,,Rach Gia
+City,VN-BAC_NINH,VN,,Bac Ninh
+City,VN-DONG_NAI,VN,,Dong Nai
+City,VN-BIEN_HOA,VN,,Bien Hoa
+City,VN-CAN_THO,VN,,Can Tho
+City,VN-HO_CHI_MINH_CITY,VN,,Ho Chi Minh City
+City,VN-HANOI,VN,,Hanoi
+City,VN-AN_NHON,VN,,An Nhon
+City,VN-TAY_NINH,VN,,Tay Ninh
+City,VN-TRA_VINH,VN,,Tra Vinh
+City,VN-TAN_AN,VN,,Tan An
+City,VN-LONG_XUYEN,VN,,Long Xuyen
+City,VN-THANH_PHO_THAI_NGUYEN,VN,,Thanh Pho Thai Nguyen
+City,VN-THANH_PHO_THAI_BINH,VN,,Thanh Pho Thai Binh
+City,VN-DA_LAT,VN,,Da Lat
+City,VN-BAO_LOC,VN,,Bao Loc
+City,VN-DA_NANG,VN,,Da Nang
+City,VN-BAC_GIANG,VN,,Bac Giang
+City,VN-THUAN_AN,VN,,Thuan An
+City,VN-PLEIKU,VN,,Pleiku
+City,VN-HAIPHONG,VN,,Haiphong
+City,VN-TUY_HOA,VN,,Tuy Hoa
+City,VN-VINH,VN,,Vinh
+City,VN-CA_MAU,VN,,Ca Mau
+City,VN-HUNG_YEN,VN,,Hung Yen
+City,VN-GO_VAP,VN,,Go Vap
+City,VN-THANH_PHO_NINH_BINH,VN,,Thanh Pho Ninh Binh
+City,VN-KON_TUM,VN,,Kon Tum
+City,VN-BUON_MA_THUOT,VN,,Buon Ma Thuot
+City,VN-NHA_TRANG,VN,,Nha Trang
+City,VN-THU_DAU_MOT,VN,,Thu Dau Mot
+City,VC-KINGSTOWN,VC,,Kingstown
+City,UZ-MARGILAN,UZ,,Margilan
+City,UZ-TASHKENT,UZ,,Tashkent
+City,UZ-BALANDCHAQIR,UZ,,Balandchaqir
+City,UZ-AMIR_TIMUR,UZ,,Amir Timur
+City,UZ-URGUT,UZ,,Urgut
+City,UY-MONTEVIDEO,UY,,Montevideo
+City,UG-KAMPALA,UG,,Kampala
+City,UA-ZHYTOMYR,UA,,Zhytomyr
+City,UA-CHERNIHIV,UA,,Chernihiv
+City,UA-KRAMATORSK,UA,,Kramatorsk
+City,UA-IVANO-FRANKIVSK,UA,,Ivano-Frankivsk
+City,UA-KADIYIVKA,UA,,Kadiyivka
+City,UA-ZOLOCHIV,UA,,Zolochiv
+City,UA-SIMFEROPOL,UA,,Simferopol
+City,UA-ODESA,UA,,Odesa
+City,UA-DROHOBYCH,UA,,Drohobych
+City,UA-KAMIANSKE,UA,,Kamianske
+City,UA-BAKHCHISARAY,UA,,Bakhchisaray
+City,UA-BILA_TSERKVA,UA,,Bila Tserkva
+City,UA-SHEPETIVKA,UA,,Shepetivka
+City,UA-DNIPRO,UA,,Dnipro
+City,UA-IZMAIL,UA,,Izmail
+City,UA-SAMBIR,UA,,Sambir
+City,UA-TERNOPIL,UA,,Ternopil
+City,UA-KERCH,UA,,Kerch
+City,UA-LUTUGINO,UA,,Lutugino
+City,UA-LYMAN,UA,,Lyman
+City,UA-KROLEVETS,UA,,Krolevets
+City,UA-UZHHOROD,UA,,Uzhhorod
+City,UA-FEODOSIYA,UA,,Feodosiya
+City,UA-KHUST,UA,,Khust
+City,UA-KHERSON,UA,,Kherson
+City,UA-KRYVYY_RIH,UA,,Kryvyy Rih
+City,UA-KHARKIV,UA,,Kharkiv
+City,UA-KROPYVNYTSKYI,UA,,Kropyvnytskyi
+City,UA-LUTSK,UA,,Lutsk
+City,UA-TEPLODAR,UA,,Teplodar
+City,UA-PRYLUKY,UA,,Pryluky
+City,UA-MAKIYIVKA,UA,,Makiyivka
+City,UA-ENERGODAR,UA,,Energodar
+City,UA-HORLIVKA,UA,,Horlivka
+City,UA-ROVENKI,UA,,Rovenki
+City,UA-VESELE,UA,,Vesele
+City,UA-MEREFA,UA,,Merefa
+City,UA-CHERKASY,UA,,Cherkasy
+City,UA-BROVARY,UA,,Brovary
+City,UA-SMILA,UA,,Smila
+City,UA-NOVOMOSKOVSK,UA,,Novomoskovsk
+City,UA-CHERNIVTSI,UA,,Chernivtsi
+City,UA-MUKACHEVE,UA,,Mukacheve
+City,UA-LUHANSK,UA,,Luhansk
+City,UA-BERDYCHIV,UA,,Berdychiv
+City,UA-YALTA,UA,,Yalta
+City,UA-ZAPORIZHIA,UA,,Zaporizhia
+City,UA-RIVNE,UA,,Rivne
+City,UA-PAVLOHRAD,UA,,Pavlohrad
+City,UA-KHMELNYTSKYI,UA,,Khmelnytskyi
+City,UA-MARIUPOL,UA,,Mariupol
+City,UA-STAROKOSTIANTYNIV,UA,,Starokostiantyniv
+City,UA-SOROKYNE,UA,,Sorokyne
+City,UA-KIROVSKOYE,UA,,Kirovskoye
+City,UA-MYKOLAYIV,UA,,Mykolayiv
+City,UA-KREMENCHUK,UA,,Kremenchuk
+City,UA-KYIV,UA,,Kyiv
+City,UA-BELOGORSK,UA,,Belogorsk
+City,UA-LISICHANSK,UA,,Lisichansk
+City,UA-RUBIZHNE,UA,,Rubizhne
+City,UA-KOVEL,UA,,Kovel
+City,UA-SLOVIANSK,UA,,Sloviansk
+City,UA-KALUSH,UA,,Kalush
+City,UA-VINNYTSIA,UA,,Vinnytsia
+City,UA-SEVASTOPOL,UA,,Sevastopol
+City,UA-SUMY,UA,,Sumy
+City,UA-VASYLKIV,UA,,Vasylkiv
+City,UA-DONETSK,UA,,Donetsk
+City,UA-POLTAVA,UA,,Poltava
+City,UA-SLAVUTA,UA,,Slavuta
+City,UA-LVIV,UA,,Lviv
+City,UA-STRYI,UA,,Stryi
+City,TZ-DAR_ES_SALAAM,TZ,,Dar es Salaam
+City,TW-CHANG-HUA,TW,,Chang-hua
+City,TW-KAOHSIUNG_CITY,TW,,Kaohsiung City
+City,TW-PINGTUNG_CITY,TW,,Pingtung City
+City,TW-CHIAYI_CITY,TW,,Chiayi City
+City,TW-TAIPEI,TW,,Taipei
+City,TW-HSINCHU,TW,,Hsinchu
+City,TW-TAOYUAN_DISTRICT,TW,,Taoyuan District
+City,TW-TAINAN_CITY,TW,,Tainan City
+City,TW-TAICHUNG,TW,,Taichung
+City,TT-CHAGUANAS,TT,,Chaguanas
+City,TT-ARIMA,TT,,Arima
+City,TT-PORT_OF_SPAIN,TT,,Port of Spain
+City,TN-KAIROUAN,TN,,Kairouan
+City,TN-BEN_AROUS,TN,,Ben Arous
+City,TN-TUNIS,TN,,Tunis
+City,TN-ARYANAH,TN,,Aryanah
+City,TN-SIDI_BOUZID,TN,,Sidi Bouzid
+City,SV-SAN_SALVADOR,SV,,San Salvador
+City,SR-PARAMARIBO,SR,,Paramaribo
+City,SN-DAKAR,SN,,Dakar
+City,SK-BRATISLAVA,SK,,Bratislava
+City,SK-TRNAVA,SK,,Trnava
+City,SI-LJUBLJANA,SI,,Ljubljana
+City,SI-MARIBOR,SI,,Maribor
+City,SG-SINGAPORE,SG,,Singapore
+City,SE-STOCKHOLM,SE,,Stockholm
+City,SE-MALMO,SE,,Malmo
+City,SE-GOTHENBURG,SE,,Gothenburg
+City,SD-KHARTOUM,SD,,Khartoum
+City,SC-VICTORIA,SC,,Victoria
+City,SA-DAMMAM,SA,,Dammam
+City,SA-KHOBAR,SA,,Khobar
+City,SA-JEDDAH,SA,,Jeddah
+City,SA-MECCA,SA,,Mecca
+City,SA-DHAHRAN,SA,,Dhahran
+City,SA-MEDINA,SA,,Medina
+City,SA-RIYADH,SA,,Riyadh
+City,RS-LESKOVAC,RS,,Leskovac
+City,RS-SOMBOR,RS,,Sombor
+City,RS-KRAGUJEVAC,RS,,Kragujevac
+City,RS-KRALJEVO,RS,,Kraljevo
+City,RS-BASAID,RS,,Basaid
+City,RS-SUBOTICA,RS,,Subotica
+City,RS-NOVI_SAD,RS,,Novi Sad
+City,RS-BELGRADE,RS,,Belgrade
+City,RS-KNJAZEVAC,RS,,Knjazevac
+City,RS-ALEKSINAC,RS,,Aleksinac
+City,RO-BAIA_MARE,RO,,Baia Mare
+City,RO-TULCEA,RO,,Tulcea
+City,RO-SUCEAVA,RO,,Suceava
+City,RO-CAMPULUNG_MUSCEL,RO,,Campulung Muscel
+City,RO-BUCHAREST,RO,,Bucharest
+City,RO-ORADEA,RO,,Oradea
+City,RO-ALBA_IULIA,RO,,Alba Iulia
+City,RO-SLATINA,RO,,Slatina
+City,RO-CRAIOVA,RO,,Craiova
+City,RO-CLUJ-NAPOCA,RO,,Cluj-Napoca
+City,RO-ARAD,RO,,Arad
+City,RO-GIURGIU,RO,,Giurgiu
+City,RO-SIBIU,RO,,Sibiu
+City,RO-DEVA,RO,,Deva
+City,RO-VASLUI,RO,,Vaslui
+City,RO-CALARASI,RO,,Calarasi
+City,RO-SATU_MARE,RO,,Satu Mare
+City,RE-SAINTE-CLOTILDE,RE,,Sainte-Clotilde
+City,RE-SAINT-DENIS,RE,,Saint-Denis
+City,QA-DOHA,QA,,Doha
+City,PY-CIUDAD_DEL_ESTE,PY,,Ciudad del Este
+City,PY-SAN_LORENZO,PY,,San Lorenzo
+City,PT-PONTA_DELGADA,PT,,Ponta Delgada
+City,PT-BRAGA,PT,,Braga
+City,PT-ODIVELAS,PT,,Odivelas
+City,PT-FUNCHAL,PT,,Funchal
+City,PT-VILA_NOVA_DE_GAIA,PT,,Vila Nova de Gaia
+City,PT-VISEU,PT,,Viseu
+City,PT-AMARANTE,PT,,Amarante
+City,PT-COIMBRA,PT,,Coimbra
+City,PT-MAIA,PT,,Maia
+City,PT-LISBON,PT,,Lisbon
+City,PT-PORTO,PT,,Porto
+City,PT-FARO,PT,,Faro
+City,PT-AVEIRO,PT,,Aveiro
+City,PS-NABLUS,PS,,Nablus
+City,PS-GAZA,PS,,Gaza
+City,PS-RAMALLAH,PS,,Ramallah
+City,PR-CAGUAS,PR,,Caguas
+City,PK-GUJRANWALA,PK,,Gujranwala
+City,PK-BAHAWALPUR,PK,,Bahawalpur
+City,PK-MALAKAND,PK,,Malakand
+City,PK-SARGODHA,PK,,Sargodha
+City,PK-KARACHI,PK,,Karachi
+City,PK-PESHAWAR,PK,,Peshawar
+City,PK-ABBOTTABAD,PK,,Abbottabad
+City,PK-SIALKOT,PK,,Sialkot
+City,PK-ISLAMABAD,PK,,Islamabad
+City,PK-FAISALABAD,PK,,Faisalabad
+City,PK-GUJRAT,PK,,Gujrat
+City,PK-MARDAN,PK,,Mardan
+City,PK-RAWALPINDI,PK,,Rawalpindi
+City,PK-LAHORE,PK,,Lahore
+City,PK-HYDERABAD,PK,,Hyderabad
+City,PK-HAFIZABAD,PK,,Hafizabad
+City,PK-QUETTA,PK,,Quetta
+City,PK-MULTAN,PK,,Multan
+City,PK-JHELUM,PK,,Jhelum
+City,PH-ANGELES_CITY,PH,,Angeles City
+City,PH-MANILA,PH,,Manila
+City,PH-DAVAO_CITY,PH,,Davao City
+City,PH-SAMPALOC,PH,,Sampaloc
+City,PH-OLONGAPO_CITY,PH,,Olongapo City
+City,PH-LA_TRINIDAD,PH,,La Trinidad
+City,PH-LIPA_CITY,PH,,Lipa City
+City,PH-LAS_PINAS,PH,,Las Pinas
+City,PH-MAKATI_CITY,PH,,Makati City
+City,PH-BATANGAS,PH,,Batangas
+City,PH-NAGA,PH,,Naga
+City,PH-PARANAQUE_CITY,PH,,Paranaque City
+City,PH-LAPU-LAPU_CITY,PH,,Lapu-Lapu City
+City,PH-CEBU_CITY,PH,,Cebu City
+City,PH-ANTIPOLO,PH,,Antipolo
+City,PH-SANTA_ROSA,PH,,Santa Rosa
+City,PH-SAN_JUAN,PH,,San Juan
+City,PH-PASIG,PH,,Pasig
+City,PH-SAN_PEDRO,PH,,San Pedro
+City,PH-MANDAUE_CITY,PH,,Mandaue City
+City,PH-MUNTINLUPA,PH,,Muntinlupa
+City,PH-TARLAC_CITY,PH,,Tarlac City
+City,PH-PASAY,PH,,Pasay
+City,PH-MARIKINA_CITY,PH,,Marikina City
+City,PH-MANDALUYONG_CITY,PH,,Mandaluyong City
+City,PH-LUCENA_CITY,PH,,Lucena City
+City,PH-IMUS,PH,,Imus
+City,PH-BACOOR,PH,,Bacoor
+City,PH-BAGUIO_CITY,PH,,Baguio City
+City,PH-CALAMBA,PH,,Calamba
+City,PH-GENERAL_TRIAS,PH,,General Trias
+City,PH-DAGUPAN,PH,,Dagupan
+City,PH-MABALACAT,PH,,Mabalacat
+City,PH-ILIGAN_CITY,PH,,Iligan City
+City,PH-DASMARINAS,PH,,Dasmarinas
+City,PH-PULILAN,PH,,Pulilan
+City,PH-TAGUIG,PH,,Taguig
+City,PH-SAN_JOSE_DEL_MONTE,PH,,San Jose del Monte
+City,PH-CAINTA,PH,,Cainta
+City,PH-MANAJAO,PH,,Manajao
+City,PH-BINAN,PH,,Binan
+City,PH-QUEZON_CITY,PH,,Quezon City
+City,PH-CALOOCAN_CITY,PH,,Caloocan City
+City,PH-TALISAY_CITY,PH,,Talisay City
+City,PH-BACOLOD_CITY,PH,,Bacolod City
+City,PH-CAVITE_CITY,PH,,Cavite City
+City,PH-CAGAYAN_DE_ORO,PH,,Cagayan de Oro
+City,PH-URDANETA,PH,,Urdaneta
+City,PE-AREQUIPA,PE,,Arequipa
+City,PE-LIMA,PE,,Lima
+City,PA-PANAMA_CITY,PA,,Panama City
+City,OM-MUSCAT,OM,,Muscat
+City,NZ-WELLINGTON,NZ,,Wellington
+City,NZ-CHRISTCHURCH,NZ,,Christchurch
+City,NZ-PALMERSTON_NORTH,NZ,,Palmerston North
+City,NZ-AUCKLAND,NZ,,Auckland
+City,NP-KATHMANDU,NP,,Kathmandu
+City,NO-OSLO,NO,,Oslo
+City,NO-STAVANGER,NO,,Stavanger
+City,NL-ROTTERDAM,NL,,Rotterdam
+City,NL-NIJMEGEN,NL,,Nijmegen
+City,NL-ALMERE_STAD,NL,,Almere Stad
+City,NL-THE_HAGUE,NL,,The Hague
+City,NL-EINDHOVEN,NL,,Eindhoven
+City,NL-AMSTERDAM,NL,,Amsterdam
+City,NI-MANAGUA,NI,,Managua
+City,NG-SULEJA,NG,,Suleja
+City,NG-PORT_HARCOURT,NG,,Port Harcourt
+City,NG-LAGOS,NG,,Lagos
+City,NA-SWAKOPMUND,NA,,Swakopmund
+City,NA-WINDHOEK,NA,,Windhoek
+City,NA-OSHAKATI,NA,,Oshakati
+City,MZ-MAPUTO,MZ,,Maputo
+City,MU-VACOAS,MU,,Vacoas
+City,MU-PORT_LOUIS,MU,,Port Louis
+City,MU-BEAU_BASSIN-ROSE_HILL,MU,,Beau Bassin-Rose Hill
+City,MU-FLOREAL,MU,,Floreal
+City,MQ-FORT-DE-FRANCE,MQ,,Fort-de-France
+City,MO-MACAO,MO,,Macao
+City,MN-ULAN_BATOR,MN,,Ulan Bator
+City,MN-UNDURKHAAN,MN,,Undurkhaan
+City,MM-YANGON,MM,,Yangon
+City,MM-MANDALAY,MM,,Mandalay
+City,ML-BAMAKO,ML,,Bamako
+City,MK-PRILEP,MK,,Prilep
+City,MK-KUMANOVO,MK,,Kumanovo
+City,MK-KAVADARCI,MK,,Kavadarci
+City,MK-SKOPJE,MK,,Skopje
+City,MK-STRUMICA,MK,,Strumica
+City,MK-TETOVO,MK,,Tetovo
+City,MK-VELES,MK,,Veles
+City,MK-BITOLA,MK,,Bitola
+City,MG-ANTANANARIVO,MG,,Antananarivo
+City,ME-PODGORICA,ME,,Podgorica
+City,MD-FLORESTI,MD,,Floresti
+City,MD-TIGHINA,MD,,Tighina
+City,MD-CHISINAU,MD,,Chisinau
+City,MD-TIRASPOL,MD,,Tiraspol
+City,MD-UNGHENI,MD,,Ungheni
+City,MD-DROCHIA,MD,,Drochia
+City,MA-AGADIR,MA,,Agadir
+City,MA-BENI_MELLAL,MA,,Beni Mellal
+City,MA-OUJDA,MA,,Oujda
+City,MA-KENITRA,MA,,Kenitra
+City,MA-TANGIER,MA,,Tangier
+City,MA-MARRAKESH,MA,,Marrakesh
+City,MA-RABAT,MA,,Rabat
+City,MA-FES,MA,,Fes
+City,MA-CASABLANCA,MA,,Casablanca
+City,MA-MEKNES,MA,,Meknes
+City,MA-NADOR,MA,,Nador
+City,MA-DOUAR_JDIDA,MA,,Douar Jdida
+City,MA-KHOURIBGA,MA,,Khouribga
+City,LY-AL_JAWF,LY,,Al Jawf
+City,LY-TRIPOLI,LY,,Tripoli
+City,LY-BENGHAZI,LY,,Benghazi
+City,LV-JELGAVA,LV,,Jelgava
+City,LV-RIGA,LV,,Riga
+City,LT-JONAVA,LT,,Jonava
+City,LT-PANEVEZYS,LT,,Panevezys
+City,LT-VISAGINAS,LT,,Visaginas
+City,LT-VILNIUS,LT,,Vilnius
+City,LT-ALYTUS,LT,,Alytus
+City,LT-KAUNAS,LT,,Kaunas
+City,LK-PANNIPITIYA,LK,,Pannipitiya
+City,LK-WATTALA,LK,,Wattala
+City,LK-COLOMBO,LK,,Colombo
+City,LK-KANDY,LK,,Kandy
+City,LC-CASTRIES,LC,,Castries
+City,LB-SIDON,LB,,Sidon
+City,LB-BEIRUT,LB,,Beirut
+City,LA-VIENTIANE,LA,,Vientiane
+City,KZ-TARAZ,KZ,,Taraz
+City,KZ-ALMATY,KZ,,Almaty
+City,KZ-SHYMKENT,KZ,,Shymkent
+City,KZ-KOSTANAY,KZ,,Kostanay
+City,KZ-ATYRAU,KZ,,Atyrau
+City,KZ-DZHEZKAZGAN,KZ,,Dzhezkazgan
+City,KZ-PETROPAVL,KZ,,Petropavl
+City,KZ-RIDDER,KZ,,Ridder
+City,KZ-KYZYLORDA,KZ,,Kyzylorda
+City,KZ-PAVLODAR,KZ,,Pavlodar
+City,KZ-ASTANA,KZ,,Astana
+City,KZ-SEMEY,KZ,,Semey
+City,KZ-BALQASH,KZ,,Balqash
+City,KZ-TEMIRTAU,KZ,,Temirtau
+City,KZ-KARAGANDY,KZ,,Karagandy
+City,KZ-AKSAY,KZ,,Aksay
+City,KZ-UST-KAMENOGORSK,KZ,,Ust-Kamenogorsk
+City,KZ-EKIBASTUZ,KZ,,Ekibastuz
+City,KZ-TALDYKORGAN,KZ,,Taldykorgan
+City,KZ-AKTAU,KZ,,Aktau
+City,KW-KUWAIT_CITY,KW,,Kuwait City
+City,KH-PHNOM_PENH,KH,,Phnom Penh
+City,KG-BISHKEK,KG,,Bishkek
+City,KG-OSH,KG,,Osh
+City,KE-NAIROBI,KE,,Nairobi
+City,KE-MOMBASA,KE,,Mombasa
+City,JO-AMMAN,JO,,Amman
+City,JM-KINGSTON,JM,,Kingston
+City,IS-REYKJAVIK,IS,,Reykjavik
+City,IR-TEHRAN,IR,,Tehran
+City,IQ-SULAYMANAH,IQ,,Sulaymanah
+City,IQ-NAJAF,IQ,,Najaf
+City,IQ-BASRAH,IQ,,Basrah
+City,IQ-ZAYWIKAH,IQ,,Zaywikah
+City,IQ-BAGHDAD,IQ,,Baghdad
+City,IQ-ERBIL,IQ,,Erbil
+City,IQ-KARBALA,IQ,,Karbala
+City,IL-JERUSALEM,IL,,Jerusalem
+City,IL-RAMAT_GAN,IL,,Ramat Gan
+City,IL-HAIFA,IL,,Haifa
+City,IL-RISHON_LEZIYYON,IL,,Rishon LeZiyyon
+City,IL-TEL_AVIV,IL,,Tel Aviv
+City,IL-HOLON,IL,,Holon
+City,IE-DUBLIN,IE,,Dublin
+City,HU-OZD,HU,,Ozd
+City,HU-SZOMBATHELY,HU,,Szombathely
+City,HU-DEBRECEN,HU,,Debrecen
+City,HU-SZEGED,HU,,Szeged
+City,HU-NYIREGYHAZA,HU,,Nyiregyhaza
+City,HU-MISKOLC,HU,,Miskolc
+City,HU-SZOLNOK,HU,,Szolnok
+City,HU-BUDAPEST,HU,,Budapest
+City,HU-ZALAEGERSZEG,HU,,Zalaegerszeg
+City,HU-SZIGETSZENTMIKLOS,HU,,Szigetszentmiklos
+City,HT-PORT-AU-PRINCE,HT,,Port-au-Prince
+City,HR-RIJEKA,HR,,Rijeka
+City,HR-ZAGREB,HR,,Zagreb
+City,HR-OSIJEK,HR,,Osijek
+City,HR-SPLIT,HR,,Split
+City,HN-TEGUCIGALPA,HN,,Tegucigalpa
+City,HN-SAN_PEDRO_SULA,HN,,San Pedro Sula
+City,GY-GEORGETOWN,GY,,Georgetown
+City,GT-GUATEMALA_CITY,GT,,Guatemala City
+City,GR-ATHENS,GR,,Athens
+City,GR-IOANNINA,GR,,Ioannina
+City,GR-HERAKLION,GR,,Heraklion
+City,GR-XANTHI,GR,,Xanthi
+City,GR-LARISSA,GR,,Larissa
+City,GR-THESSALONIKI,GR,,Thessaloniki
+City,GR-KAVALA,GR,,Kavala
+City,GP-LES_ABYMES,GP,,Les Abymes
+City,GH-ACCRA,GH,,Accra
+City,GE-ONI,GE,,Oni
+City,GE-BATUMI,GE,,Batumi
+City,GE-TBILISI,GE,,Tbilisi
+City,GE-LENTEKHI,GE,,Lentekhi
+City,GE-KUTAISI,GE,,Kutaisi
+City,FI-HELSINKI,FI,,Helsinki
+City,ET-ADDIS_ABABA,ET,,Addis Ababa
+City,EG-DAMANHUR,EG,,Damanhur
+City,EG-GIZA,EG,,Giza
+City,EG-HURGHADA,EG,,Hurghada
+City,EG-SUEZ,EG,,Suez
+City,EG-ZAGAZIG,EG,,Zagazig
+City,EG-DISUQ,EG,,Disuq
+City,EG-ISMAILIA,EG,,Ismailia
+City,EG-MINYA,EG,,Minya
+City,EG-SOHAG,EG,,Sohag
+City,EG-QINA,EG,,Qina
+City,EG-PORT_SAID,EG,,Port Said
+City,EG-DAMIETTA,EG,,Damietta
+City,EG-TANTA,EG,,Tanta
+City,EG-CAIRO,EG,,Cairo
+City,EG-ASSIUT,EG,,Assiut
+City,EG-MUNUF,EG,,Munuf
+City,EG-KAWM_HAMADAH,EG,,Kawm Hamadah
+City,EG-AL_MANSURAH,EG,,Al Mansurah
+City,EG-BANHA,EG,,Banha
+City,EG-ALEXANDRIA,EG,,Alexandria
+City,EG-ASWAN,EG,,Aswan
+City,EG-BANI_SUWAYF,EG,,Bani Suwayf
+City,EE-NARVA,EE,,Narva
+City,EE-TARTU,EE,,Tartu
+City,EE-TALLINN,EE,,Tallinn
+City,EC-CUENCA,EC,,Cuenca
+City,EC-AMBATO,EC,,Ambato
+City,EC-GUAYAQUIL,EC,,Guayaquil
+City,EC-QUITO,EC,,Quito
+City,DZ-CHLEF,DZ,,Chlef
+City,DZ-SAIDA,DZ,,Saida
+City,DZ-ALGIERS,DZ,,Algiers
+City,DZ-TLEMCEN,DZ,,Tlemcen
+City,DZ-OUARGLA,DZ,,Ouargla
+City,DZ-KHEMIS_EL_KHECHNA,DZ,,Khemis el Khechna
+City,DZ-LAGHOUAT,DZ,,Laghouat
+City,DZ-CONSTANTINE,DZ,,Constantine
+City,DZ-ORAN,DZ,,Oran
+City,DZ-EL_IDRISSIA,DZ,,El Idrissia
+City,DZ-BOGHNI,DZ,,Boghni
+City,DZ-GUELMA,DZ,,Guelma
+City,DZ-EL_OUED,DZ,,El Oued
+City,DZ-BATNA_CITY,DZ,,Batna City
+City,DZ-EL_BAYADH,DZ,,El Bayadh
+City,DZ-TIGZIRT,DZ,,Tigzirt
+City,DZ-SIDI_BEL_ABBES,DZ,,Sidi Bel Abbes
+City,DZ-ANNABA,DZ,,Annaba
+City,DZ-BLIDA,DZ,,Blida
+City,DO-SANTO_DOMINGO,DO,,Santo Domingo
+City,DO-SANTIAGO_DE_LOS_CABALLEROS,DO,,Santiago de los Caballeros
+City,DK-COPENHAGEN,DK,,Copenhagen
+City,CZ-CASLAV,CZ,,Caslav
+City,CZ-PRAGUE,CZ,,Prague
+City,CZ-OSTRAVA,CZ,,Ostrava
+City,CZ-LIBEREC,CZ,,Liberec
+City,CZ-BRNO,CZ,,Brno
+City,CZ-OLOMOUC,CZ,,Olomouc
+City,CZ-PILSEN,CZ,,Pilsen
+City,CY-NICOSIA,CY,,Nicosia
+City,CY-LIMASSOL,CY,,Limassol
+City,CR-CARTAGO,CR,,Cartago
+City,CR-HEREDIA,CR,,Heredia
+City,CR-ALAJUELA,CR,,Alajuela
+City,CO-SANTIAGO_DE_CALI,CO,,Santiago de Cali
+City,CO-CARTAGENA,CO,,Cartagena
+City,CO-BUCARAMANGA,CO,,Bucaramanga
+City,CN-DALIAN,CN,,Dalian
+City,CN-MIANYANG,CN,,Mianyang
+City,CN-YULIN,CN,,Yulin
+City,CN-LANZHOU,CN,,Lanzhou
+City,CN-KUNSHAN,CN,,Kunshan
+City,CN-GUANGZHOU,CN,,Guangzhou
+City,CN-HANDAN,CN,,Handan
+City,CN-TIANJIN,CN,,Tianjin
+City,CN-DONGGUAN,CN,,Dongguan
+City,CN-NANCHANG,CN,,Nanchang
+City,CN-FUZHOU,CN,,Fuzhou
+City,CN-GANZHOU,CN,,Ganzhou
+City,CN-ZIBO,CN,,Zibo
+City,CN-YINCHUAN,CN,,Yinchuan
+City,CN-WENZHOU,CN,,Wenzhou
+City,CN-SHANTOU,CN,,Shantou
+City,CN-HARBIN,CN,,Harbin
+City,CN-CHANGCHUN,CN,,Changchun
+City,CN-JINAN,CN,,Jinan
+City,CN-LUOYANG,CN,,Luoyang
+City,CN-GUILIN,CN,,Guilin
+City,CN-JINING,CN,,Jining
+City,CN-JIAXING,CN,,Jiaxing
+City,CN-GUIYANG,CN,,Guiyang
+City,CN-QINGDAO,CN,,Qingdao
+City,CN-SHIJIAZHUANG,CN,,Shijiazhuang
+City,CN-FOSHAN,CN,,Foshan
+City,CN-DAQING,CN,,Daqing
+City,CN-HEFEI,CN,,Hefei
+City,CN-LANGFANG,CN,,Langfang
+City,CN-NANTONG,CN,,Nantong
+City,CN-MAOMING,CN,,Maoming
+City,CN-CHANGZHOU,CN,,Changzhou
+City,CN-BAOTOU,CN,,Baotou
+City,CN-NANNING,CN,,Nanning
+City,CN-NANJING,CN,,Nanjing
+City,CN-JIANNING,CN,,Jianning
+City,CN-ZHAOJIAPENG,CN,,Zhaojiapeng
+City,CN-CHENGDU,CN,,Chengdu
+City,CN-LIUZHOU,CN,,Liuzhou
+City,CN-YANTAI,CN,,Yantai
+City,CN-TAIZHOU,CN,,Taizhou
+City,CN-NINGBO,CN,,Ningbo
+City,CN-CHANGSHA,CN,,Changsha
+City,CN-ZHENGZHOU,CN,,Zhengzhou
+City,CN-SHENZHEN,CN,,Shenzhen
+City,CN-SHENYANG,CN,,Shenyang
+City,CN-GUOZHEN,CN,,Guozhen
+City,CN-LINHAI,CN,,Linhai
+City,CN-WUHAN,CN,,Wuhan
+City,CN-WUXI,CN,,Wuxi
+City,CN-ZHUHAI,CN,,Zhuhai
+City,CN-KUNMING,CN,,Kunming
+City,CN-SHANGHAI,CN,,Shanghai
+City,CN-KAIFENG,CN,,Kaifeng
+City,CN-SHAOXING,CN,,Shaoxing
+City,CN-HAIKOU,CN,,Haikou
+City,CN-JINHUA,CN,,Jinhua
+City,CN-YANGZHOU,CN,,Yangzhou
+City,CN-JIANGMEN,CN,,Jiangmen
+City,CN-ZIGONG,CN,,Zigong
+City,CN-SUZHOU,CN,,Suzhou
+City,CN-HANGZHOU,CN,,Hangzhou
+City,CN-ZHONGSHAN,CN,,Zhongshan
+City,CN-LINYI,CN,,Linyi
+City,CN-QUANZHOU,CN,,Quanzhou
+City,CN-HUZHOU,CN,,Huzhou
+City,CN-JILIN_CITY,CN,,Jilin City
+City,CN-BEIJING,CN,,Beijing
+City,CN-YIWU,CN,,Yiwu
+City,CN-CHONGQING,CN,,Chongqing
+City,CN-TAIYUAN,CN,,Taiyuan
+City,CN-HUIZHOU,CN,,Huizhou
+City,CN-XIAMEN,CN,,Xiamen
+City,CM-DOUALA,CM,,Douala
+City,CM-AMBAM,CM,,Ambam
+City,CL-SANTIAGO,CL,,Santiago
+City,CI-ABIDJAN,CI,,Abidjan
+City,CH-BERN,CH,,Bern
+City,CH-LUCERNE,CH,,Lucerne
+City,CH-GENEVA,CH,,Geneva
+City,CH-LAUSANNE,CH,,Lausanne
+City,CH-BASEL,CH,,Basel
+City,CH-ZURICH,CH,,Zurich
+City,BY-HRODNA,BY,,Hrodna
+City,BY-VITEBSK,BY,,Vitebsk
+City,BY-PINSK,BY,,Pinsk
+City,BY-MOGILEV,BY,,Mogilev
+City,BY-ZHLOBIN,BY,,Zhlobin
+City,BY-GOMEL,BY,,Gomel
+City,BY-POLATSK,BY,,Polatsk
+City,BY-BORISOV,BY,,Borisov
+City,BY-KOBRYN,BY,,Kobryn
+City,BY-MINSK,BY,,Minsk
+City,BY-MAZYR,BY,,Mazyr
+City,BY-BABRUYSK,BY,,Babruysk
+City,BY-BREST,BY,,Brest
+City,BW-FRANCISTOWN,BW,,Francistown
+City,BW-GABORONE,BW,,Gaborone
+City,BS-NASSAU,BS,,Nassau
+City,BO-SANTA_CRUZ,BO,,Santa Cruz
+City,BO-COCHABAMBA,BO,,Cochabamba
+City,BO-LA_PAZ,BO,,La Paz
+City,BN-BANDAR_SERI_BEGAWAN,BN,,Bandar Seri Begawan
+City,BJ-COTONOU,BJ,,Cotonou
+City,BH-MANAMA,BH,,Manama
+City,BG-MONTANA,BG,,Montana
+City,BG-ROUSSE,BG,,Rousse
+City,BG-HASKOVO,BG,,Haskovo
+City,BG-VELINGRAD,BG,,Velingrad
+City,BG-KARLOVO,BG,,Karlovo
+City,BG-PAZARDZHIK,BG,,Pazardzhik
+City,BG-TARGOVISHTE,BG,,Targovishte
+City,BG-KARDZHALI,BG,,Kardzhali
+City,BG-VRATSA,BG,,Vratsa
+City,BG-SVISHTOV,BG,,Svishtov
+City,BG-SHUMEN,BG,,Shumen
+City,BG-BLAGOEVGRAD,BG,,Blagoevgrad
+City,BG-SLIVEN,BG,,Sliven
+City,BG-GORNA_ORYAHOVITSA,BG,,Gorna Oryahovitsa
+City,BG-VELIKO_TARNOVO,BG,,Veliko Tarnovo
+City,BG-VIDIN,BG,,Vidin
+City,BG-DOBRICH,BG,,Dobrich
+City,BG-VARNA,BG,,Varna
+City,BG-PLOVDIV,BG,,Plovdiv
+City,BG-PLEVEN,BG,,Pleven
+City,BG-KAZANLAK,BG,,Kazanlak
+City,BG-BURGAS,BG,,Burgas
+City,BG-YAMBOL,BG,,Yambol
+City,BG-STARA_ZAGORA,BG,,Stara Zagora
+City,BG-SILISTRA,BG,,Silistra
+City,BG-GABROVO,BG,,Gabrovo
+City,BG-SOFIA,BG,,Sofia
+City,BG-PERNIK,BG,,Pernik
+City,BD-TEJGAON,BD,,Tejgaon
+City,BD-CHITTAGONG,BD,,Chittagong
+City,BD-DHAKA,BD,,Dhaka
+City,BD-MIRPUR,BD,,Mirpur
+City,BD-KHULNA,BD,,Khulna
+City,BB-BRIDGETOWN,BB,,Bridgetown
+City,BA-TESANJ,BA,,Tesanj
+City,BA-BIJELJINA,BA,,Bijeljina
+City,BA-BANJA_LUKA,BA,,Banja Luka
+City,BA-BRCKO,BA,,Brcko
+City,BA-LUKAVAC,BA,,Lukavac
+City,BA-ZIVINICE,BA,,Zivinice
+City,BA-GRADACAC,BA,,Gradacac
+City,BA-ZENICA,BA,,Zenica
+City,BA-CAZIN,BA,,Cazin
+City,BA-MOSTAR,BA,,Mostar
+City,BA-PRIJEDOR,BA,,Prijedor
+City,BA-TUZLA,BA,,Tuzla
+City,BA-SARAJEVO,BA,,Sarajevo
+City,AZ-NAKHCHIVAN,AZ,,Nakhchivan
+City,AZ-GANJA,AZ,,Ganja
+City,AZ-BAKU,AZ,,Baku
+City,AZ-SUMQAYIT,AZ,,Sumqayit
+City,AW-ORANJESTAD,AW,,Oranjestad
+City,AO-LUANDA,AO,,Luanda
+City,AM-KAPAN,AM,,Kapan
+City,AM-VAGHARSHAPAT,AM,,Vagharshapat
+City,AM-YEREVAN,AM,,Yerevan
+City,AM-GYUMRI,AM,,Gyumri
+City,AL-FIER,AL,,Fier
+City,AL-TIRANA,AL,,Tirana
+City,TR-ADANA,TR,,Adana
+City,TR-KOSEKOY,TR,,Kosekoy
+City,TR-ANTALYA,TR,,Antalya
+City,TR-GAZIANTEP,TR,,Gaziantep
+City,TR-IZMIR,TR,,Izmir
+City,TR-KAYSERI,TR,,Kayseri
+City,TR-ANKARA,TR,,Ankara
+City,TR-SAMSUN,TR,,Samsun
+City,TR-MAGNESIA_AD_SIPYLUM,TR,,Magnesia ad Sipylum
+City,TR-KONYA,TR,,Konya
+City,TR-AFYONKARAHISAR,TR,,Afyonkarahisar
+City,TR-MERSIN,TR,,Mersin
+City,TR-MUGLA,TR,,Mugla
+City,TR-TRABZON,TR,,Trabzon
+City,TR-BURSA,TR,,Bursa
+City,TR-ANTAKYA,TR,,Antakya
+City,TR-ISTANBUL,TR,,Istanbul
+City,TR-DENIZLI,TR,,Denizli
+City,TH-CHON_BURI,TH,,Chon Buri
+City,TH-SONGKHLA,TH,,Songkhla
+City,TH-UBON_RATCHATHANI,TH,,Ubon Ratchathani
+City,TH-NAKHON_PATHOM,TH,,Nakhon Pathom
+City,TH-CHANTHABURI,TH,,Chanthaburi
+City,TH-CHACHOENGSAO,TH,,Chachoengsao
+City,TH-KRATHUM_BAEN,TH,,Krathum Baen
+City,TH-SAKON_NAKHON,TH,,Sakon Nakhon
+City,TH-AYUTTHAYA,TH,,Ayutthaya
+City,TH-LOPBURI,TH,,Lopburi
+City,TH-PATTAYA,TH,,Pattaya
+City,TH-KANCHANABURI,TH,,Kanchanaburi
+City,TH-SI_RACHA,TH,,Si Racha
+City,TH-UDON_THANI,TH,,Udon Thani
+City,TH-PHUKET,TH,,Phuket
+City,TH-SARABURI,TH,,Saraburi
+City,TH-PRACHIN_BURI,TH,,Prachin Buri
+City,TH-HUA_HIN,TH,,Hua Hin
+City,TH-BAN_PHU_LON_NOI,TH,,Ban Phu Lon Noi
+City,TH-NAKHON_SAWAN,TH,,Nakhon Sawan
+City,TH-NAKHON_RATCHASIMA,TH,,Nakhon Ratchasima
+City,TH-YALA,TH,,Yala
+City,TH-RAYONG,TH,,Rayong
+City,TH-BAN_KHLONG_NGAE,TH,,Ban Khlong Ngae
+City,TH-SAMUT_SAKHON,TH,,Samut Sakhon
+City,TH-SUKHOTHAI_THANI,TH,,Sukhothai Thani
+City,TH-NONTHABURI,TH,,Nonthaburi
+City,TH-CHIANG_MAI,TH,,Chiang Mai
+City,TH-BANGKOK,TH,,Bangkok
+City,TH-RATCHABURI,TH,,Ratchaburi
+City,TH-TAK,TH,,Tak
+City,TH-PHITSANULOK,TH,,Phitsanulok
+City,TH-CHIANG_RAI,TH,,Chiang Rai
+City,TH-THANYABURI,TH,,Thanyaburi
+City,TH-SURAT_THANI,TH,,Surat Thani
+City,RU-NOVOSIBIRSK,RU,,Novosibirsk
+City,RU-SYKTYVKAR,RU,,Syktyvkar
+City,RU-KIRISHI,RU,,Kirishi
+City,RU-USSURIYSK,RU,,Ussuriysk
+City,RU-VELIKY_NOVGOROD,RU,,Veliky Novgorod
+City,RU-SEVERODVINSK,RU,,Severodvinsk
+City,RU-KOVROV,RU,,Kovrov
+City,RU-MUROM,RU,,Murom
+City,RU-GELENDZHIK,RU,,Gelendzhik
+City,RU-NAZAROVO,RU,,Nazarovo
+City,RU-YOSHKAR-OLA,RU,,Yoshkar-Ola
+City,RU-NOYABRSK,RU,,Noyabrsk
+City,RU-PECHORA,RU,,Pechora
+City,RU-KHIMKI,RU,,Khimki
+City,RU-VYBORG,RU,,Vyborg
+City,RU-UKHTA,RU,,Ukhta
+City,RU-TIKHORETSK,RU,,Tikhoretsk
+City,RU-ULAN-UDE,RU,,Ulan-Ude
+City,RU-BUZULUK,RU,,Buzuluk
+City,RU-DIVNOGORSK,RU,,Divnogorsk
+City,RU-KIZLYAR,RU,,Kizlyar
+City,RU-SEVERSK,RU,,Seversk
+City,RU-ELEKTROSTAL,RU,,Elektrostal
+City,RU-SERPUKHOV,RU,,Serpukhov
+City,RU-VELIKIYE_LUKI,RU,,Velikiye Luki
+City,RU-TOMSK,RU,,Tomsk
+City,RU-LOSINO-PETROVSKIY,RU,,Losino-Petrovskiy
+City,RU-DEDOVSK,RU,,Dedovsk
+City,RU-BELGOROD,RU,,Belgorod
+City,RU-ORENBURG,RU,,Orenburg
+City,RU-NAKHODKA,RU,,Nakhodka
+City,RU-GORNO-ALTAYSK,RU,,Gorno-Altaysk
+City,RU-TYUMEN,RU,,Tyumen
+City,RU-PETROPAVLOVSK-KAMCHATSKY,RU,,Petropavlovsk-Kamchatsky
+City,RU-YENISEYSK,RU,,Yeniseysk
+City,RU-LOBNYA,RU,,Lobnya
+City,RU-KIROVSK,RU,,Kirovsk
+City,RU-CHELYABINSK,RU,,Chelyabinsk
+City,RU-RUBTSOVSK,RU,,Rubtsovsk
+City,RU-GORODETS,RU,,Gorodets
+City,RU-STERLITAMAK,RU,,Sterlitamak
+City,RU-YALUTOROVSK,RU,,Yalutorovsk
+City,RU-LIPETSK,RU,,Lipetsk
+City,RU-MEGION,RU,,Megion
+City,RU-KOROLEV,RU,,Korolev
+City,RU-POLEVSKOY,RU,,Polevskoy
+City,RU-ARZAMAS,RU,,Arzamas
+City,RU-PIKALYOVO,RU,,Pikalyovo
+City,RU-VLADIVOSTOK,RU,,Vladivostok
+City,RU-BIYSK,RU,,Biysk
+City,RU-TAGANROG,RU,,Taganrog
+City,RU-BELEBEY,RU,,Belebey
+City,RU-NARO-FOMINSK,RU,,Naro-Fominsk
+City,RU-ABAKAN,RU,,Abakan
+City,RU-PUSHKINO,RU,,Pushkino
+City,RU-ALEKSANDROV,RU,,Aleksandrov
+City,RU-PERM,RU,,Perm
+City,RU-KOLOMNA,RU,,Kolomna
+City,RU-RYAZAN,RU,,Ryazan
+City,RU-IVANTEYEVKA,RU,,Ivanteyevka
+City,RU-SAFONOVO,RU,,Safonovo
+City,RU-KRASNOZNAMENSK,RU,,Krasnoznamensk
+City,RU-BORISOGLEBSK,RU,,Borisoglebsk
+City,RU-KSTOVO,RU,,Kstovo
+City,RU-ANAPA,RU,,Anapa
+City,RU-DMITROV,RU,,Dmitrov
+City,RU-KIMRY,RU,,Kimry
+City,RU-ORYOL,RU,,Oryol
+City,RU-KHABAROVSK,RU,,Khabarovsk
+City,RU-PERVOURALSK,RU,,Pervouralsk
+City,RU-KIZILYURT,RU,,Kizilyurt
+City,RU-RASSKAZOVO,RU,,Rasskazovo
+City,RU-NERYUNGRI,RU,,Neryungri
+City,RU-AKSAY,RU,,Aksay
+City,RU-ARMAVIR,RU,,Armavir
+City,RU-REVDA,RU,,Revda
+City,RU-CHERNOGORSK,RU,,Chernogorsk
+City,RU-YEKATERINBURG,RU,,Yekaterinburg
+City,RU-KOMSOMOLSK-ON-AMUR,RU,,Komsomolsk-on-Amur
+City,RU-CHITA,RU,,Chita
+City,RU-KIROV,RU,,Kirov
+City,RU-MEZHDURECHENSK,RU,,Mezhdurechensk
+City,RU-KUMERTAU,RU,,Kumertau
+City,RU-GLAZOV,RU,,Glazov
+City,RU-FRYAZINO,RU,,Fryazino
+City,RU-MIASS,RU,,Miass
+City,RU-GUBKIN,RU,,Gubkin
+City,RU-UFA,RU,,Ufa
+City,RU-DIMITROVGRAD,RU,,Dimitrovgrad
+City,RU-SALAVAT,RU,,Salavat
+City,RU-ELISTA,RU,,Elista
+City,RU-CHUSOVOY,RU,,Chusovoy
+City,RU-STAVROPOL,RU,,Stavropol
+City,RU-OBNINSK,RU,,Obninsk
+City,RU-PSKOV,RU,,Pskov
+City,RU-NYAGAN,RU,,Nyagan
+City,RU-MINUSINSK,RU,,Minusinsk
+City,RU-SAMARA,RU,,Samara
+City,RU-TULA,RU,,Tula
+City,RU-BARNAUL,RU,,Barnaul
+City,RU-KALININGRAD,RU,,Kaliningrad
+City,RU-TOLYATTI,RU,,Tolyatti
+City,RU-ZHELEZNODOROZHNYY,RU,,Zheleznodorozhnyy
+City,RU-NOGINSK,RU,,Noginsk
+City,RU-MYTISHCHI,RU,,Mytishchi
+City,RU-MINERALNYE_VODY,RU,,Mineralnye Vody
+City,RU-PETROZAVODSK,RU,,Petrozavodsk
+City,RU-MOSCOW,RU,,Moscow
+City,RU-LESNOY,RU,,Lesnoy
+City,RU-PROMYSHLENNAYA,RU,,Promyshlennaya
+City,RU-ACHINSK,RU,,Achinsk
+City,RU-VORKUTA,RU,,Vorkuta
+City,RU-PODOLSK,RU,,Podolsk
+City,RU-OMSK,RU,,Omsk
+City,RU-KOPEYSK,RU,,Kopeysk
+City,RU-UCHALY,RU,,Uchaly
+City,RU-SOLNECHNOGORSK,RU,,Solnechnogorsk
+City,RU-KIROVGRAD,RU,,Kirovgrad
+City,RU-SOCHI,RU,,Sochi
+City,RU-ZHIGULEVSK,RU,,Zhigulevsk
+City,RU-ZHELEZNOGORSK,RU,,Zheleznogorsk
+City,RU-BELOVO,RU,,Belovo
+City,RU-BELORECHENSK,RU,,Belorechensk
+City,RU-MELEUZ,RU,,Meleuz
+City,RU-BEREZNIKI,RU,,Berezniki
+City,RU-NOVOCHEBOKSARSK,RU,,Novocheboksarsk
+City,RU-KHASAVYURT,RU,,Khasavyurt
+City,RU-ISTRA,RU,,Istra
+City,RU-VLADIKAVKAZ,RU,,Vladikavkaz
+City,RU-NOVOROSSIYSK,RU,,Novorossiysk
+City,RU-DERBENT,RU,,Derbent
+City,RU-NOVOCHERKASSK,RU,,Novocherkassk
+City,RU-SURGUT,RU,,Surgut
+City,RU-OREKHOVO-ZUYEVO,RU,,Orekhovo-Zuyevo
+City,RU-YESSENTUKI,RU,,Yessentuki
+City,RU-VOLZHSKIY,RU,,Volzhskiy
+City,RU-KURSK,RU,,Kursk
+City,RU-SARATOV,RU,,Saratov
+City,RU-LESOSIBIRSK,RU,,Lesosibirsk
+City,RU-YELETS,RU,,Yelets
+City,RU-SAYANOGORSK,RU,,Sayanogorsk
+City,RU-VOSKRESENSK,RU,,Voskresensk
+City,RU-ZHUKOVSKIY,RU,,Zhukovskiy
+City,RU-KASHIRA,RU,,Kashira
+City,RU-VOLGOGRAD,RU,,Volgograd
+City,RU-NOVOTROITSK,RU,,Novotroitsk
+City,RU-GATCHINA,RU,,Gatchina
+City,RU-TVER,RU,,Tver
+City,RU-PENZA,RU,,Penza
+City,RU-MURMANSK,RU,,Murmansk
+City,RU-BIROBIDZHAN,RU,,Birobidzhan
+City,RU-TIKHVIN,RU,,Tikhvin
+City,RU-NOVY_URENGOY,RU,,Novy Urengoy
+City,RU-SHADRINSK,RU,,Shadrinsk
+City,RU-IVANOVO,RU,,Ivanovo
+City,RU-SARANSK,RU,,Saransk
+City,RU-NIZHNEVARTOVSK,RU,,Nizhnevartovsk
+City,RU-RAMENSKOYE,RU,,Ramenskoye
+City,RU-MAKHACHKALA,RU,,Makhachkala
+City,RU-GROZNY,RU,,Grozny
+City,RU-NIZHNIY_NOVGOROD,RU,,Nizhniy Novgorod
+City,RU-CHEKHOV,RU,,Chekhov
+City,RU-PYATIGORSK,RU,,Pyatigorsk
+City,RU-NAZRAN,RU,,Nazran
+City,RU-KASPIYSK,RU,,Kaspiysk
+City,RU-VORONEZH,RU,,Voronezh
+City,RU-DUBNA,RU,,Dubna
+City,RU-VOLKHOV,RU,,Volkhov
+City,RU-TUAPSE,RU,,Tuapse
+City,RU-BRATSK,RU,,Bratsk
+City,RU-MAGNITOGORSK,RU,,Magnitogorsk
+City,RU-BERDSK,RU,,Berdsk
+City,RU-ULYANOVSK,RU,,Ulyanovsk
+City,RU-BLAGOVESHCHENSK,RU,,Blagoveshchensk
+City,RU-ASTRAKHAN,RU,,Astrakhan
+City,RU-NEFTEKAMSK,RU,,Neftekamsk
+City,RU-DZERZHINSK,RU,,Dzerzhinsk
+City,RU-STARY_OSKOL,RU,,Stary Oskol
+City,RU-YUZHNO-SAKHALINSK,RU,,Yuzhno-Sakhalinsk
+City,RU-KHANTY-MANSIYSK,RU,,Khanty-Mansiysk
+City,RU-KALUGA,RU,,Kaluga
+City,RU-ZLATOUST,RU,,Zlatoust
+City,RU-ORSK,RU,,Orsk
+City,RU-IRKUTSK,RU,,Irkutsk
+City,RU-KLINTSY,RU,,Klintsy
+City,RU-SMOLENSK,RU,,Smolensk
+City,RU-NOVOMOSKOVSK,RU,,Novomoskovsk
+City,RU-KRASNOYARSK,RU,,Krasnoyarsk
+City,RU-VLADIMIR,RU,,Vladimir
+City,RU-ODINTSOVO,RU,,Odintsovo
+City,RU-YURGA,RU,,Yurga
+City,RU-KRASNODAR,RU,,Krasnodar
+City,RU-BIBAYEVO-CHELNY,RU,,Bibayevo-Chelny
+City,RU-ZELENOGORSK,RU,,Zelenogorsk
+City,RU-YAKUTSK,RU,,Yakutsk
+City,RU-NIZHNY_TAGIL,RU,,Nizhny Tagil
+City,RU-STUPINO,RU,,Stupino
+City,RU-ASBEST,RU,,Asbest
+City,RU-ROSTOV-ON-DON,RU,,Rostov-on-Don
+City,RU-BALABANOVO,RU,,Balabanovo
+City,RU-BALAKOVO,RU,,Balakovo
+City,RU-ARKHANGELSK,RU,,Arkhangelsk
+City,RU-DOMODEDOVO,RU,,Domodedovo
+City,RU-AZOV,RU,,Azov
+City,RU-ST_PETERSBURG,RU,,St Petersburg
+City,RU-ZARAYSK,RU,,Zaraysk
+City,RU-URENGOY,RU,,Urengoy
+City,RU-YAROSLAVL,RU,,Yaroslavl
+City,RU-NOVODVINSK,RU,,Novodvinsk
+City,RU-ZARINSK,RU,,Zarinsk
+City,RU-DOLGOPRUDNYY,RU,,Dolgoprudnyy
+City,RU-KOSTROMA,RU,,Kostroma
+City,RU-CHERKESSK,RU,,Cherkessk
+City,RU-NIZHNEUDINSK,RU,,Nizhneudinsk
+City,RU-KAMENSK-SHAKHTINSKIY,RU,,Kamensk-Shakhtinskiy
+City,RU-BRYANSK,RU,,Bryansk
+City,RU-KANEVSKAYA,RU,,Kanevskaya
+City,RU-YEYSK,RU,,Yeysk
+City,RU-RYBINSK,RU,,Rybinsk
+City,RU-YELABUGA,RU,,Yelabuga
+City,RU-KURGAN,RU,,Kurgan
+City,RU-TOSNO,RU,,Tosno
+City,RU-BALASHIKHA,RU,,Balashikha
+City,RU-TAMBOV,RU,,Tambov
+City,RU-CHEREPOVETS,RU,,Cherepovets
+City,RU-KAMYSHIN,RU,,Kamyshin
+City,RU-ANZHERO-SUDZHENSK,RU,,Anzhero-Sudzhensk
+City,RU-LYUBERTSY,RU,,Lyubertsy
+City,RU-KEMEROVO,RU,,Kemerovo
+City,RU-YUGORSK,RU,,Yugorsk
+City,RU-AMURSK,RU,,Amursk
+City,RU-NEVINNOMYSSK,RU,,Nevinnomyssk
+City,RU-VIDNOYE,RU,,Vidnoye
+City,RU-CHEBOKSARY,RU,,Cheboksary
+City,RU-MAYKOP,RU,,Maykop
+City,RU-APATITY,RU,,Apatity
+City,RU-SHCHELKOVO,RU,,Shchelkovo
+City,RU-ANGARSK,RU,,Angarsk
+City,RU-BOR,RU,,Bor
+City,RU-IZHEVSK,RU,,Izhevsk
+City,RU-NOVOKUZNETSK,RU,,Novokuznetsk
+City,RU-NIZHNEKAMSK,RU,,Nizhnekamsk
+City,RU-TUCHKOVO,RU,,Tuchkovo
+City,RU-VOLOGDA,RU,,Vologda
+City,RU-TUYMAZY,RU,,Tuymazy
+City,RU-KRASNOZAVODSK,RU,,Krasnozavodsk
+City,PL-GDYNIA,PL,,Gdynia
+City,PL-TARNOBRZEG,PL,,Tarnobrzeg
+City,PL-OLSZTYN,PL,,Olsztyn
+City,PL-POZNAN,PL,,Poznan
+City,PL-LUBLIN,PL,,Lublin
+City,PL-KIELCE,PL,,Kielce
+City,PL-KRAKOW,PL,,Krakow
+City,PL-KATOWICE,PL,,Katowice
+City,PL-WARSAW,PL,,Warsaw
+City,PL-SZCZECIN,PL,,Szczecin
+City,PL-BYDGOSZCZ,PL,,Bydgoszcz
+City,MY-RAWANG,MY,,Rawang
+City,MY-MALACCA,MY,,Malacca
+City,MY-SERI_KEMBANGAN,MY,,Seri Kembangan
+City,MY-KUANTAN,MY,,Kuantan
+City,MY-KOTA_KINABALU,MY,,Kota Kinabalu
+City,MY-KUALA_TERENGGANU,MY,,Kuala Terengganu
+City,MY-SIBU,MY,,Sibu
+City,MY-IPOH,MY,,Ipoh
+City,MY-SEREMBAN,MY,,Seremban
+City,MY-SUBANG_JAYA,MY,,Subang Jaya
+City,MY-PUCHONG_BATU_DUA_BELAS,MY,,Puchong Batu Dua Belas
+City,MY-KUCHING,MY,,Kuching
+City,MY-GEORGE_TOWN,MY,,George Town
+City,MY-ALOR_STAR,MY,,Alor Star
+City,MY-JOHOR_BAHRU,MY,,Johor Bahru
+City,MY-BATU_PAHAT,MY,,Batu Pahat
+City,MY-BAYAN_LEPAS,MY,,Bayan Lepas
+City,MY-PETALING_JAYA,MY,,Petaling Jaya
+City,MY-CHERAS,MY,,Cheras
+City,MY-BATU_CAVES,MY,,Batu Caves
+City,MY-KOTA_BHARU,MY,,Kota Bharu
+City,MY-MARABU,MY,,Marabu
+City,MY-KAJANG,MY,,Kajang
+City,MY-PERAI,MY,,Perai
+City,MY-KUALA_LUMPUR,MY,,Kuala Lumpur
+City,MY-KLANG,MY,,Klang
+City,MY-SHAH_ALAM,MY,,Shah Alam
+City,KR-BUSAN,KR,,Busan
+City,KR-SEOUL,KR,,Seoul
+City,KR-CHANGWON,KR,,Changwon
+City,KR-HWASEONG-SI,KR,,Hwaseong-si
+City,KR-SUWON,KR,,Suwon
+City,KR-GWANGJU,KR,,Gwangju
+City,KR-DAEGU,KR,,Daegu
+City,KR-JEJU_CITY,KR,,Jeju City
+City,KR-CHEONAN,KR,,Cheonan
+City,KR-INCHEON,KR,,Incheon
+City,KR-DAEJEON,KR,,Daejeon
+City,KR-ULSAN,KR,,Ulsan
+City,KR-JEONJU,KR,,Jeonju
+City,KR-CHEONGJU-SI,KR,,Cheongju-si
+City,JP-KYOTO,JP,,Kyoto
+City,JP-KASUGAI,JP,,Kasugai
+City,JP-NERIMA,JP,,Nerima
+City,JP-OSAKA,JP,,Osaka
+City,JP-SENDAI,JP,,Sendai
+City,JP-MATSUDO,JP,,Matsudo
+City,JP-FUKUOKA,JP,,Fukuoka
+City,JP-OKAYAMA,JP,,Okayama
+City,JP-SAKAI,JP,,Sakai
+City,JP-NAGOYA,JP,,Nagoya
+City,JP-CHIBA,JP,,Chiba
+City,JP-SAGAMIHARA,JP,,Sagamihara
+City,JP-TOKYO,JP,,Tokyo
+City,JP-SETAGAYA,JP,,Setagaya
+City,JP-HIMEJI,JP,,Himeji
+City,JP-KITAKYUSHU,JP,,Kitakyushu
+City,JP-OKAZAKI,JP,,Okazaki
+City,JP-GIFU_CITY,JP,,Gifu City
+City,JP-WAKAYAMA,JP,,Wakayama
+City,JP-TOYAMA,JP,,Toyama
+City,JP-SHIZUOKA,JP,,Shizuoka
+City,JP-KAGOSHIMA,JP,,Kagoshima
+City,JP-HIROSHIMA,JP,,Hiroshima
+City,JP-TAKASAKI,JP,,Takasaki
+City,JP-SAPPORO,JP,,Sapporo
+City,JP-NIIGATA,JP,,Niigata
+City,JP-UTSUNOMIYA,JP,,Utsunomiya
+City,JP-TOYOTA,JP,,Toyota
+City,JP-KOBE,JP,,Kobe
+City,JP-MATSUYAMA,JP,,Matsuyama
+City,JP-SAITAMA,JP,,Saitama
+City,JP-KAWASAKI,JP,,Kawasaki
+City,JP-YOKOHAMA,JP,,Yokohama
+City,IT-PALERMO,IT,,Palermo
+City,IT-CAGLIARI,IT,,Cagliari
+City,IT-MILAN,IT,,Milan
+City,IT-MONZA,IT,,Monza
+City,IT-GENOA,IT,,Genoa
+City,IT-NAPLES,IT,,Naples
+City,IT-ROME,IT,,Rome
+City,IT-VENICE,IT,,Venice
+City,IT-BRESCIA,IT,,Brescia
+City,IT-BERGAMO,IT,,Bergamo
+City,IT-SALERNO,IT,,Salerno
+City,IT-FLORENCE,IT,,Florence
+City,IT-MODENA,IT,,Modena
+City,IT-TREVISO,IT,,Treviso
+City,IT-REGGIO_CALABRIA,IT,,Reggio Calabria
+City,IT-BOLOGNA,IT,,Bologna
+City,IT-PESCARA,IT,,Pescara
+City,IT-VERONA,IT,,Verona
+City,IT-LUCCA,IT,,Lucca
+City,IT-RAVENNA,IT,,Ravenna
+City,IT-PRATO,IT,,Prato
+City,IT-CINISELLO_BALSAMO,IT,,Cinisello Balsamo
+City,IT-RIMINI,IT,,Rimini
+City,IT-MESTRE,IT,,Mestre
+City,IT-MANDURIA,IT,,Manduria
+City,IT-CASORIA,IT,,Casoria
+City,IT-MESSINA,IT,,Messina
+City,IT-BARI,IT,,Bari
+City,IT-CATANIA,IT,,Catania
+City,IT-PARMA,IT,,Parma
+City,IT-TURIN,IT,,Turin
+City,IT-LIVORNO,IT,,Livorno
+City,IT-TARANTO,IT,,Taranto
+City,IT-PADUA,IT,,Padua
+City,IT-TRIESTE,IT,,Trieste
+City,IT-BOLZANO,IT,,Bolzano
+City,ID-BANJARMASIN,ID,,Banjarmasin
+City,ID-MATARAM,ID,,Mataram
+City,ID-BOGOR,ID,,Bogor
+City,ID-JAMBI_CITY,ID,,Jambi City
+City,ID-DENPASAR,ID,,Denpasar
+City,ID-SEMARANG,ID,,Semarang
+City,ID-BALIKPAPAN,ID,,Balikpapan
+City,ID-AMBON_CITY,ID,,Ambon City
+City,ID-LAMPEONG,ID,,Lampeong
+City,ID-TULUNGAGUNG,ID,,Tulungagung
+City,ID-PATI,ID,,Pati
+City,ID-BOJONEGORO,ID,,Bojonegoro
+City,ID-YOGYAKARTA,ID,,Yogyakarta
+City,ID-CIREBON,ID,,Cirebon
+City,ID-JEPARA,ID,,Jepara
+City,ID-SURAKARTA,ID,,Surakarta
+City,ID-PADANG,ID,,Padang
+City,ID-KUDUS,ID,,Kudus
+City,ID-SAMARINDA,ID,,Samarinda
+City,ID-DEPOK,ID,,Depok
+City,ID-TARAKAN,ID,,Tarakan
+City,ID-MADIUN,ID,,Madiun
+City,ID-PALANGKARAYA,ID,,Palangkaraya
+City,ID-MANADO,ID,,Manado
+City,ID-SURABAYA,ID,,Surabaya
+City,ID-PALEMBANG,ID,,Palembang
+City,ID-BATAM,ID,,Batam
+City,ID-BEKASI,ID,,Bekasi
+City,ID-PALU,ID,,Palu
+City,ID-JEMBER,ID,,Jember
+City,ID-PONTIANAK,ID,,Pontianak
+City,ID-MEDAN,ID,,Medan
+City,ID-TASIKMALAYA,ID,,Tasikmalaya
+City,ID-SLEMAN,ID,,Sleman
+City,ID-MALANG,ID,,Malang
+City,ID-BANYUWANGI,ID,,Banyuwangi
+City,ID-PEKANBARU,ID,,Pekanbaru
+City,ID-KUPANG,ID,,Kupang
+City,ID-JAKARTA,ID,,Jakarta
+City,ID-SIDOARJO,ID,,Sidoarjo
+City,ID-BANDUNG,ID,,Bandung
+City,ID-KEDIRI,ID,,Kediri
+City,ID-TANGERANG,ID,,Tangerang
+City,ID-MAKASSAR,ID,,Makassar
+City,ID-DUMAI,ID,,Dumai
+City,HK-KOWLOON,HK,,Kowloon
+City,HK-CENTRAL,HK,,Central
+City,FR-ROUEN,FR,,Rouen
+City,FR-MARSEILLE,FR,,Marseille
+City,FR-NANTERRE,FR,,Nanterre
+City,FR-BREST,FR,,Brest
+City,FR-LE_HAVRE,FR,,Le Havre
+City,FR-BORDEAUX,FR,,Bordeaux
+City,FR-MASSY,FR,,Massy
+City,FR-TOULOUSE,FR,,Toulouse
+City,FR-NANTES,FR,,Nantes
+City,FR-PARIS,FR,,Paris
+City,FR-STRASBOURG,FR,,Strasbourg
+City,FR-MONTPELLIER,FR,,Montpellier
+City,FR-RENNES,FR,,Rennes
+City,FR-ANGERS,FR,,Angers
+City,FR-NICE,FR,,Nice
+City,FR-REIMS,FR,,Reims
+City,FR-ROSNY-SOUS-BOIS,FR,,Rosny-sous-Bois
+City,FR-LYON,FR,,Lyon
+City,FR-CAEN,FR,,Caen
+City,FR-MONTREUIL,FR,,Montreuil
+City,FR-AMIENS,FR,,Amiens
+City,ES-GIRONA,ES,,Girona
+City,ES-GRANADA,ES,,Granada
+City,ES-PATERNA,ES,,Paterna
+City,ES-SANTANDER,ES,,Santander
+City,ES-BILBAO,ES,,Bilbao
+City,ES-LAS_PALMAS_DE_GRAN_CANARIA,ES,,Las Palmas de Gran Canaria
+City,ES-ALGECIRAS,ES,,Algeciras
+City,ES-BADALONA,ES,,Badalona
+City,ES-MURCIA,ES,,Murcia
+City,ES-ALBACETE,ES,,Albacete
+City,ES-CADIZ,ES,,Cadiz
+City,ES-PALMA,ES,,Palma
+City,ES-TERRASSA,ES,,Terrassa
+City,ES-BARCELONA,ES,,Barcelona
+City,ES-SEVILLE,ES,,Seville
+City,ES-OURENSE,ES,,Ourense
+City,ES-VIGO,ES,,Vigo
+City,ES-MADRID,ES,,Madrid
+City,ES-MOTRIL,ES,,Motril
+City,ES-PAMPLONA,ES,,Pamplona
+City,ES-SANTA_CRUZ_DE_TENERIFE,ES,,Santa Cruz de Tenerife
+City,ES-TOLEDO,ES,,Toledo
+City,ES-ZARAGOZA,ES,,Zaragoza
+City,ES-MOLINA_DE_SEGURA,ES,,Molina de Segura
+City,ES-VALENCIA,ES,,Valencia
+City,ES-VALLADOLID,ES,,Valladolid
+City,ES-LLEIDA,ES,,Lleida
+City,ES-TARRAGONA,ES,,Tarragona
+City,ES-BURGOS,ES,,Burgos
+City,ES-JEREZ_DE_LA_FRONTERA,ES,,Jerez de la Frontera
+City,ES-ALICANTE,ES,,Alicante
+City,MX-CMX-MEXICO_CITY,MX,CMX,Mexico City
+City,MX-PUE-PUEBLA_CITY,MX,PUE,Puebla City
+City,MX-BCN-TIJUANA,MX,BCN,Tijuana
+City,MX-TAB-VILLAHERMOSA,MX,TAB,Villahermosa
+City,MX-AGU-AGUASCALIENTES,MX,AGU,Aguascalientes
+City,MX-JAL-ZAPOPAN,MX,JAL,Zapopan
+City,MX-JAL-GUADALAJARA,MX,JAL,Guadalajara
+City,MX-CHH-CHIHUAHUA_CITY,MX,CHH,Chihuahua City
+City,MX-NAY-TEPIC,MX,NAY,Tepic
+City,MX-NLE-MONTERREY,MX,NLE,Monterrey
+City,MX-SON-GUAYMAS,MX,SON,Guaymas
+City,MX-NLE-GUADALUPE,MX,NLE,Guadalupe
+City,MX-BCS-LA_PAZ,MX,BCS,La Paz
+City,MX-CHH-COLONIA_BENITO_JUAREZ,MX,CHH,Colonia Benito Juarez
+City,IN-PB-AMRITSAR,IN,PB,Amritsar
+City,IN-AP-RAJAHMUNDRY,IN,AP,Rajahmundry
+City,IN-TN-ERODE,IN,TN,Erode
+City,IN-TN-CHENNAI,IN,TN,Chennai
+City,IN-GJ-ANAND,IN,GJ,Anand
+City,IN-KL-THRISSUR,IN,KL,Thrissur
+City,IN-MH-AHMEDNAGAR,IN,MH,Ahmednagar
+City,IN-UT-DEHRADUN,IN,UT,Dehradun
+City,IN-RJ-JODHPUR,IN,RJ,Jodhpur
+City,IN-TG-HYDERABAD,IN,TG,Hyderabad
+City,IN-MH-PUNE,IN,MH,Pune
+City,IN-MH-SOLAPUR,IN,MH,Solapur
+City,IN-DL-ALLAHABAD,IN,DL,Allahabad
+City,IN-UP-AGRA,IN,UP,Agra
+City,IN-MH-AURANGABAD,IN,MH,Aurangabad
+City,IN-UP-KANPUR,IN,UP,Kanpur
+City,IN-AP-VISAKHAPATNAM,IN,AP,Visakhapatnam
+City,IN-RJ-KOTA,IN,RJ,Kota
+City,IN-PB-JALANDHAR,IN,PB,Jalandhar
+City,IN-AS-GUWAHATI,IN,AS,Guwahati
+City,IN-KA-GULBARGA,IN,KA,Gulbarga
+City,IN-TG-WARANGAL,IN,TG,Warangal
+City,IN-MH-ULHASNAGAR,IN,MH,Ulhasnagar
+City,IN-GJ-VALSAD,IN,GJ,Valsad
+City,IN-AP-KAKINADA,IN,AP,Kakinada
+City,IN-GJ-MORVI,IN,GJ,Morvi
+City,IN-JH-JAMSHEDPUR,IN,JH,Jamshedpur
+City,IN-UT-ROORKEE,IN,UT,Roorkee
+City,IN-CH-CHANDIGARH,IN,CH,Chandigarh
+City,IN-CT-BHILAI,IN,CT,Bhilai
+City,IN-TN-KARUR,IN,TN,Karur
+City,IN-KL-ERNAKULAM,IN,KL,Ernakulam
+City,IN-KL-KOLLAM,IN,KL,Kollam
+City,IN-GJ-VAPI,IN,GJ,Vapi
+City,IN-WB-HOWRAH,IN,WB,Howrah
+City,IN-TN-COIMBATORE,IN,TN,Coimbatore
+City,IN-HP-SHIMLA,IN,HP,Shimla
+City,IN-TN-SALEM,IN,TN,Salem
+City,IN-TG-KARIMNAGAR,IN,TG,Karimnagar
+City,IN-HR-AMBALA,IN,HR,Ambala
+City,IN-MP-BHOPAL,IN,MP,Bhopal
+City,IN-JH-RANCHI,IN,JH,Ranchi
+City,IN-HR-MEERUT,IN,HR,Meerut
+City,IN-TN-TIRUNELVELI,IN,TN,Tirunelveli
+City,IN-WB-DURGAPUR,IN,WB,Durgapur
+City,IN-MH-JALGAON_JAMOD,IN,MH,Jalgaon Jamod
+City,IN-CT-RAIPUR,IN,CT,Raipur
+City,IN-UP-MORADABAD,IN,UP,Moradabad
+City,IN-PB-LUDHIANA,IN,PB,Ludhiana
+City,IN-AP-VIJAYAWADA,IN,AP,Vijayawada
+City,IN-DL-GORAKHPUR,IN,DL,Gorakhpur
+City,IN-TN-TIRUCHI,IN,TN,Tiruchi
+City,IN-DL-DELHI,IN,DL,Delhi
+City,IN-TN-TIRUPPUR,IN,TN,Tiruppur
+City,IN-KL-KOCHI,IN,KL,Kochi
+City,IN-TR-IMPHAL,IN,TR,Imphal
+City,IN-OR-BHUBANESWAR,IN,OR,Bhubaneswar
+City,IN-MH-NAGPUR,IN,MH,Nagpur
+City,IN-GJ-GANDHIDHAM,IN,GJ,Gandhidham
+City,IN-MH-BHIWANDI,IN,MH,Bhiwandi
+City,IN-KA-MANGALORE,IN,KA,Mangalore
+City,IN-WB-KOLKATA,IN,WB,Kolkata
+City,IN-MZ-AIZAWL,IN,MZ,Aizawl
+City,IN-MP-JABALPUR,IN,MP,Jabalpur
+City,IN-KL-KANNUR,IN,KL,Kannur
+City,IN-MH-KOLHAPUR,IN,MH,Kolhapur
+City,IN-KL-THIRUVANANTHAPURAM,IN,KL,Thiruvananthapuram
+City,IN-AP-NELLORE,IN,AP,Nellore
+City,IN-BR-PATNA,IN,BR,Patna
+City,IN-DL-NOIDA,IN,DL,Noida
+City,IN-HR-GURGAON,IN,HR,Gurgaon
+City,IN-GJ-RAJKOT,IN,GJ,Rajkot
+City,IN-MH-NASHIK,IN,MH,Nashik
+City,IN-UP-LUCKNOW,IN,UP,Lucknow
+City,IN-TG-SECUNDERABAD,IN,TG,Secunderabad
+City,IN-GJ-JUNAGADH,IN,GJ,Junagadh
+City,IN-JK-SRINAGAR,IN,JK,Srinagar
+City,IN-AP-KURNOOL,IN,AP,Kurnool
+City,IN-GJ-JAMNAGAR,IN,GJ,Jamnagar
+City,IN-TG-KHAMMAM,IN,TG,Khammam
+City,IN-MP-INDORE,IN,MP,Indore
+City,IN-KL-KOTTAYAM,IN,KL,Kottayam
+City,IN-MH-THANE,IN,MH,Thane
+City,IN-PY-PUDUCHERRY,IN,PY,Puducherry
+City,IN-WB-SILIGURI,IN,WB,Siliguri
+City,IN-UP-VARANASI,IN,UP,Varanasi
+City,IN-KA-BENGALURU,IN,KA,Bengaluru
+City,IN-PB-PATIALA,IN,PB,Patiala
+City,IN-GJ-AHMEDABAD,IN,GJ,Ahmedabad
+City,IN-JK-JAMMU,IN,JK,Jammu
+City,IN-AP-GUNTUR,IN,AP,Guntur
+City,IN-UT-HALDWANI,IN,UT,Haldwani
+City,IN-HR-ROHTAK,IN,HR,Rohtak
+City,IN-HR-FARIDABAD,IN,HR,Faridabad
+City,IN-HR-SONIPAT,IN,HR,Sonipat
+City,IN-MH-MUMBAI,IN,MH,Mumbai
+City,IN-PB-MOHALI,IN,PB,Mohali
+City,IN-RJ-AJMER,IN,RJ,Ajmer
+City,IN-OR-CUTTACK,IN,OR,Cuttack
+City,IN-RJ-JAIPUR,IN,RJ,Jaipur
+City,IN-GJ-GANDHINAGAR,IN,GJ,Gandhinagar
+City,IN-TN-VELLORE,IN,TN,Vellore
+City,IN-AP-TIRUMALA_-_TIRUPATI,IN,AP,Tirumala - Tirupati
+City,IN-DL-NEW_DELHI,IN,DL,New Delhi
+City,IN-RJ-UDAIPUR,IN,RJ,Udaipur
+City,IN-MH-KALYAN,IN,MH,Kalyan
+City,IN-KA-BELGAUM,IN,KA,Belgaum
+City,IN-HR-KARNAL,IN,HR,Karnal
+City,IN-KA-MYSORE,IN,KA,Mysore
+City,IN-HR-PANIPAT,IN,HR,Panipat
+City,IN-GJ-VADODARA,IN,GJ,Vadodara
+City,IN-KL-MALAPPURAM,IN,KL,Malappuram
+City,IN-TN-NAMAKKAL,IN,TN,Namakkal
+City,IN-TN-MADURAI,IN,TN,Madurai
+City,IN-GJ-JALALPUR,IN,GJ,Jalalpur
+City,IN-KA-HUBLI,IN,KA,Hubli
+City,IN-UP-GHAZIABAD,IN,UP,Ghaziabad
+City,IN-MH-AKOLA,IN,MH,Akola
+City,GB-ENG-LEEDS,GB,ENG,Leeds
+City,GB-ENG-WORCESTER,GB,ENG,Worcester
+City,GB-SCT-ABERDEEN,GB,SCT,Aberdeen
+City,GB-ENG-WALTHAMSTOW,GB,ENG,Walthamstow
+City,GB-ENG-NOTTINGHAM,GB,ENG,Nottingham
+City,GB-ENG-PRESTON,GB,ENG,Preston
+City,GB-ENG-GREENWICH,GB,ENG,Greenwich
+City,GB-ENG-MANCHESTER,GB,ENG,Manchester
+City,GB-ENG-MANSFIELD,GB,ENG,Mansfield
+City,GB-ENG-LINCOLN,GB,ENG,Lincoln
+City,GB-SCT-GLASGOW,GB,SCT,Glasgow
+City,GB-ENG-STOKE-ON-TRENT,GB,ENG,Stoke-on-Trent
+City,GB-ENG-BRADFORD,GB,ENG,Bradford
+City,GB-ENG-LEICESTER,GB,ENG,Leicester
+City,GB-ENG-BECKTON,GB,ENG,Beckton
+City,GB-ENG-BLACKBURN,GB,ENG,Blackburn
+City,GB-ENG-DAGENHAM,GB,ENG,Dagenham
+City,GB-ENG-COVENTRY,GB,ENG,Coventry
+City,GB-ENG-HUDDERSFIELD,GB,ENG,Huddersfield
+City,GB-ENG-OXFORD,GB,ENG,Oxford
+City,GB-ENG-HOVE,GB,ENG,Hove
+City,GB-ENG-NORTHAMPTON,GB,ENG,Northampton
+City,GB-ENG-LANCASTER,GB,ENG,Lancaster
+City,GB-ENG-MILTON_KEYNES,GB,ENG,Milton Keynes
+City,GB-ENG-ISLINGTON,GB,ENG,Islington
+City,GB-ENG-HAYES,GB,ENG,Hayes
+City,GB-ENG-HALIFAX,GB,ENG,Halifax
+City,GB-ENG-SOUTHAMPTON,GB,ENG,Southampton
+City,GB-ENG-WIGAN,GB,ENG,Wigan
+City,GB-ENG-PETERBOROUGH,GB,ENG,Peterborough
+City,GB-ENG-HULL,GB,ENG,Hull
+City,GB-ENG-HACKNEY,GB,ENG,Hackney
+City,GB-ENG-LONDON,GB,ENG,London
+City,GB-ENG-ROMFORD,GB,ENG,Romford
+City,GB-NIR-BELFAST,GB,NIR,Belfast
+City,GB-ENG-ENFIELD_TOWN,GB,ENG,Enfield Town
+City,GB-WLS-CARDIFF,GB,WLS,Cardiff
+City,GB-WLS-NEWPORT,GB,WLS,Newport
+City,GB-ENG-EXETER,GB,ENG,Exeter
+City,GB-ENG-SHEFFIELD,GB,ENG,Sheffield
+City,GB-ENG-MAIDSTONE,GB,ENG,Maidstone
+City,GB-ENG-BRISTOL,GB,ENG,Bristol
+City,GB-ENG-NORWICH,GB,ENG,Norwich
+City,GB-ENG-TIPTON,GB,ENG,Tipton
+City,GB-ENG-BROMLEY,GB,ENG,Bromley
+City,GB-ENG-ILFORD,GB,ENG,Ilford
+City,GB-ENG-BIRMINGHAM,GB,ENG,Birmingham
+City,GB-ENG-BASINGSTOKE,GB,ENG,Basingstoke
+City,GB-ENG-NEWCASTLE_UPON_TYNE,GB,ENG,Newcastle upon Tyne
+City,GB-ENG-DERBY,GB,ENG,Derby
+City,GB-ENG-HARROW,GB,ENG,Harrow
+City,GB-ENG-WOLVERHAMPTON,GB,ENG,Wolverhampton
+City,GB-ENG-ROTHERHAM,GB,ENG,Rotherham
+City,GB-SCT-EDINBURGH,GB,SCT,Edinburgh
+City,GB-ENG-WALSALL,GB,ENG,Walsall
+City,GB-ENG-READING,GB,ENG,Reading
+City,BR-SP-GUARULHOS,BR,SP,Guarulhos
+City,BR-ES-SERRA,BR,ES,Serra
+City,BR-SP-SAO_VICENTE,BR,SP,Sao Vicente
+City,BR-ES-VILA_VELHA,BR,ES,Vila Velha
+City,BR-PB-CAMPINA_GRANDE,BR,PB,Campina Grande
+City,BR-BA-SALVADOR,BR,BA,Salvador
+City,BR-SP-ARARAQUARA,BR,SP,Araraquara
+City,BR-RJ-DUQUE_DE_CAXIAS,BR,RJ,Duque de Caxias
+City,BR-RJ-CABO_FRIO,BR,RJ,Cabo Frio
+City,BR-RJ-BELFORD_ROXO,BR,RJ,Belford Roxo
+City,BR-SP-SANTOS,BR,SP,Santos
+City,BR-BA-ITABUNA,BR,BA,Itabuna
+City,BR-SP-OSASCO,BR,SP,Osasco
+City,BR-CE-FORTALEZA,BR,CE,Fortaleza
+City,BR-RJ-SAO_GONCALO,BR,RJ,Sao Goncalo
+City,BR-PR-CASCAVEL,BR,PR,Cascavel
+City,BR-PA-ANANINDEUA,BR,PA,Ananindeua
+City,BR-RN-NATAL,BR,RN,Natal
+City,BR-RS-CAXIAS_DO_SUL,BR,RS,Caxias do Sul
+City,BR-SC-JOINVILLE,BR,SC,Joinville
+City,BR-MG-MONTES_CLAROS,BR,MG,Montes Claros
+City,BR-PE-RECIFE,BR,PE,Recife
+City,BR-RS-SANTA_MARIA,BR,RS,Santa Maria
+City,BR-RS-CANOAS,BR,RS,Canoas
+City,BR-PE-PETROLINA,BR,PE,Petrolina
+City,BR-MS-CAMPO_GRANDE,BR,MS,Campo Grande
+City,BR-RJ-SAO_JOAO_DE_MERITI,BR,RJ,Sao Joao de Meriti
+City,BR-MG-JUIZ_DE_FORA,BR,MG,Juiz de Fora
+City,BR-PR-CURITIBA,BR,PR,Curitiba
+City,BR-PE-OLINDA,BR,PE,Olinda
+City,BR-SP-BAURU,BR,SP,Bauru
+City,BR-AM-MANAUS,BR,AM,Manaus
+City,BR-RJ-VOLTA_REDONDA,BR,RJ,Volta Redonda
+City,BR-SE-ARACAJU,BR,SE,Aracaju
+City,BR-SC-BLUMENAU,BR,SC,Blumenau
+City,BR-SP-SAO_JOSE_DO_RIO_PRETO,BR,SP,Sao Jose do Rio Preto
+City,BR-MG-BELO_HORIZONTE,BR,MG,Belo Horizonte
+City,BR-SP-LIMEIRA,BR,SP,Limeira
+City,BR-MA-IMPERATRIZ,BR,MA,Imperatriz
+City,BR-RS-NOVO_HAMBURGO,BR,RS,Novo Hamburgo
+City,BR-SC-SAO_JOSE,BR,SC,Sao Jose
+City,BR-RS-PELOTAS,BR,RS,Pelotas
+City,BR-PI-TERESINA,BR,PI,Teresina
+City,BR-PR-LONDRINA,BR,PR,Londrina
+City,BR-SP-SOROCABA,BR,SP,Sorocaba
+City,BR-RJ-RIO_DE_JANEIRO,BR,RJ,Rio de Janeiro
+City,BR-BA-FEIRA_DE_SANTANA,BR,BA,Feira de Santana
+City,BR-RN-MOSSORO,BR,RN,Mossoro
+City,BR-RS-PORTO_ALEGRE,BR,RS,Porto Alegre
+City,BR-SP-CAMPINAS,BR,SP,Campinas
+City,AU-WA-PERTH,AU,WA,Perth
+City,AU-VIC-MITCHAM,AU,VIC,Mitcham
+City,AU-NSW-THORNTON,AU,NSW,Thornton
+City,AU-VIC-DANDENONG,AU,VIC,Dandenong
+City,AU-VIC-CHELTENHAM,AU,VIC,Cheltenham
+City,AU-WA-WEMBLEY,AU,WA,Wembley
+City,AU-QLD-SOUTHPORT,AU,QLD,Southport
+City,AU-QLD-IPSWICH,AU,QLD,Ipswich
+City,AU-NSW-BLACKTOWN,AU,NSW,Blacktown
+City,AU-NSW-LIVERPOOL,AU,NSW,Liverpool
+City,AU-QLD-BRISBANE,AU,QLD,Brisbane
+City,AU-VIC-MELBOURNE,AU,VIC,Melbourne
+City,AU-VIC-BRIGHTON,AU,VIC,Brighton
+City,AU-VIC-CAMBERWELL,AU,VIC,Camberwell
+City,AU-NSW-CROYDON,AU,NSW,Croydon
+City,AU-VIC-DONCASTER,AU,VIC,Doncaster
+City,AU-VIC-NORTH_FITZROY,AU,VIC,North Fitzroy
+City,AU-SA-ADELAIDE,AU,SA,Adelaide
+City,AU-NSW-SYDNEY,AU,NSW,Sydney
+City,VE-O-PORLAMAR,VE,O,Porlamar
+City,VE-F-BARQUISIMETO,VE,F,Barquisimeto
+City,VE-V-MARACAIBO,VE,V,Maracaibo
+City,VE-A-CARACAS,VE,A,Caracas
+City,VE-G-VALENCIA,VE,G,Valencia
+City,VE-D-MARACAY,VE,D,Maracay
+City,VE-N-ALTO_DE_LOS_GODOS,VE,N,Alto de Los Godos
+City,BE-VLG-ANTWERP,BE,VLG,Antwerp
+City,BE-WAL-CHARLEROI,BE,WAL,Charleroi
+City,BE-BRU-BRUSSELS,BE,BRU,Brussels
+City,BE-VLG-MECHELEN,BE,VLG,Mechelen
+City,BE-VLG-BRUGES,BE,VLG,Bruges
+City,BE-WAL-MONS,BE,WAL,Mons
+City,BE-VLG-GHENT,BE,VLG,Ghent
+City,AT-7-INNSBRUCK,AT,7,Innsbruck
+City,AT-9-VIENNA,AT,9,Vienna
+City,AT-6-GRAZ,AT,6,Graz
+City,AR-B-SAN_MIGUEL,AR,B,San Miguel
+City,AR-B-SAN_FERNANDO,AR,B,San Fernando
+City,AR-B-SAN_ISIDRO,AR,B,San Isidro
+City,AR-B-BUENOS_AIRES,AR,B,Buenos Aires
+City,AR-B-BURZACO,AR,B,Burzaco
+City,AR-M-MENDOZA,AR,M,Mendoza
+City,AR-B-MAR_DEL_PLATA,AR,B,Mar del Plata
+City,AR-B-LA_PLATA,AR,B,La Plata
+City,AR-B-ESTEBAN_ECHEVERRIA,AR,B,Esteban Echeverria
+City,AR-F-LA_RIOJA,AR,F,La Rioja
+City,AR-A-SALTA,AR,A,Salta
+City,AR-N-POSADAS,AR,N,Posadas
+City,AR-B-LOMAS_DE_ZAMORA,AR,B,Lomas de Zamora
+City,AR-W-CORRIENTES,AR,W,Corrientes
+City,AR-B-SAN_JUSTO,AR,B,San Justo
+City,AR-B-FLORENCIO_VARELA,AR,B,Florencio Varela
+City,AR-S-SANTA_FE,AR,S,Santa Fe
+City,AR-B-MORON,AR,B,Moron
+City,AR-B-ROSARIO,AR,B,Rosario
+City,AR-B-MARIANO_MORENO,AR,B,Mariano Moreno
+City,AR-B-GENERAL_SAN_MARTIN,AR,B,General San Martin
+City,AR-B-RAMOS_MEJIA,AR,B,Ramos Mejia
+City,AR-B-BERAZATEGUI,AR,B,Berazategui
+City,AR-H-RESISTENCIA,AR,H,Resistencia
+City,AR-B-LANUS,AR,B,Lanus
+City,AR-B-QUILMES,AR,B,Quilmes
+City,AR-E-VILLA_ANGELICA,AR,E,Villa Angelica
+City,AR-B-VICENTE_LOPEZ,AR,B,Vicente Lopez
+City,AR-J-SAN_JUAN,AR,J,San Juan
+City,AR-B-WILDE,AR,B,Wilde
+City,AR-G-SANTIAGO_DEL_ESTERO,AR,G,Santiago del Estero
+City,AR-D-MERLO,AR,D,Merlo
+City,AR-B-ISIDRO_CASANOVA,AR,B,Isidro Casanova
+City,AE-DU-DUBAI,AE,DU,Dubai
+City,AE-AZ-ABU_DHABI,AE,AZ,Abu Dhabi
+City,AE-AJ-AJMAN,AE,AJ,Ajman
+City,AE-SH-SHARJAH,AE,SH,Sharjah
+City,AE-RK-RAS_AL-KHAIMAH,AE,RK,Ras al-Khaimah
+City,AE-FU-FUJAIRAH,AE,FU,Fujairah
+City,AE-AZ-AL_AIN,AE,AZ,Al Ain
