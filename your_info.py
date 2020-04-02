@@ -11,4 +11,4 @@ def your_discord_avatar():
 
 # Webhook
 def homework_webhook():
-    return "https://discordapp.com/api/webhooks/694501718427304011/mrbPP6V0vEoWbLnpU7zwctgT2UNSvJiSBd5j1vtnS1ytQRryRKTNyPJjfISt26Ktf9NR"
+    return ""
