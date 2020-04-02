@@ -71,10 +71,7 @@ class shopify_monitor:
         atc = []
         for i in range(len(size_available)):
             atc.append("[{}]({})".format(size_available[i],atc_url[i]))
-        atc = str(atc).lstrip('[')\
-            .rstrip(']')\
-            .replace('\'','')\
-            .replace(',','\n')
+        atc = '\n'.join(atc)
         embed.add_field(name="Size",value=atc,inline=True)
         webhook.send(embed=embed)
     
@@ -185,7 +182,9 @@ def main():
     website = 'https://www.dope-factory.com'
     url = 'https://www.dope-factory.com/products/nike-air-force-1-type-cq2344-101'
     monitor = shopify_monitor(author, avatar, webhook, url, website)
-    monitor.singele_product(url)
-    monitor.new_product(website)
+    
+    # Choose one mode
+    #monitor.singele_product(url)
+    #monitor.new_product(website)
     
 main()
