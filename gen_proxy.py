@@ -36,6 +36,24 @@ def get_country():
     smart_country.remove('gate')
     smart_country.remove('city')
     
+    # Smart port
+    smart_port = {}
+    old = 'gate'
+    for i in range(len(smart)):
+        new = smart[i].split('.')[0]
+        port = smart[i].split(':')[1]
+        if i == 0:
+            smart_port[f'{new}'] = [port]
+            old = new
+        if old != new and i >=1:
+            smart_port[f'{new}'] = [port]
+            smart_port[f'{old}'].append(smart[i-1].split(':')[1])  
+            old = new
+    smart_port.pop('gate')
+    smart_port.pop('city')
+    with open("smart_port.json","w") as f:
+        json.dump(smart_port,f)
+    
     # Oxylab
     oxylab = pd.read_csv('oxylab.csv')
     oxylab = list(oxylab['Country'].values)
@@ -60,21 +78,32 @@ def smart_gen(amount,country,user,pw):
     with open("country_dict.json",'r') as country_dict:
         country_dict = json.load(country_dict)
     smart_country = country_dict['smart']
+    with open("smart_port.json",'r') as smart_port:
+        smart_port = json.load(smart_port)
     amount = int(amount)
-    if amount > 10000:
-        amount = 10000
     proxy_list = []
     if type(country) == str:
         if country in smart_country:
+            port_begin = int(smart_port[country][0])
+            port_end = int(smart_port[country][1])
+            num_port = port_end-port_begin+1
+            if amount > num_port:
+                amount = num_port
             for i in range(amount):
-                proxy_list.append(f'{country}.smartproxy.com:{i+10000}:{user}:{pw}')
+                proxy_list.append(f'{country}.smartproxy.com:{i+port_begin}:{user}:{pw}')
         else:
             print(f'Invalid country: {country}')
 
     for j in range(len(country)):
+        
         if country[j].lower() in smart_country:
+            port_begin = int(smart_port[country[j]][0])
+            port_end = int(smart_port[country[j]][1])
+            num_port = port_end-port_begin+1
+            if amount > num_port:
+                amount = num_port
             for l in range(amount):
-                proxy_list.append(f'{country[j]}.smartproxy.com:{l+10000}:{user}:{pw}')
+                proxy_list.append(f'{country[j]}.smartproxy.com:{l+port_begin}:{user}:{pw}')
         else:
             print(f'Invalid country: {country[j]}')
             continue
