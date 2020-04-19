@@ -61,7 +61,7 @@ class fake_webhook:
             .add_field(name="Link", value=self.info['tks']['url'])\
             .add_field(name="Profile", value="||"+self.info['tks']['Profile']+"||")\
             .add_field(name="Proxy", value="||"+self.info['tks']['Proxy']+"||")\
-            .add_field(name="Time stamp(utc)", value=datetime.datetime.now().strftime('%Y-%m-%d %I:%M:%S%p'))\
+            .add_field(name="Time stamp(utc)", value=datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S%p'))\
             .add_field(name="Order id", value="||"+self.info['tks']['OrderId']+"||")\
             .add_field(name='Checkout delay',value=self.info['tks']['CheckoutDelay'])
         webhook.send(content,embed=embed)
